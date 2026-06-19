@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "name": "علیرضا",
+    "phone": "09353213233",
+    "province": "Cftjhfd@gmail.com",
+    "title": "فروش کمودور",
+    "description": "فروشنده ام",
+    "images": [
+      "https://github.com/silverspark-ir/Amigastore/blob/main/market-ads.json",
+      "https://github.com/silverspark-ir/Amigastore/blob/main/market-ads.json",
+      "https://github.com/silverspark-ir/Amigastore/blob/main/market-ads.json"
+    ],
+    "verificationCode": "8022",
+    "date": "۱۴۰۵/۳/۳۰",
+    "approved": false,
+    "requests": []
+  }
+]

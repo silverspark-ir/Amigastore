@@ -20,17 +20,10 @@
     ]
   },
   {
-    "name": "رضا",
-    "message": "عرض ادب",
+    "name": "رضا شهیدی",
+    "message": "عرض ادب بزرگوار",
     "date": "۱۴۰۵/۳/۳۰",
-    "approved": false,
-    "replies": []
-  },
-  {
-    "name": "رضا",
-    "message": "عرض ادب",
-    "date": "۱۴۰۵/۳/۳۰",
-    "approved": false,
+    "approved": true,
     "replies": []
   }
 ]

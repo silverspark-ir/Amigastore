@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "shopNumber": 1,
+    "fullName": "علیرضا صداقت",
+    "mobile": "09639639632",
+    "email": "Barani@gmail.com",
+    "address": "شیراز ، بهثت",
+    "shopName": "فروشگاه کمودور",
+    "description": "قطعات کمودور و آناری و سکا",
+    "verificationCode": "4824",
+    "accessCode": "",
+    "approved": false,
+    "date": "۱۴۰۵/۳/۳۱",
+    "products": []
+  }
+]

@@ -31,5 +31,21 @@
         "approved": true
       }
     ]
+  },
+  {
+    "name": "مهدی بیگدلی",
+    "phone": "09129653207",
+    "province": "تهران",
+    "title": "خریدار آمیکا 1200 هستم",
+    "description": "سلام خدمت دوستان عزیز \nیک دستگاه آمیگا 1200 سالم با تجهیزات یا بدون تجهیزات نیازمندم\nلطفا فوری اطلاع دهید",
+    "images": [
+      "https://cdn.imgurl.ir/uploads/i622864_images_-_2026-06-21T140032.538.jpeg",
+      "https://cdn.imgurl.ir/uploads/h33237_images_-_2026-06-21T140046.668.jpeg",
+      "https://cdn.imgurl.ir/uploads/i622864_images_-_2026-06-21T140032.538.jpeg"
+    ],
+    "verificationCode": "4900",
+    "date": "۱۴۰۵/۳/۳۱",
+    "approved": false,
+    "requests": []
   }
 ]

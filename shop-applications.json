@@ -8,8 +8,8 @@
     "shopName": "لددرز",
     "description": "رذپذل",
     "verificationCode": "5015",
-    "accessCode": "",
-    "approved": false,
+    "accessCode": "1234567890987654",
+    "approved": true,
     "date": "۱۴۰۵/۳/۳۱",
     "products": []
   }

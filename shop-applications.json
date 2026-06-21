@@ -1,20 +1,6 @@
 [
   {
     "shopNumber": 1,
-    "fullName": "تتنن",
-    "mobile": "لاننت",
-    "email": "لاننتل",
-    "address": "لتتال",
-    "shopName": "لددرز",
-    "description": "رذپذل",
-    "verificationCode": "5015",
-    "accessCode": "1234567890987654",
-    "approved": false,
-    "date": "۱۴۰۵/۳/۳۱",
-    "products": []
-  },
-  {
-    "shopNumber": 1,
     "fullName": "دپپ",
     "mobile": "تنن",
     "email": "تدد",
@@ -22,8 +8,8 @@
     "shopName": "تپپ",
     "description": "تتدد",
     "verificationCode": "5274",
-    "accessCode": "",
-    "approved": false,
+    "accessCode": "1234567890123456",
+    "approved": true,
     "date": "۱۴۰۵/۳/۳۱",
     "products": []
   }

@@ -6,9 +6,9 @@
     "title": "فروش کمودور",
     "description": "فروشنده ام",
     "images": [
-      "https://github.com/silverspark-ir/Amigastore/blob/main/market-ads.json",
-      "https://github.com/silverspark-ir/Amigastore/blob/main/market-ads.json",
-      "https://github.com/silverspark-ir/Amigastore/blob/main/market-ads.json"
+      "https://cdn.imgurl.ir/uploads/b63187_e0fcead4a7af9dc5be911d976f3acac8.jpg",
+      "https://cdn.imgurl.ir/uploads/x998411_1696399468412_w0vi.png",
+      "https://cdn.imgurl.ir/uploads/x998411_1696399468412_w0vi.png"
     ],
     "verificationCode": "8022",
     "date": "۱۴۰۵/۳/۳۰",
@@ -28,7 +28,7 @@
         "buyerProvince": "همدان",
         "verificationCode": "9960",
         "date": "۱۴۰۵/۳/۳۱",
-        "approved": false
+        "approved": true
       }
     ]
   }

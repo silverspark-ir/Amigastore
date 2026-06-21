@@ -3,7 +3,7 @@
     "name": "بهرامی",
     "message": "درود بر اسپارک عزیز و تبریک بمناسبت افتتاح سایت",
     "date": "۱۴۰۵/۳/۲۹ 20:38:33",
-    "approved": false,
+    "approved": true,
     "replies": [
       {
         "name": "مهدی عزیزپور",
@@ -25,9 +25,9 @@
       },
       {
         "name": "c64spark",
-        "message": "درود \nخوش آمدید",
+        "message": "درود بر همه دوستان",
         "date": "۱۴۰۵/۳/۳۰",
-        "approved": false
+        "approved": true
       },
       {
         "name": "c64spark",
@@ -54,14 +54,14 @@
     "name": "علی",
     "message": "بسیار عالی \nخداقوت",
     "date": "۱۴۰۵/۳/۳۱",
-    "approved": false,
+    "approved": true,
     "replies": []
   },
   {
     "name": "یزدانی",
     "message": "سلام خدمت دوستان عزیز",
     "date": "۱۴۰۵/۳/۳۱",
-    "approved": false,
+    "approved": true,
     "replies": []
   },
   {

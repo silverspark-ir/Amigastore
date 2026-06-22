@@ -33,7 +33,7 @@
     ]
   },
   {
-    "name": "مهدی بیگدلی",
+    "name": "اعتمادی",
     "phone": "09129653207",
     "province": "تهران",
     "title": "خریدار آمیکا 1200 هستم",
@@ -46,22 +46,6 @@
     "verificationCode": "4900",
     "date": "۱۴۰۵/۳/۳۱",
     "approved": true,
-    "requests": []
-  },
-  {
-    "name": "هنن",
-    "phone": "09113213652",
-    "province": "اتنتت",
-    "title": "تننت",
-    "description": "تتتد",
-    "images": [
-      "اتتتت",
-      "اذدن",
-      "تتتت"
-    ],
-    "verificationCode": "4183",
-    "date": "۱۴۰۵/۴/۱",
-    "approved": false,
     "requests": []
   }
 ]

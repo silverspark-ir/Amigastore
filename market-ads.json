@@ -72,12 +72,12 @@
     "description": "سلام\nبرای تکمیل کناب \"Z80 پردازنده شگفت انگیز دهه ۱۹۷۰\" ، از همکار محترم و علاقمند به ویرایشگری و صفحه آرایی کتاب دعوت به عمل می‌آید . (دورکاری)\n\nبا تشکر",
     "images": [
       "https://uploadkon.ir/uploads/251e23_26copilot-image-1770615246214.jpeg",
-      "",
-      ""
+      "https://uploadkon.ir/uploads/251e23_26copilot-image-1770615246214.jpeg ",
+      "https://uploadkon.ir/uploads/251e23_26copilot-image-1770615246214.jpeg "
     ],
     "verificationCode": "3515",
     "date": "۱۴۰۵/۴/۲",
-    "approved": false,
+    "approved": true,
     "requests": []
   }
 ]

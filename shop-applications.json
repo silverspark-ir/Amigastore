@@ -43,5 +43,17 @@
     "shopNumber": "104",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
+  },
+  {
+    "ownerName": "محمد نیک منش",
+    "ownerPhone": "09226543255",
+    "shopName": "شرکت نرم‌افزاری درنا",
+    "category": "software",
+    "description": "نرم‌افزار مدیریت \nنرم‌افزار حسابداری\nپرسنلی و دستمزد",
+    "website": "",
+    "logo": "",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۲",
+    "approved": false
   }
 ]

@@ -82,5 +82,17 @@
     "shopNumber": "",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
+  },
+  {
+    "ownerName": "رضا",
+    "ownerPhone": "09526543258",
+    "shopName": "کمودور",
+    "category": "retrocomputing",
+    "description": "کمودور و اجزا",
+    "website": "http://c64spark.ir",
+    "logo": "",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۲",
+    "approved": false
   }
 ]

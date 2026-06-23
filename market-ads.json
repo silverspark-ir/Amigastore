@@ -12,7 +12,7 @@
     ],
     "verificationCode": "8022",
     "date": "۱۴۰۵/۳/۲۸",
-    "approved": true,
+    "approved": false,
     "requests": [
       {
         "buyerName": "حسینی",
@@ -42,7 +42,7 @@
   },
   {
     "name": "اعتمادی",
-    "phone": "09129653207",
+    "phone": "09024159473",
     "province": "تهران",
     "title": "خریدار آمیکا 1200 هستم",
     "description": "یک دستگاه آمیگا 1200 سالم با تجهیزات یا بدون تجهیزات نیازمندم\nلطفا فوری اطلاع دهید",
@@ -99,7 +99,7 @@
       "",
       ""
     ],
-    "approved": true,
+    "approved": false,
     "violation": false,
     "date": "۱۴۰۵/۴/۲"
   }

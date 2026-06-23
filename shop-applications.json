@@ -83,5 +83,17 @@
     "date": "۱۴۰۵/۴/۲",
     "approved": true,
     "managementCode": "ZVSmOVB4U3qtMPCf"
+  },
+  {
+    "ownerName": "عظیم",
+    "ownerPhone": "09639638521",
+    "shopName": "عطیمی",
+    "category": "hardware",
+    "description": "فروش قطعه",
+    "website": "c64spark.ir",
+    "logo": "",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۲",
+    "approved": false
   }
 ]

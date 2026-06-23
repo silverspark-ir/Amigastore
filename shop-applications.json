@@ -62,7 +62,7 @@
   {
     "ownerName": "مهدی",
     "ownerPhone": "09659329258",
-    "shopName": "مهدی آمیگا",
+    "sho{pName": "مهدی آمیگا",
     "category": "modern-consoles",
     "description": "آمیگا و انواع مدل",
     "website": "",
@@ -72,28 +72,15 @@
     "approved": true
   },
   {
-    "ownerName": "تنتتت",
-    "ownerPhone": "09636542580",
-    "shopName": "Hhh",
-    "category": "electronics",
-    "description": "Vbnbg",
-    "website": "",
-    "logo": "",
-    "shopNumber": "",
-    "date": "۱۴۰۵/۴/۲",
-    "approved": true,
-    "managementCode": "ZVSmOVB4U3qtMPCf"
-  },
-  {
     "ownerName": "عظیم",
     "ownerPhone": "09639638521",
     "shopName": "عطیمی",
     "category": "hardware",
     "description": "فروش قطعه",
-    "website": "c64spark.ir",
+    "website": "",
     "logo": "",
     "shopNumber": "",
     "date": "۱۴۰۵/۴/۲",
-    "approved": false
+    "approved": true
   }
 ]

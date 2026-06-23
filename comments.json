@@ -15,7 +15,7 @@
         "name": "ادمین",
         "message": "تست ۲",
         "date": "۱۴۰۵/۴/۲",
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -29,7 +29,7 @@
         "name": "ادمین",
         "message": "تست ۱",
         "date": "۱۴۰۵/۴/۲",
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -44,7 +44,7 @@
     "name": "ادمین",
     "message": "بزودی آپدیت جدید با قابلیتهای ویژه : ایجاد فروشگاه شخصی در پاساژ رترو \nو آپدیت های مولتی مدیا \nارائه میگردد 💥",
     "date": "۱۴۰۵/۴/۲",
-    "approved": false,
+    "approved": true,
     "replies": []
   }
 ]

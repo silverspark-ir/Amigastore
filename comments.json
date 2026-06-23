@@ -27,7 +27,7 @@
         "name": "ادمین",
         "message": "تست جدید امید",
         "date": "۱۴۰۵/۴/۲",
-        "approved": false
+        "approved": true
       }
     ]
   },
@@ -53,7 +53,7 @@
         "name": "ادمین",
         "message": "تست جدید اسپارک",
         "date": "۱۴۰۵/۴/۲",
-        "approved": false
+        "approved": true
       }
     ]
   },

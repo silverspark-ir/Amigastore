@@ -58,5 +58,17 @@
     "shopNumber": "105",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
+  },
+  {
+    "ownerName": "مهدی",
+    "ownerPhone": "09659329258",
+    "shopName": "مهدی آمیگا",
+    "category": "modern-consoles",
+    "description": "آمیگا و انواع مدل",
+    "website": "",
+    "logo": "",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۲",
+    "approved": false
   }
 ]

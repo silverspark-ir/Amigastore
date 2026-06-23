@@ -46,5 +46,17 @@
     "shopNumber": "104",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
+  },
+  {
+    "ownerName": "خالقی",
+    "ownerPhone": "09165238912",
+    "shopName": "طراحی مدارات الکترونیک",
+    "category": "electronics",
+    "description": "طراحی مدارات الکترونیک\nتولید برد pcb و تکمیل پروژه\nتعمیر مدترات الکترونیک",
+    "website": "",
+    "logo": "",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۲",
+    "approved": false
   }
 ]

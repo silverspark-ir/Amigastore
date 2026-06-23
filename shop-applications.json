@@ -34,5 +34,17 @@
     "shopNumber": "103",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
+  },
+  {
+    "ownerName": "محمد",
+    "ownerPhone": "09549659321",
+    "shopName": "رترو شاپ",
+    "category": "retrocomputing",
+    "description": "شاپینگ 24 ساعته رترو",
+    "website": "",
+    "logo": "",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۲",
+    "approved": false
   }
 ]

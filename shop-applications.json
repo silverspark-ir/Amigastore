@@ -1,26 +1,5 @@
 [
   {
-    "ownerName": "تورج",
-    "ownerPhone": "09369369369",
-    "shopName": "عندا",
-    "category": "software",
-    "description": "مهندسی نرم‌افزار",
-    "date": "۱۴۰۵/۴/۱",
-    "approved": false
-  },
-  {
-    "ownerName": "حمید پیشیار",
-    "ownerPhone": "09171111111",
-    "shopName": "کنسول های پیشرفته",
-    "category": "modern-consoles",
-    "description": "خرید و فروش ps5 و تجهیزات جانبی \nبازیهای ارجینال \nخدمات کپی خور کردن دستگاه\n\nآدرس ، شیراز ، مشیرنو غربی",
-    "website": "",
-    "logo": "https://uploadkon.ir/uploads/8f2d21_26images-2026-06-21T143703-175.jpeg",
-    "shopNumber": "102",
-    "date": "۱۴۰۵/۴/۲",
-    "approved": true
-  },
-  {
     "ownerName": "رترو فیوچر",
     "ownerPhone": "09116546234",
     "shopName": "لابراتوار رتروفیوچر",
@@ -28,7 +7,7 @@
     "description": "هیچ",
     "website": "http://retrolab.ir",
     "logo": "https://uploadkon.ir/uploads/576e22_26Screenshot-۲۰۲۶-۰۶-۲۲-۲۳-۱۳-۳۸-۰۰۰-com-canva-editor-Edited.jpg",
-    "shopNumber": "103",
+    "shopNumber": "101",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
   },
@@ -40,7 +19,7 @@
     "description": "گیم کلاب مدرن ، محیطی دنج \nشیراز خیابان ارم\nساعت کار 16تا 24",
     "website": "",
     "logo": "https://uploadkon.ir/uploads/576e22_26Screenshot-۲۰۲۶-۰۶-۲۲-۲۳-۱۳-۳۸-۰۰۰-com-canva-editor-Edited.jpg",
-    "shopNumber": "104",
+    "shopNumber": "102",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
   },
@@ -52,7 +31,7 @@
     "description": "نرم‌افزار مدیریت \nنرم‌افزار حسابداری\nپرسنلی و دستمزد",
     "website": "",
     "logo": "https://uploadkon.ir/uploads/8f2d21_26images-2026-06-21T143703-175.jpeg",
-    "shopNumber": "100",
+    "shopNumber": "103",
     "date": "۱۴۰۵/۴/۲",
     "approved": true
   }

@@ -33,7 +33,7 @@
         "name": "ادمبن",
         "message": "تست 7",
         "date": "۱۴۰۵/۴/۲",
-        "approved": false
+        "approved": true 
       }
     ]
   },
@@ -62,10 +62,10 @@
         "approved": true
       },
       {
-        "name": "ادبمن",
+        "name": "ادمین",
         "message": "تست 6",
         "date": "۱۴۰۵/۴/۲",
-        "approved": false
+        "approved": true 
       }
     ]
   },
@@ -107,7 +107,7 @@
     "name": "ادمین",
     "message": "تست 3",
     "date": "۱۴۰۵/۴/۲",
-    "approved": false,
+    "approved": true,
     "replies": []
   }
 ]

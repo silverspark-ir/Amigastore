@@ -34,5 +34,17 @@
     "shopNumber": "104",
     "date": "۱۴۰۵/۴/۳",
     "approved": true
+  },
+  {
+    "ownerName": "کامپیوتر مرکزی",
+    "ownerPhone": "09339339332",
+    "shopName": "کامپیوتر مرکزی",
+    "category": "hardware",
+    "description": "سخت افزار کامپیوتر",
+    "website": "https://www.markazi.co/",
+    "logo": "https://uploadkon.ir/uploads/fd3924_26images-19-.png",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۴",
+    "approved": false
   }
 ]

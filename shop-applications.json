@@ -10,5 +10,17 @@
     "shopNumber": "101",
     "date": "۱۴۰۵/۴/۳",
     "approved": true
+  },
+  {
+    "ownerName": "شهر تکنولوژی فافا",
+    "ownerPhone": "09171110000",
+    "shopName": "شهر تکنولوژی فافا",
+    "category": "hardware",
+    "description": "",
+    "website": "https://fafait.net/",
+    "logo": "https://uploadkon.ir/uploads/e45e24_26شهر-فافا.jpg",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۳",
+    "approved": false
   }
 ]

@@ -45,20 +45,5 @@
     "approved": true,
     "violation": true,
     "date": "۱۴۰۵/۴/۲"
-  },
-  {
-    "title": "فایل pcb doc تست شده",
-    "description": "برای تست آزمایشگاهی به انواع مختلف و متفاوت  کارتریج احتیاج است \nمدلهای دیپ سوکت بیشتر مدنظر است \n توافقی یا مشارکت در پروژه",
-    "name": "احمدی",
-    "phone": "09116546234",
-    "province": "فارس",
-    "images": [
-      "https://uploadkon.ir/uploads/c08b23_26034849588a4d4204b1b734d2b84db2eddccc5782e2486.png",
-      "https://uploadkon.ir/uploads/c08b23_26034849588a4d4204b1b734d2b84db2eddccc5782e2486.png",
-      "https://uploadkon.ir/uploads/c08b23_26034849588a4d4204b1b734d2b84db2eddccc5782e2486.png"
-    ],
-    "approved": true,
-    "violation": true,
-    "date": "۱۴۰۵/۴/۳"
   }
 ]

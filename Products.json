@@ -20,5 +20,16 @@
     ],
     "price": 9900000,
     "approved": true
+  },
+  {
+    "name": "کنگفوفلش کمودور با کیس پرینت شده",
+    "description": "کارتریج Kung Fu Flash یک کارتریج مدرن برای کمودور ۶۴/۱۲۸ است که با کارت microSD کار می‌کند.\n\nنکات کلیدی:\n\n· اجرای فایل‌های: CRT، D64، T64، PRG مستقیماً از روی کارت حافظه\n· شبیه‌سازی کارتریج‌های معروف: مانند Action Replay، Final Cartridge III، EasyFlash\n· بدون کابل اضافی: فقط کارتریج را وصل کنید\n· دارای ۳ دکمه: Reset، Menu و Freeze\n· پورت USB: برای انتقال فایل بدون درایور\n· منوی داخلی: برای انتخاب و اجرای آسان فایل‌ها\n\nتوجه: شبیه‌سازی درایو دیسک (D64) با برخی لودرهای سریع سازگاری کامل ندارد.",
+    "images": [
+      "https://i.postimg.cc/htPkrzyk/tfw8b-kungfuflash-c64-img-20201205-230719.jpg",
+      "https://s6.uupload.ir/files/img_۲۰۲۳۰۸۲۸_۱۷۳۸۴۰_52sc.jpg",
+      "https://s6.uupload.ir/files/photo-2023-05-27-23-20-23_dayw.jpg"
+    ],
+    "price": 8800000,
+    "approved": true
   }
 ]

@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "prod-1782464142422",
+    "name": "کنگفوفلش",
+    "price": 0,
+    "image": "https://s6.uupload.ir/files/img_۲۰۲۳۰۸۲۸_۱۷۳۸۴۰_52sc.jpg",
+    "images": [
+      "https://s6.uupload.ir/files/img_۲۰۲۳۰۸۲۸_۱۷۳۸۴۰_52sc.jpg",
+      "https://s6.uupload.ir/files/img_۲۰۲۳۰۸۲۸_۱۷۳۸۴۰_52sc.jpg",
+      "https://s6.uupload.ir/files/img_۲۰۲۳۰۸۲۸_۱۷۳۸۴۰_52sc.jpg"
+    ],
+    "description": "کارتریج عالی و لینظیر",
+    "active": true
+  }
+]

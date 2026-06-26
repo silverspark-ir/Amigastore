@@ -24,5 +24,18 @@
     ],
     "description": "یک کارتریج همه کاره \nکاربردی \nعالی",
     "active": true
+  },
+  {
+    "id": "item-1782505663165",
+    "name": "خروجی تصویر کمودور ۶۴",
+    "price": 2100000,
+    "image": "A7X9bM2k4P8qR5W1zL3",
+    "images": [
+      "A7X9bM2k4P8qR5W1zL3",
+      "A7X9bM2k4P8qR5W1zL3",
+      "A7X9bM2k4P8qR5W1zL3"
+    ],
+    "description": "توضیحات کامل",
+    "active": true
   }
 ]

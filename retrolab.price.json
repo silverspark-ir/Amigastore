@@ -1,1 +1,17 @@
-[]
+[
+  {
+  "prices": {
+    "web-package": 8330000,
+    "minimal": 2023000,
+    "shining": 3383000,
+    "perfect": 5083000,
+    "book1": 204000,
+    "book2": 323000,
+    "album-premium": 4930000,
+    "album-standard": 833000,
+    "ai-course": 7650000
+  },
+  "currency": "تومان",
+  "last_updated": "2025-06-27"
+  }
+]

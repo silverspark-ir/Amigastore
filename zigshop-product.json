@@ -76,5 +76,18 @@
     ],
     "description": "ZX Spectrum Diagnostic ROM تشخیصی حرفهای ZX Spectrum\nرام تشخیصی ZX Spectrum\n\nنسخه فعلی:  نسخه 1.71  تاریخ مستندات: 27-02-2024\nتوضیحات کلی\n\nاین یک ایمیج ROM ویژه برای تشخیص عیب در کامپیوترهای ZX Spectrum است. این رام قادر است بخش های مختلف دستگاه شامل RAM، ROM، صفحه کلید، صدا، ویدیو، ULA و CPU Z80 را تست و خطایابی کند.\nاین ROM عمدتاً برای مدل های 48/16K طراحی شده اما تست های مخصوص مدل های 128K را نیز شامل می شود.\nرام را می توان روی هر سیستم سوییچ ROM نصب کرد؛ با این حال برخی تست ها نیازمند اجرای آن از SMART Card Retroleum هستند.\nZX Spectrum Diagnostic ROM v1.71\nتشخیص حرفه ای خرابی اسپکتروم در چند ثانیه\n\nاگر ZX Spectrum شما روشن نمی شود، تصویر ندارد یا خطای رم دارد، این ROM دقیقاً همان چیزی است که نیاز دارید.\n\nDiagnostic ROM نسخه 1.71 ساخته ی Phil Ruston کامل ترین ابزار تست سخت افزاری برای تمامی مدل های\nZX Spectrum 16K / 48K / 128K / ư / ưA / Ʊ است.\nمناسب برای\nتعمیرکاران حرفه ای\nکلکسیونرها و علاقه مندان رترو\nتست سلامت کامل قبل از فروش یا تعمیرکاران",
     "active": true
+  },
+  {
+    "id": "item-1782569923158",
+    "name": "56 بازی کمودور Commodore 64",
+    "price": 5000000,
+    "image": "https://uploadkon.ir/uploads/7b0727_26template.png",
+    "images": [
+      "https://uploadkon.ir/uploads/7b0727_26template.png",
+      "https://uploadkon.ir/uploads/408a27_26s-l16333331.png",
+      "https://uploadkon.ir/uploads/227027_26s-l500.png"
+    ],
+    "description": "کارتریج معرفی شده یکی از بهترین کارتریج های موجود در بازار است\nاین پکیج عالی دارای 56 بازی معروف و پر فروش دوران کمودور 64 است که بصورت کارتریج ارائه شده است. طراحی مدار کارتریج بسیار پیچیده و از بهترین مواد درجه یک بهره برده و از آی سی مدل دیپ و با کیفیت استفاده شده که ساعت ها برای شما کار خواهد کرد\nبازی ها همه خاطره انگیز و جالب هستند \nBank 1 ( 1-M ) Switch out for Games\n\n1942,Airwolf, Arkanoid, Arkanoid 2, Big Mac, Bomb Jack, Breakthru, Bubble Bobble, Buggy Boy, Cauldron 2 Commando, Dig Dug, Enduro Racer, Frogger 93, Ghost Busters, Ghostsn Goblins, Green Beret, H.E.R.O., Head over Heels, IK+, Ikari Warriors, Impossible Mission, Inspector Gadget, Into the Eagles Nest, Jump man Junior, Leader board Golf , Mario Bros, Master of the lamps..\n\nBank 2 ( M-Z ) Switch in for Gamse\n\nMonty on the run, Mutants, Nebulus, Olli and Lissa, Out Run, Paperboy, Parallax, Park Patrol, Raid over Moscow.River Raid, Rocky Horror Show, Saboteur, Antiriad, Scooby Doo, Sentinel, Short Circuit, Space Invaders , Speedball 2, Spy vs Spy, Spy vs Spy 2, Super Pipeline, Super Zaxxon, Uridium, Wizard or wor, Wizball, Wonderboy, Zeppelin",
+    "active": true
   }
 ]

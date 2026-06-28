@@ -69,6 +69,18 @@
     "logo": "https://uploadkon.ir/uploads/b8fd28_26images-2026-06-28T170830-474.jpeg",
     "shopNumber": "107",
     "date": "۱۴۰۵/۴/۷",
-    "approved": true 
+    "approved": true
+  },
+  {
+    "ownerName": "Zx spectrum",
+    "ownerPhone": "09000000000",
+    "shopName": "برای واگذاری است",
+    "category": "retrocomputing",
+    "description": "برای واگذاری است",
+    "website": "http://zxspectrum.ir",
+    "logo": "https://uploadkon.ir/uploads/d2ec28_26Screenshot-۲۰۲۶-۰۶-۲۸-۱۸-۲۵-۰۵-۳۲۷-com-android-chrome-edit.jpg",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۷",
+    "approved": false
   }
 ]

@@ -12,6 +12,18 @@
     "approved": true
   },
   {
+    "ownerName": "Zx spectrum",
+    "ownerPhone": "09000000000",
+    "shopName": "برای واگذاری است",
+    "category": "retrocomputing",
+    "description": "برای واگذاری است",
+    "website": "http://zxspectrum.ir",
+    "logo": "https://uploadkon.ir/uploads/d2ec28_26Screenshot-۲۰۲۶-۰۶-۲۸-۱۸-۲۵-۰۵-۳۲۷-com-android-chrome-edit.jpg",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۷",
+    "approved": true 
+  },
+  {
     "ownerName": "شهر تکنولوژی فافا",
     "ownerPhone": "09171110000",
     "shopName": "شهر تکنولوژی فافا",
@@ -70,17 +82,5 @@
     "shopNumber": "107",
     "date": "۱۴۰۵/۴/۷",
     "approved": true
-  },
-  {
-    "ownerName": "Zx spectrum",
-    "ownerPhone": "09000000000",
-    "shopName": "برای واگذاری است",
-    "category": "retrocomputing",
-    "description": "برای واگذاری است",
-    "website": "http://zxspectrum.ir",
-    "logo": "https://uploadkon.ir/uploads/d2ec28_26Screenshot-۲۰۲۶-۰۶-۲۸-۱۸-۲۵-۰۵-۳۲۷-com-android-chrome-edit.jpg",
-    "shopNumber": "",
-    "date": "۱۴۰۵/۴/۷",
-    "approved": false
   }
 ]

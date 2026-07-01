@@ -30,5 +30,21 @@
     "active": false,
     "views": 1,
     "createdAt": "2026-07-02T02:06:08.459Z"
+  },
+  {
+    "id": "stamp-1782966047627",
+    "name": "ناصری طلایی",
+    "year": "۱۲۸۸",
+    "circulation": "۱۰۰۰۰",
+    "price": 2000000,
+    "stampType": "used",
+    "image1": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "image2": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "image3": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "marketLink": "Amigastore.ir",
+    "description": "مهرخورده",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-02T04:20:47.627Z"
   }
 ]

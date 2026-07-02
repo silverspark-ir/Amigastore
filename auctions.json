@@ -47,6 +47,6 @@
     ],
     "active": true,
     "views": 0,
-    "paymentVerified": false
+    "paymentVerified": true 
   }
 ]

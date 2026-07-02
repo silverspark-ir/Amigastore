@@ -10,7 +10,13 @@
   "status": "active",
   "createdAt": "2026-07-02T23:27:25.366Z",
   "endsAt": "2026-07-09T23:27:25.366Z",
-  "bids": [],
+  "bids": [
+    {
+      "name": "ادمین",
+      "price": 7000000,
+      "time": "2026-07-02T23:45:06.678Z"
+    }
+  ],
   "active": true,
   "views": 0,
   "paymentVerified": false

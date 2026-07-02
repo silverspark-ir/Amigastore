@@ -79,7 +79,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:23:57.753Z",
-    "paymentVerified": "none",
+    "paymentVerified": false,
     "year": "۷۵۴",
     "circulation": "۶۴۴۴۵",
     "stampType": "mint"

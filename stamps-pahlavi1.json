@@ -13,6 +13,7 @@
     "createdAt": "2026-07-02T22:17:38.520Z",
     "year": "1300",
     "circulation": "50000",
-    "stampType": "used"
+    "stampType": "used",
+    "paymentVerified": false
   }
 ]

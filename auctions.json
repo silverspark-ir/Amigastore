@@ -47,6 +47,15 @@
     ],
     "active": true,
     "views": 0,
-    "paymentVerified": true 
+    "paymentVerified": true
+  },
+  {
+    "id": "auction-1783034845366",
+    "title": "ناصری طلایی",
+    "thumbnail": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "apiUrl": "https://api.github.com/repos/silverspark-ir/Amigastore/contents/A0001.json",
+    "status": "active",
+    "endsAt": "2026-07-09T23:27:25.366Z",
+    "active": true
   }
 ]

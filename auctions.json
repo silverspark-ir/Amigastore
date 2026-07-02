@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "auction-1783016019681",
+    "title": "ناصری طلایی",
+    "type": "stamp",
+    "basePrice": 5000000,
+    "description": "عالی",
+    "images": [
+      "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+      "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+      "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg"
+    ],
+    "status": "active",
+    "createdAt": "2026-07-02T18:13:39.682Z",
+    "endsAt": "2026-07-09T18:13:39.681Z",
+    "paymentDeadline": "2026-07-12T18:13:39.681Z",
+    "paymentStatus": "pending",
+    "bids": [],
+    "active": true,
+    "views": 0
+  }
+]

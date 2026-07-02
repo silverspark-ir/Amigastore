@@ -7,7 +7,12 @@
     "accessCode": "STPS2026ADMINKEY001",
     "verified": true,
     "verifyCode4": "7523",
-    "createdAt": "2026-07-02T16:31:32.581Z"
+    "createdAt": "2026-07-02T16:31:32.581Z",
+    "paymentCardLast4": "2556",
+    "paymentTransactionId": "8569845685",
+    "paymentForAuctionId": "auction-1783034845366",
+    "paymentAmount": 7000000,
+    "paymentDate": "2026-07-03T03:04:24.699Z"
   },
   {
     "id": "member-1783010554813",

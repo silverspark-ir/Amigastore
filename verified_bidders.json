@@ -27,6 +27,11 @@
     "accessCode": "DGqp4VvMUH7sAmBw2tSw",
     "verified": true,
     "verifyCode4": "2304",
-    "createdAt": "2026-07-02T22:04:56.772Z"
+    "createdAt": "2026-07-02T22:04:56.772Z",
+    "paymentCardLast4": "6307",
+    "paymentTransactionId": "856325096325",
+    "paymentForAuctionId": "auction-1783029544292",
+    "paymentAmount": 6300003,
+    "paymentDate": "2026-07-02T22:21:36.378Z"
   }
 ]

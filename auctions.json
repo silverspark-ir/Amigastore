@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "auction-1783010385139",
+    "title": "ناصری طلایی",
+    "type": "stamp",
+    "basePrice": 6000000,
+    "description": "حراج یک هفته ای",
+    "images": [
+      "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+      "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+      "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg"
+    ],
+    "status": "active",
+    "createdAt": "2026-07-02T16:39:45.139Z",
+    "endsAt": "2026-07-09T16:39:45.139Z",
+    "bids": [],
+    "active": true,
+    "views": 0
+  }
+]

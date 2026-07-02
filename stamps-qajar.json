@@ -11,7 +11,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:19:53.955Z",
-    "paymentVerified": "none",
+    "paymentVerified": false,
     "year": "۱۲۰۰",
     "circulation": "۱۲۰۰",
     "stampType": "used"

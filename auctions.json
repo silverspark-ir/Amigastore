@@ -15,7 +15,13 @@
     "endsAt": "2026-07-02T18:23:39.681Z",
     "paymentDeadline": "2026-07-12T18:13:39.681Z",
     "paymentStatus": "pending",
-    "bids": [],
+    "bids": [
+      {
+        "name": "محمدی",
+        "price": 6000000,
+        "time": "2026-07-02T18:18:25.304Z"
+      }
+    ],
     "active": true,
     "views": 0
   }

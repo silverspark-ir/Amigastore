@@ -11,7 +11,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T04:34:02.850Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "1325",
     "circulation": "1000",
     "stampType": "mint"
@@ -45,7 +45,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T04:36:41.368Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "1328",
     "circulation": "2000",
     "stampType": "mint"
@@ -62,7 +62,7 @@
     "active": true,
     "views": 1,
     "createdAt": "2026-07-03T04:38:03.971Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "1330",
     "circulation": "2000",
     "stampType": "mint"
@@ -79,7 +79,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:08:32.018Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "۲۳۴۰",
     "circulation": "۲۰۰",
     "stampType": "used"

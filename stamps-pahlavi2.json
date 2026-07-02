@@ -45,7 +45,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T04:36:41.368Z",
-    "paymentVerified": "none",
+    "paymentVerified": false,
     "year": "1328",
     "circulation": "2000",
     "stampType": "mint"

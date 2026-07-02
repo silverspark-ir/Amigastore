@@ -62,7 +62,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:22:51.087Z",
-    "paymentVerified": "none",
+    "paymentVerified": false,
     "year": "۶۶",
     "circulation": "۶۶",
     "stampType": "used"

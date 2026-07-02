@@ -25,6 +25,6 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:54:57.803Z",
-    "paymentVerified": "none"
+    "paymentVerified": false
   }
 ]

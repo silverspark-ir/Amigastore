@@ -13,7 +13,7 @@
     "status": "active",
     "createdAt": "2026-06-25T17:23:39.682Z",
     "endsAt": "2026-07-02T18:23:39.681Z",
-    "paymentDeadline": "2026-07-12T18:13:39.681Z",
+    "paymentDeadline": "2026-07-02T18:33:39.681Z",
     "paymentStatus": "pending",
     "bids": [
       {

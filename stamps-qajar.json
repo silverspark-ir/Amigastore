@@ -28,7 +28,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:20:47.363Z",
-    "paymentVerified": "none",
+    "paymentVerified": false,
     "year": "۱۱۰۰",
     "circulation": "۱۱۰۰",
     "stampType": "mint"
@@ -45,7 +45,7 @@
     "active": true,
     "views": 0,
     "createdAt": "2026-07-03T05:21:55.801Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "۵۵",
     "circulation": "۶۶",
     "stampType": "mint"

@@ -20,7 +20,16 @@
     "status": "active",
     "createdAt": "2026-07-02T14:39:51.492Z",
     "endsAt": "2026-07-09T14:39:51.492Z",
-    "bids": [],
+    "bids": [
+      {
+        "name": "حسن",
+        "phone": "08529656321",
+        "price": 4050000,
+        "verified": false,
+        "verifyCode": "1448",
+        "time": "2026-07-02T14:46:23.087Z"
+      }
+    ],
     "active": true,
     "views": 0
   }

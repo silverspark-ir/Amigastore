@@ -32,5 +32,22 @@
     "year": "1940",
     "circulation": "1",
     "stampType": "mint"
+  },
+  {
+    "id": "item-1783229273220",
+    "name": "متصرفات رایش - چک",
+    "price": 700000,
+    "image1": "https://cdn.imgurl.ir/uploads/t367372_Screenshot_------_files.fileexorer.jpg",
+    "image2": "",
+    "image3": "",
+    "marketLink": "",
+    "description": "متصرفات رایش - تصویر هیتلر",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-05T05:27:53.220Z",
+    "paymentVerified": "none",
+    "year": "1944",
+    "circulation": "1",
+    "stampType": "mint"
   }
 ]

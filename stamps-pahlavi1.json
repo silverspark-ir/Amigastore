@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "item-1783223580670",
+    "name": "رضاشاه - تک",
+    "price": 1100000,
+    "image1": "https://cdn.imgurl.ir/uploads/c074940_Screenshot_------_files.fileexorer.jpg",
+    "image2": "",
+    "image3": "",
+    "marketLink": "",
+    "description": "رضاشاه ـ سری دیناری با روچاپ پست ایرانیان",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-05T03:53:00.670Z",
+    "paymentVerified": "none",
+    "year": "۱۳۱۴",
+    "circulation": "۱",
+    "stampType": "mint"
+  }
+]

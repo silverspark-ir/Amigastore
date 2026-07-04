@@ -49,5 +49,22 @@
     "year": "1944",
     "circulation": "1",
     "stampType": "mint"
+  },
+  {
+    "id": "item-1783229443113",
+    "name": "آلمان رایش",
+    "price": 3200000,
+    "image1": "https://cdn.imgurl.ir/uploads/o584814_Screenshot_------_files.fileexorer.jpg",
+    "image2": "",
+    "image3": "",
+    "marketLink": "",
+    "description": "سری تصویری هیتلر ، رایش آلمان",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-05T05:30:43.113Z",
+    "paymentVerified": "none",
+    "year": "1941",
+    "circulation": "1",
+    "stampType": "mint"
   }
 ]

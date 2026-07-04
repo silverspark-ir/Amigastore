@@ -32,5 +32,22 @@
     "year": "۱۲۶۸",
     "circulation": "۱",
     "stampType": "mint"
+  },
+  {
+    "id": "item-1783223067080",
+    "name": "مظفرالدین شاه - سری کاغذ سفید",
+    "price": 2500000,
+    "image1": "https://cdn.imgurl.ir/uploads/f670055_Screenshot_------_files.fileexorer.jpg",
+    "image2": "",
+    "image3": "",
+    "marketLink": "",
+    "description": "مظفرالدین شاه - سری کاغذ سفید",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-05T03:44:27.081Z",
+    "paymentVerified": "none",
+    "year": "۱۲۷۶",
+    "circulation": "۱",
+    "stampType": "mint"
   }
 ]

@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "auction-1783227729410",
+    "title": "احمد شاه تصویر کوچک",
+    "thumbnail": "https://cdn.imgurl.ir/uploads/e565532_Screenshot_------_files.fileexorer.jpg",
+    "apiUrl": "https://api.github.com/repos/silverspark-ir/Amigastore/contents/A0002.json",
+    "status": "active",
+    "endsAt": "2026-07-12T05:02:09.411Z",
+    "active": true
+  }
+]

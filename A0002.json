@@ -10,7 +10,13 @@
   "status": "active",
   "createdAt": "2026-07-05T05:02:09.410Z",
   "endsAt": "2026-07-12T05:02:09.411Z",
-  "bids": [],
+  "bids": [
+    {
+      "name": "امیررضا محدی",
+      "price": 1500001,
+      "time": "2026-07-05T05:09:37.994Z"
+    }
+  ],
   "active": true,
   "views": 0,
   "paymentVerified": false

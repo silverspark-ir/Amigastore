@@ -1,0 +1,17 @@
+{
+  "id": "auction-1783227729410",
+  "title": "احمد شاه تصویر کوچک",
+  "type": "stamp",
+  "basePrice": 1500000,
+  "description": "احمدشاه تصویر کوچک ، دوتایی چهار قرانی ، کیفیت عالی",
+  "images": [
+    "https://cdn.imgurl.ir/uploads/e565532_Screenshot_------_files.fileexorer.jpg"
+  ],
+  "status": "active",
+  "createdAt": "2026-07-05T05:02:09.410Z",
+  "endsAt": "2026-07-12T05:02:09.411Z",
+  "bids": [],
+  "active": true,
+  "views": 0,
+  "paymentVerified": false
+}

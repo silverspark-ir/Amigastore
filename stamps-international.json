@@ -100,5 +100,22 @@
     "year": "1923",
     "circulation": "1",
     "stampType": "mint"
+  },
+  {
+    "id": "item-1783230074991",
+    "name": "صلیب شکسته کوچک - جنرال گاورنمنت",
+    "price": 7200000,
+    "image1": "https://cdn.imgurl.ir/uploads/t801895_Screenshot_------_files.fileexorer.jpg",
+    "image2": "",
+    "image3": "",
+    "marketLink": "",
+    "description": "صلیب شکسته جنرال گاورنمنت - کوچک",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-05T05:41:14.991Z",
+    "paymentVerified": "none",
+    "year": "1940",
+    "circulation": "1",
+    "stampType": "mint"
   }
 ]

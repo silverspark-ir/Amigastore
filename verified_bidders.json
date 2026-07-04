@@ -13,40 +13,5 @@
     "paymentForAuctionId": "auction-1783034845366",
     "paymentAmount": 7000000,
     "paymentDate": "2026-07-03T03:04:24.699Z"
-  },
-  {
-    "id": "member-1783010554813",
-    "name": "محمدی",
-    "phone": "071185236985",
-    "postalCode": "8523696523",
-    "accessCode": "coTtR3R9TtemXLghWO9E",
-    "verified": true,
-    "verifyCode4": "1869",
-    "createdAt": "2026-07-02T16:42:34.813Z"
-  },
-  {
-    "id": "member-1783029896772",
-    "name": "ناصر محمدزاده",
-    "phone": "09339668585",
-    "postalCode": "7121258698",
-    "accessCode": "DGqp4VvMUH7sAmBw2tSw",
-    "verified": true,
-    "verifyCode4": "2304",
-    "createdAt": "2026-07-02T22:04:56.772Z",
-    "paymentCardLast4": "6307",
-    "paymentTransactionId": "856325096325",
-    "paymentForAuctionId": "auction-1783029544292",
-    "paymentAmount": 6300003,
-    "paymentDate": "2026-07-02T22:21:36.378Z"
-  },
-  {
-    "id": "member-1783127747161",
-    "name": "رضایی",
-    "phone": "09369342323",
-    "postalCode": "5236923074",
-    "accessCode": "G9dUDmGOazcRsxVumB3A",
-    "verified": false,
-    "verifyCode4": "4286",
-    "createdAt": "2026-07-04T01:15:47.161Z"
   }
-]
+ ]

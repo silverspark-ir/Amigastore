@@ -1,3 +1,4 @@
+
 [
   {
     "id": "member-1783009892581",
@@ -30,7 +31,7 @@
     "phone": "09171057743",
     "postalCode": "7196876318",
     "accessCode": "Q7W5HMBVWiUGP9swMz8T",
-    "verified": false,
+    "verified": true,
     "verifyCode4": "2729",
     "createdAt": "2026-07-06T17:40:05.008Z"
   }

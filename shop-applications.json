@@ -93,6 +93,18 @@
     "logo": "https://uploadkon.ir/uploads/153930_26Screenshot-۲۰۲۶-۰۶-۳۰-۲۳-۲۵-۱۳-۰۹۴-com-android-chrome-edit.jpg",
     "shopNumber": "108",
     "date": "۱۴۰۵/۴/۹",
-    "approved": true 
+    "approved": true
+  },
+  {
+    "ownerName": "اعتمادی",
+    "ownerPhone": "09024159473",
+    "shopName": "تمبرسِت",
+    "category": "other",
+    "description": "",
+    "website": "http://bookbrand.ir",
+    "logo": "https://uploadkon.ir/uploads/52d209_26IMG-۲۰۲۶۰۷۰۲-۰۸۵۴۵۴.png",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۴/۱۸",
+    "approved": false
   }
 ]

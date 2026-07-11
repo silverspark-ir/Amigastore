@@ -185,5 +185,22 @@
     "year": "1942",
     "circulation": "1",
     "stampType": "mint"
+  },
+  {
+    "id": "item-1783791767753",
+    "name": "آلمان شرقی ـ مشاهیر",
+    "price": 79000000,
+    "image1": "https://cdn.imgurl.ir/uploads/p1542_IMG___Edited_Edited.jpg",
+    "image2": "https://cdn.imgurl.ir/uploads/p1542_IMG___Edited_Edited.jpg",
+    "image3": "https://cdn.imgurl.ir/uploads/p1542_IMG___Edited_Edited.jpg",
+    "marketLink": "",
+    "description": "سری کامل ـ تعداد زیادی از تمبرها گوشه ورق هستند و مجموعه به این شکل بسیار نایاب است .. قیمت در کانالوگ اسکات ۵۰۰ یورو است .. این مجموعه درحال حاضر متعلق به تمبرسِت می‌باشد و عکسهایی که اشخاص غیرمجاز در شبکه های مجازی گذاشته اند ، همگی فیک هستند",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-11T17:42:47.753Z",
+    "paymentVerified": "none",
+    "year": "19؟؟",
+    "circulation": "1",
+    "stampType": "mint"
   }
 ]

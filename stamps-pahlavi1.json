@@ -11,7 +11,7 @@
     "active": true,
     "views": 1,
     "createdAt": "2026-07-05T03:53:00.670Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "۱۳۱۴",
     "circulation": "۱",
     "stampType": "mint"
@@ -28,7 +28,7 @@
     "active": true,
     "views": 1,
     "createdAt": "2026-07-05T03:57:47.481Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "۱۳۱۴",
     "circulation": "۱",
     "stampType": "mint"
@@ -45,7 +45,7 @@
     "active": true,
     "views": 1,
     "createdAt": "2026-07-05T04:00:45.135Z",
-    "paymentVerified": false,
+    "paymentVerified": "none",
     "year": "۱۳۰۵",
     "circulation": "۱",
     "stampType": "mint"

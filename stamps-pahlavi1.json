@@ -11,7 +11,7 @@
     "active": true,
     "views": 1,
     "createdAt": "2026-07-05T03:53:00.670Z",
-    "paymentVerified": "none",
+    "paymentVerified": false,
     "year": "۱۳۱۴",
     "circulation": "۱",
     "stampType": "mint"

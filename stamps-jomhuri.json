@@ -25,7 +25,12 @@
         "time": "2026-07-16T01:17:31.664Z"
       }
     ],
-    "purchaseRequest": null,
+    "purchaseRequest": {
+      "accessCode": "STPS2026ADMINKEY001",
+      "province": "",
+      "city": "",
+      "time": "2026-07-16T01:18:33.483Z"
+    },
     "purchaseVerified": false,
     "sellerPaid": false
   }

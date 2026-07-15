@@ -15,7 +15,13 @@
     "createdAt": "2026-07-16T00:07:26.847Z",
     "sellerAccessCode": "STPS2026ADMINKEY001",
     "sellerPostalCode": "7424123215",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "name": "ادمین",
+        "price": 1500000,
+        "time": "2026-07-16T00:09:51.345Z"
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false

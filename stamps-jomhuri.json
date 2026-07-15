@@ -16,7 +16,16 @@
     "sellerAccessCode": "Rosn2QWfWEUTPy7RqBMo",
     "sellerProvince": "فارس",
     "sellerCity": "شیراز",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "accessCode": "Ext5yUCbmYimEoLP2SWf",
+        "name": "محمد حقی",
+        "province": "تهران",
+        "city": "تهران",
+        "price": 1500000,
+        "time": "2026-07-16T01:58:37.774Z"
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false

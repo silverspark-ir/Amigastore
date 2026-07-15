@@ -16,7 +16,15 @@
     "sellerAccessCode": "STPS2026ADMINKEY001",
     "sellerProvince": "",
     "sellerCity": "",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "accessCode": "STPS2026ADMINKEY001",
+        "province": "",
+        "city": "",
+        "price": 1000000,
+        "time": "2026-07-16T01:17:31.664Z"
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false

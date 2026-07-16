@@ -48,7 +48,16 @@
     "sellerId": "member-1784230922851",
     "sellerProvince": "فارس",
     "sellerCity": "شیراز",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "buyerId": "member-1784230986501",
+        "name": "محمد نجف پور",
+        "price": 4000000,
+        "time": "2026-07-17T00:00:31.820Z",
+        "approved": false,
+        "disabled": false
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false,

@@ -36,8 +36,8 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {

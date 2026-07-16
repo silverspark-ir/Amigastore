@@ -22,7 +22,7 @@
         "name": "سهیل مرادی",
         "price": 2300000,
         "time": "2026-07-16T19:58:16.701Z",
-        "approved": false,
+        "approved": true,
         "disabled": false
       }
     ],
@@ -54,7 +54,7 @@
         "name": "سهیل مرادی",
         "price": 65000000,
         "time": "2026-07-16T19:58:38.836Z",
-        "approved": false,
+        "approved": true,
         "disabled": false
       }
     ],
@@ -86,7 +86,7 @@
         "name": "سهیل مرادی",
         "price": 9000000,
         "time": "2026-07-16T19:59:16.869Z",
-        "approved": false,
+        "approved": true,
         "disabled": false
       }
     ],

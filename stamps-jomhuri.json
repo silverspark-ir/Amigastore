@@ -35,8 +35,8 @@
       "city": "تهران",
       "time": "2026-07-16T14:08:02.754Z"
     },
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   }
 ]

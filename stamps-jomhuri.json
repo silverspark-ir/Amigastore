@@ -72,6 +72,16 @@
         "city": "شیراز",
         "price": 5000000,
         "time": "2026-07-16T15:52:47.300Z"
+      },
+      {
+        "buyerId": "member-1784167038707",
+        "name": "محمد حقی",
+        "province": "تهران",
+        "city": "تهران",
+        "price": 5000000,
+        "time": "2026-07-16T16:08:16.882Z",
+        "approved": false,
+        "disabled": false
       }
     ],
     "purchaseRequest": null,

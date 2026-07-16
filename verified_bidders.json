@@ -25,8 +25,13 @@
     "accessCode": "jXJ7MWIrlRt1l1AqomSd",
     "verified": true,
     "verifyCode4": "3129",
-    "negativeScore": 0,
-    "negativeScoreDetails": [],
+    "negativeScore": 1,
+    "negativeScoreDetails": [
+      {
+        "itemId": "user-1784231605857",
+        "type": "not_as_described"
+      }
+    ],
     "createdAt": "2026-07-16T19:43:06.501Z"
   },
   {

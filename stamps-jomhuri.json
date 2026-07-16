@@ -63,8 +63,8 @@
       "name": "ادمین",
       "time": "2026-07-16T17:53:00.684Z"
     },
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   }
 ]

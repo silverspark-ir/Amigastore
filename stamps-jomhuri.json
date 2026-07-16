@@ -60,8 +60,8 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {
@@ -110,8 +110,8 @@
       "name": "محمد حقی",
       "time": "2026-07-16T18:41:38.070Z"
     },
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {
@@ -137,8 +137,8 @@
       "name": "محمد حقی",
       "time": "2026-07-16T18:48:18.084Z"
     },
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {

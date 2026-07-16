@@ -141,7 +141,11 @@
     "sellerProvince": "فارس",
     "sellerCity": "شیراز",
     "discountRequests": [],
-    "purchaseRequest": null,
+    "purchaseRequest": {
+      "buyerId": "member-1784231076264",
+      "name": "سهیل مرادی",
+      "time": "2026-07-17T00:14:13.750Z"
+    },
     "purchaseVerified": false,
     "sellerPaid": false,
     "buyerFeedback": ""

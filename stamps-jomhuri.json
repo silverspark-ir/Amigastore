@@ -28,7 +28,7 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
+    "purchaseVerified": true,
     "sellerPaid": false,
     "buyerFeedback": ""
   },

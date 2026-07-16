@@ -29,7 +29,7 @@
     ],
     "purchaseRequest": null,
     "purchaseVerified": true,
-    "sellerPaid": false,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {

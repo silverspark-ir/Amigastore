@@ -48,7 +48,16 @@
     "sellerId": "member-1784230986501",
     "sellerProvince": "گیلان",
     "sellerCity": "رشت",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "buyerId": "member-1784231076264",
+        "name": "سهیل مرادی",
+        "price": 65000000,
+        "time": "2026-07-16T19:58:38.836Z",
+        "approved": false,
+        "disabled": false
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false,

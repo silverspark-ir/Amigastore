@@ -26,20 +26,7 @@
     "verified": true,
     "verifyCode4": "3129",
     "negativeScore": 0,
-    "negativeScoreDetails": [
-      {
-        "itemId": "user-1784231605857",
-        "type": ""
-      },
-      {
-        "itemId": "user-1784231750532",
-        "type": ""
-      },
-      {
-        "itemId": "user-1784231802390",
-        "type": ""
-      }
-    ],
+    "negativeScoreDetails": [],
     "createdAt": "2026-07-16T19:43:06.501Z"
   },
   {

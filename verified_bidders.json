@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "member-1784230922851",
+    "name": "ادمین ۳",
+    "phone": "09369342466",
+    "province": "فارس",
+    "city": "شیراز",
+    "address": "بعثت",
+    "postalCode": "۷۶۵۶۷۵۳۳۶۸",
+    "accessCode": "qvG81uLxBT6qZ0txjK2Y",
+    "verified": false,
+    "verifyCode4": "3753",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "createdAt": "2026-07-16T19:42:02.851Z"
+  }
+]

@@ -16,7 +16,16 @@
     "sellerId": "member-1784167038707",
     "sellerProvince": "تهران",
     "sellerCity": "تهران",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "buyerId": "member-1784164813980",
+        "name": "احمد حسینی",
+        "price": 3500000,
+        "time": "2026-07-16T17:03:07.987Z",
+        "approved": false,
+        "disabled": false
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false,

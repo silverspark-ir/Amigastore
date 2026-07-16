@@ -67,5 +67,28 @@
     "purchaseVerified": false,
     "sellerPaid": false,
     "buyerFeedback": ""
+  },
+  {
+    "id": "user-1784227046973",
+    "itemType": "تمبر",
+    "name": "ناصری طلایی",
+    "price": 8000000,
+    "year": "",
+    "country": "",
+    "image1": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "image2": "",
+    "image3": "",
+    "description": "نو ، بدون چسب",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-16T18:37:26.973Z",
+    "sellerId": "member-1784164813980",
+    "sellerProvince": "فارس",
+    "sellerCity": "شیراز",
+    "discountRequests": [],
+    "purchaseRequest": null,
+    "purchaseVerified": false,
+    "sellerPaid": false,
+    "buyerFeedback": ""
   }
 ]

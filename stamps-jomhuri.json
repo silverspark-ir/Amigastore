@@ -27,8 +27,8 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {
@@ -59,8 +59,8 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {
@@ -91,8 +91,8 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {

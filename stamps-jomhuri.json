@@ -31,7 +31,7 @@
         "price": 4500000,
         "time": "2026-07-16T17:04:38.655Z",
         "approved": true,
-        "disabled": false,
+        "disabled": true,
         "approvedAt": "2026-07-16T17:06:19.593Z"
       }
     ],

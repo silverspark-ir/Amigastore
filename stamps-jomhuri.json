@@ -90,8 +90,8 @@
       "name": "محمد حقی",
       "time": "2026-07-16T18:04:12.318Z"
     },
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   }
 ]

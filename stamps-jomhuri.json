@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "user-1784210757358",
+    "itemType": "تمبر",
+    "name": "ناصری طلایی",
+    "price": 11000000,
+    "year": "",
+    "country": "",
+    "image1": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "image2": "",
+    "image3": "",
+    "description": "سری کامل ناصری طلایی - تخفیف میدم",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-16T14:05:57.358Z",
+    "sellerAccessCode": "Rosn2QWfWEUTPy7RqBMo",
+    "sellerProvince": "فارس",
+    "sellerCity": "شیراز",
+    "sellerName": "",
+    "discountRequests": [],
+    "purchaseRequest": null,
+    "purchaseVerified": false,
+    "sellerPaid": false,
+    "buyerFeedback": ""
+  }
+]

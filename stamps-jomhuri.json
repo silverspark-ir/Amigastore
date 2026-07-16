@@ -76,7 +76,18 @@
     "sellerId": "member-1784167038707",
     "sellerProvince": "تهران",
     "sellerCity": "تهران",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "buyerId": "member-1783009892581",
+        "name": "ادمین",
+        "province": "",
+        "city": "",
+        "price": 10000000,
+        "time": "2026-07-16T16:20:09.225Z",
+        "approved": false,
+        "disabled": false
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false,

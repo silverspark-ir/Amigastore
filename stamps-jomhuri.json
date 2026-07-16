@@ -23,15 +23,16 @@
         "price": 2000000,
         "time": "2026-07-16T23:59:59.454Z",
         "approved": false,
-        "disabled": false
+        "disabled": true
       },
       {
         "buyerId": "member-1784231033870",
         "name": "سارا حمیدپور",
         "price": 2100000,
         "time": "2026-07-17T00:04:16.627Z",
-        "approved": false,
-        "disabled": false
+        "approved": true,
+        "disabled": false,
+        "approvedAt": "2026-07-17T00:05:00.509Z"
       }
     ],
     "purchaseRequest": null,

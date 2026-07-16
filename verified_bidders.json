@@ -25,10 +25,14 @@
     "accessCode": "jXJ7MWIrlRt1l1AqomSd",
     "verified": true,
     "verifyCode4": "3129",
-    "negativeScore": 1,
+    "negativeScore": 2,
     "negativeScoreDetails": [
       {
         "itemId": "user-1784231605857",
+        "type": "not_as_described"
+      },
+      {
+        "itemId": "user-1784231750532",
         "type": "not_as_described"
       }
     ],

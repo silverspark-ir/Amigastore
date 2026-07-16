@@ -48,7 +48,13 @@
         "disabled": false
       }
     ],
-    "purchaseRequest": null,
+    "purchaseRequest": {
+      "buyerId": "member-1783009892581",
+      "name": "ادمین",
+      "province": "",
+      "city": "",
+      "time": "2026-07-16T16:18:07.207Z"
+    },
     "purchaseVerified": false,
     "sellerPaid": false,
     "buyerFeedback": ""

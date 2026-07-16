@@ -16,7 +16,16 @@
     "sellerId": "member-1784164813980",
     "sellerProvince": "فارس",
     "sellerCity": "شیراز",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "buyerId": "member-1784167038707",
+        "name": "محمد حقی",
+        "price": 2000000,
+        "time": "2026-07-16T18:40:36.489Z",
+        "approved": false,
+        "disabled": false
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false,

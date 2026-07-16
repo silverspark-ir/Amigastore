@@ -132,7 +132,11 @@
     "sellerProvince": "فارس",
     "sellerCity": "شیراز",
     "discountRequests": [],
-    "purchaseRequest": null,
+    "purchaseRequest": {
+      "buyerId": "member-1784167038707",
+      "name": "محمد حقی",
+      "time": "2026-07-16T18:48:18.084Z"
+    },
     "purchaseVerified": false,
     "sellerPaid": false,
     "buyerFeedback": ""

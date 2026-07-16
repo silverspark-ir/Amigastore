@@ -44,8 +44,8 @@
       }
     ],
     "purchaseRequest": null,
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   },
   {
@@ -146,8 +146,8 @@
       "name": "سهیل مرادی",
       "time": "2026-07-17T00:14:13.750Z"
     },
-    "purchaseVerified": false,
-    "sellerPaid": false,
+    "purchaseVerified": true,
+    "sellerPaid": true,
     "buyerFeedback": ""
   }
 ]

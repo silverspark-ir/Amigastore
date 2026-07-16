@@ -114,8 +114,9 @@
         "city": "تهران",
         "price": 7000000,
         "time": "2026-07-16T16:07:49.801Z",
-        "approved": false,
-        "disabled": false
+        "approved": true,
+        "disabled": false,
+        "approvedAt": "2026-07-16T16:09:21.349Z"
       }
     ],
     "purchaseRequest": null,

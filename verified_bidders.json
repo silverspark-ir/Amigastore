@@ -55,7 +55,14 @@
     "accessCode": "Rosn2QWfWEUTPy7RqBMo",
     "verified": true,
     "verifyCode4": "3508",
-    "createdAt": "2026-07-16T01:20:13.980Z"
+    "createdAt": "2026-07-16T01:20:13.980Z",
+    "negativeScore": 1,
+    "negativeScoreDetails": [
+      {
+        "itemId": "user-1784226912735",
+        "type": "not_as_described"
+      }
+    ]
   },
   {
     "id": "member-1784167038707",

@@ -23,9 +23,9 @@
     "address": "رشت",
     "postalCode": "۷۸۶۳۴۵۷۷۶",
     "accessCode": "jXJ7MWIrlRt1l1AqomSd",
-    "verified": false,
+    "verified": true,
     "verifyCode4": "3129",
-    "negativeScore": 3,
+    "negativeScore": 0,
     "negativeScoreDetails": [
       {
         "itemId": "user-1784231605857",

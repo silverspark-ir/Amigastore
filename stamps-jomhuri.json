@@ -93,7 +93,7 @@
     "purchaseRequest": null,
     "purchaseVerified": true,
     "sellerPaid": true,
-    "buyerFeedback": ""
+    "buyerFeedback": "not_as_described"
   },
   {
     "id": "user-1784231853248",
@@ -106,7 +106,7 @@
     "image2": "",
     "image3": "",
     "description": "سوپر",
-    "active": true,
+    "active": false,
     "views": 0,
     "createdAt": "2026-07-16T19:57:33.248Z",
     "sellerId": "member-1784230986501",

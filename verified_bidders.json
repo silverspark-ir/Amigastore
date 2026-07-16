@@ -68,6 +68,13 @@
     "accessCode": "Ext5yUCbmYimEoLP2SWf",
     "verified": true,
     "verifyCode4": "7607",
-    "createdAt": "2026-07-16T01:57:18.707Z"
+    "createdAt": "2026-07-16T01:57:18.707Z",
+    "negativeScore": 1,
+    "negativeScoreDetails": [
+      {
+        "itemId": "user-1784221274663",
+        "type": "not_as_described"
+      }
+    ]
   }
 ]

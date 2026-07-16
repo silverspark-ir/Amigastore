@@ -29,15 +29,15 @@
     "negativeScoreDetails": [
       {
         "itemId": "user-1784231605857",
-        "type": "not_as_described"
+        "type": ""
       },
       {
         "itemId": "user-1784231750532",
-        "type": "not_as_described"
+        "type": ""
       },
       {
         "itemId": "user-1784231802390",
-        "type": "not_as_described"
+        "type": ""
       }
     ],
     "createdAt": "2026-07-16T19:43:06.501Z"

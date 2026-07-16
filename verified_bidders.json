@@ -53,10 +53,10 @@
     "address": "بعثت",
     "postalCode": "7152536985",
     "accessCode": "Rosn2QWfWEUTPy7RqBMo",
-    "verified": true,
+    "verified": false,
     "verifyCode4": "3508",
     "createdAt": "2026-07-16T01:20:13.980Z",
-    "negativeScore": 2,
+    "negativeScore": 3,
     "negativeScoreDetails": [
       {
         "itemId": "user-1784226912735",
@@ -64,6 +64,10 @@
       },
       {
         "itemId": "user-1784227047642",
+        "type": "not_as_described"
+      },
+      {
+        "itemId": "user-1784227120761",
         "type": "not_as_described"
       }
     ]

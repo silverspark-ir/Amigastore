@@ -96,7 +96,18 @@
     "sellerId": "member-1784167038707",
     "sellerProvince": "تهران",
     "sellerCity": "تهران",
-    "discountRequests": [],
+    "discountRequests": [
+      {
+        "buyerId": "member-1784167038707",
+        "name": "محمد حقی",
+        "province": "تهران",
+        "city": "تهران",
+        "price": 7000000,
+        "time": "2026-07-16T16:07:49.801Z",
+        "approved": false,
+        "disabled": false
+      }
+    ],
     "purchaseRequest": null,
     "purchaseVerified": false,
     "sellerPaid": false,

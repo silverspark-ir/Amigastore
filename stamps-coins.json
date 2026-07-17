@@ -26,5 +26,19 @@
     "views": 0,
     "createdAt": "2026-07-17T15:50:43.241Z",
     "paymentVerified": "none"
+  },
+  {
+    "id": "item-1784303550894",
+    "name": "100 گرم نقره خام 999.9",
+    "price": 40000000,
+    "image1": "https://cdn.imgurl.ir/uploads/m151486_Screenshot_------_files.fileexorer.jpg",
+    "image2": "",
+    "image3": "",
+    "marketLink": "",
+    "description": "نقره ساچمه خام با عیار تضمین شده 999.9",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-07-17T15:52:30.894Z",
+    "paymentVerified": "none"
   }
 ]

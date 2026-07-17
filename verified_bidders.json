@@ -63,5 +63,21 @@
     "negativeScore": 0,
     "negativeScoreDetails": [],
     "createdAt": "2026-07-16T19:44:36.264Z"
+  },
+  {
+    "id": "member-1784289234938",
+    "name": "مهدی",
+    "phone": "09175025392",
+    "province": "فارس",
+    "city": "شیراز",
+    "address": "شهرک رضوان خیابان شهید رضایی روبروی کوچه 4",
+    "postalCode": "7179664144",
+    "accessCode": "RgII83KhGJ8LzIPQEhUy",
+    "verified": false,
+    "verifyCode4": "4305",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-07-17T11:53:54.940Z"
   }
 ]

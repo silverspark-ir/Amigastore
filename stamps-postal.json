@@ -1,6 +1,26 @@
 [
-  { "id": "ad-banner-1", "image": "", "link": "", "active": true },
-  { "id": "ad-banner-2", "image": "", "link": "", "active": true },
-  { "id": "ad-banner-3", "image": "", "link": "", "active": true },
-  { "id": "ad-banner-4", "image": "", "link": "", "active": true }
+  {
+    "id": "ad-banner-1",
+    "image": "",
+    "link": "",
+    "active": true
+  },
+  {
+    "id": "ad-banner-2",
+    "image": "",
+    "link": "",
+    "active": true
+  },
+  {
+    "id": "ad-banner-3",
+    "image": "",
+    "link": "",
+    "active": true
+  },
+  {
+    "id": "ad-banner-4",
+    "image": "https://cdn.imgurl.ir/uploads/h28728_zargar-041111-2-2-1770461010.gif",
+    "link": "https://melligold.com/pwa/home?utm_source=tgju&utm_medium=banner&utm_campaign=zargar&asset=gold",
+    "active": true
+  }
 ]

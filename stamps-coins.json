@@ -25,7 +25,7 @@
     "active": true,
     "views": 6,
     "createdAt": "2026-07-17T15:50:43.241Z",
-    "paymentVerified": "none"
+    "paymentVerified": true 
   },
   {
     "id": "item-1784303550894",
@@ -36,7 +36,7 @@
     "image3": "",
     "marketLink": "",
     "description": "نقره ساچمه خام با عیار تضمین شده 999.9",
-    "active": true,
+    "active": false,
     "views": 3,
     "createdAt": "2026-07-17T15:52:30.894Z",
     "paymentVerified": "none"

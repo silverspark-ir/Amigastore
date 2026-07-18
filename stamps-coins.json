@@ -25,7 +25,7 @@
     "active": true,
     "views": 6,
     "createdAt": "2026-07-17T15:50:43.241Z",
-    "paymentVerified": true 
+    "paymentVerified": true
   },
   {
     "id": "item-1784303550894",
@@ -51,7 +51,7 @@
     "marketLink": "",
     "description": "یک برگ صد دلاری کلکسیونی آبی",
     "active": true,
-    "views": 1,
+    "views": 2,
     "createdAt": "2026-07-17T15:56:42.163Z",
     "paymentVerified": "none"
   }

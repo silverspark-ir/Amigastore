@@ -51,5 +51,22 @@
     "addedBy": "مدیر کل",
     "language": "English",
     "fileSize": "34mb"
+  },
+  {
+    "id": "m-4",
+    "name": "راهنمای مرجع هسته رام آمیگا، مدیر اجرایی",
+    "issue": "1986",
+    "tags": [
+      "مرجع رام آمیگا"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/c260849_Amiga_ROM_Kernel_Reference_Manual_Exec_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1sp4B_xKODuS5E86TKWFwRqdxBZ44Y7sG",
+    "description": "مرداد ۱۳۶۷\nپیشگفتار\nلیست‌ها و صف‌ها\nوظایف\nپیام‌ها و پورت‌ها\nورودی/خروجی\nوقفه‌ها\nتخصیص حافظه\nکتابخانه‌ها\nرام-واک\nپیوست الف: فایل‌های ضمیمه EXEC\nپیوست ب: سایر روال‌ها\nپیوست ج: اطلاعات حافظه/دیسک\nپیوست ج: آفست‌های پایه کتابخانه",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English",
+    "fileSize": "29mb"
   }
 ]

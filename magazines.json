@@ -22,5 +22,17 @@
     "download": "Ghhh",
     "active": true,
     "views": 0
+  },
+  {
+    "id": "mag-1784445198802",
+    "name": "مجله سوم",
+    "issue": "امروز",
+    "tags": [
+      "art"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "download": "Gghh",
+    "active": true,
+    "views": 0
   }
 ]

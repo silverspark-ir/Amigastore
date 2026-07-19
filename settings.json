@@ -2,10 +2,12 @@
   "globalPrice": 9000,
   "masterCode": "Q9xR3mK8pL5vN2wY6hJ1",
   "admins": [
-    { "name": "admin 1", "code": "A1b2C3d4E5f6G7h8I9j0" }
+    {
+      "name": "admin 1",
+      "code": "A1b2C3d4E5f6G7h8I9j0"
+    }
   ],
-  "totalViews": 0,
-  "todayDate": "",
-  "todayViews": 0
+  "totalViews": 1,
+  "todayDate": "۱۴۰۵/۴/۲۸",
+  "todayViews": 1
 }
-

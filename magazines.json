@@ -133,5 +133,22 @@
     "addedBy": "مدیر کل",
     "language": "English",
     "fileSize": "60mb"
+  },
+  {
+    "id": "m-9",
+    "name": "راهنمای آمیگا بیسیک",
+    "issue": "1987",
+    "tags": [
+      "آمیگا بیسیک"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/n338887_AmigaBASIC_Handbuch_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=189D-1kfdfF-ED_ech7Zcq2tc-Oe95G3C",
+    "description": "Commodore Amiga Basic (Microsoft) Manual (in german).",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German",
+    "fileSize": "70mb"
   }
 ]

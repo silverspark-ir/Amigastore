@@ -33,6 +33,10 @@
     "cover": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
     "download": "Gghh",
     "active": true,
-    "views": 0
+    "views": 0,
+    "banner": {
+      "image": "",
+      "link": ""
+    }
   }
 ]

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "mag-1784445000894",
+    "name": "مجله اول",
+    "issue": "امروز",
+    "tags": [
+      "retro"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "download": "Ghhhh",
+    "active": true,
+    "views": 0
+  }
+]

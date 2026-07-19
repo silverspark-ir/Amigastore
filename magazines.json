@@ -99,5 +99,22 @@
     "addedBy": "مدیر کل",
     "language": "English",
     "fileSize": "86 mb"
+  },
+  {
+    "id": "m-7",
+    "name": "کتابچه راهنمای رسمی AmigaVision",
+    "issue": "1991",
+    "tags": [
+      "آمیگاویژن"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/o32593_Amiga_World_Official_AmigaVision_Handbook_1990_IDG_Books_Worldwide_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1PNGcvUxO3ggHOUGjRYoxoPHVRc2xvs-k",
+    "description": "کتاب آمیگا کمودور: راهنمای رسمی آمیگا ویژن برای دنیای آمیگا (۱۹۹۰) (انتشارات جهانی IDG)",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English",
+    "fileSize": "34/5 mb"
   }
 ]

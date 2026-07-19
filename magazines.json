@@ -10,5 +10,17 @@
     "download": "Ghhhh",
     "active": true,
     "views": 0
+  },
+  {
+    "id": "mag-1784445125745",
+    "name": "مجله دوم",
+    "issue": "امروز",
+    "tags": [
+      "science"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
+    "download": "Ghhh",
+    "active": true,
+    "views": 0
   }
 ]

@@ -248,5 +248,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "German"
+  },
+  {
+    "id": "m-16",
+    "name": "زبان ماشین آمیگا",
+    "issue": "1192",
+    "tags": [
+      "زبان ماشین آمیگا"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/y19106_Amiga_Machine_Language_1991_Abacus_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=14OcLpP9wbT4OJemmMrmESnpWGob4HlG2",
+    "description": "زبان ماشین آمیگا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

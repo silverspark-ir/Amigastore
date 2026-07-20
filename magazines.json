@@ -499,5 +499,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-32",
+    "name": "کتاب دستی کمودور ۶۴",
+    "issue": "۱۹۸۷",
+    "tags": [
+      "کمودور۶۴"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/x90123_Handbook_of_Basic_for_the_Commodore_64_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1-JUfXvuaJmGXTI2EnPUx43T0Yr16UiCj",
+    "description": "کتاب دستی کمودور ۶۴",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "sara",
+    "language": "English"
   }
 ]

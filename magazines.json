@@ -545,5 +545,20 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "German"
+  },
+  {
+    "id": "m-35",
+    "name": "مجله شمار 1",
+    "issue": "2015",
+    "tags": [
+      "مجله"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/c811964_001-IMG_20260720_223330_259.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1qA1CoacXhxMwEX4OUu9on5jVjwOxFl5F",
+    "description": "مجله شمار 1 — شماره 2015 | دانلود فوری نسخه PDF با کیفیت بالا. موضوعات: مجله. خرید آسان از فروشگاه BookBrand.",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

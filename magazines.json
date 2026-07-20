@@ -515,5 +515,21 @@
     "featured": false,
     "addedBy": "sara",
     "language": "English"
+  },
+  {
+    "id": "m-33",
+    "name": "گرافیک دولوکس برای آمیگا",
+    "issue": "1987",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://drive.google.com/uc?export=download&id=1vFkQA73i6U2tbTNG6a4Ceq-4lH_mDI9h",
+    "download": "https://drive.google.com/uc?export=download&id=1vFkQA73i6U2tbTNG6a4Ceq-4lH_mDI9h",
+    "description": "به زبان آلمانی",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German"
   }
 ]

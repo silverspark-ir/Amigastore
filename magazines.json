@@ -531,5 +531,19 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "German"
+  },
+  {
+    "id": "m-34",
+    "name": "گرافیک دولوکس برای آمیگا",
+    "issue": "1987",
+    "tags": [],
+    "cover": "https://cdn.imgurl.ir/uploads/p221608_Breuer_Markus_-_DELUXE_Grafik_mit_dem_Amiga_-_MampT_1987_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1vFkQA73i6U2tbTNG6a4Ceq-4lH_mDI9h",
+    "description": "زبان آلمانی",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German"
   }
 ]

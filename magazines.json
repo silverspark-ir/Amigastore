@@ -391,5 +391,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-25",
+    "name": "Amiga system programmer's guide",
+    "issue": "1990",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/h758918_Amiga_System_Programmers_Guide_1988_Abacus_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1ylr9gdEf5vlGMp9RQDX9WbQPOg9X-oWn",
+    "description": "راهنمای برنامه نویسان",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

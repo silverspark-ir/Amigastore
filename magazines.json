@@ -183,5 +183,22 @@
     "addedBy": "مدیر کل",
     "language": "English",
     "fileSize": "58 mb"
+  },
+  {
+    "id": "m-12",
+    "name": "راهنمای مرجع سخت‌افزار آمیگا، ویرایش دوم",
+    "issue": "1989",
+    "tags": [
+      "سخت‌افزار آمیگا"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/i293775_Commodore_Amiga_Hardware_Reference_Manual_2nd_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=16Aeg07h3EA9tswQekBpHqzayiLrhqfnn",
+    "description": "این راهنما دستگاه‌های رهاسازی A1000، A500 و A2000 را پوشش می‌دهد.\nاین نسخه از راهنما روی یک آمیگا ۲۵۰۰ که AMIX روی آن اجرا می‌شود، ویرایش و حروف‌چینی شده است.\n\nمقدمه\nسخت‌افزار کمکی پردازنده\nسخت‌افزار پلی‌فیلد\nسخت‌افزار اسپرایت\nسخت‌افزار صوتی\nسخت‌افزار بلیتر\nسخت‌افزار کنترل سیستم\nسخت‌افزار رابط",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English",
+    "fileSize": "45mb"
   }
 ]

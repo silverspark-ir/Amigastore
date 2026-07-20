@@ -375,5 +375,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-24",
+    "name": "زبان ماشین آمیگا",
+    "issue": "۱۹۹۰",
+    "tags": [
+      "زبان ماشین"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/d53529_Amiga_Machine_Language_1991_Abacus_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=14OcLpP9wbT4OJemmMrmESnpWGob4HlG2",
+    "description": "آموزش دستپرات اسمبلی ۶۸۰۰۰",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

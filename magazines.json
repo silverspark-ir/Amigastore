@@ -469,5 +469,20 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-30",
+    "name": "AmigaDOS inside and out",
+    "issue": "1991",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/i422258_1991-kerkloh-tornsdorf-zoller-amigados-inside-and-out_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=14u8wLA2fugaPWSX4a70OD__WFtyH1NiL",
+    "description": "AmigaDOS inside and out",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

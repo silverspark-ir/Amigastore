@@ -560,5 +560,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-36",
+    "name": "Amiga DOS 2/0 , 3/0",
+    "issue": "1994",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/i905503_AmigaDOS_2.0_3.0_199x_media_DE_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1mWf0KaHnBj79xrJCOfLnjSCkwjM-Uu6V",
+    "description": "Amiga DOS 2/0 , 3/0 — شماره 1994 | زبان: German | دانلود فوری نسخه PDF با کیفیت بالا. موضوعات: amiga. خرید آسان از فروشگاه BookBrand.",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German"
   }
 ]

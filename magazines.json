@@ -360,5 +360,20 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-23",
+    "name": "کتاب اول آمیگا",
+    "issue": "۱۹۸۷",
+    "tags": [
+      "آمیگا"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/q726651_1987-computes-first-book-of-amiga_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1JMYhiGRH-mCDzzNY-i-rjosjKR08Qxxj",
+    "description": "کتاب اول آمیگا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

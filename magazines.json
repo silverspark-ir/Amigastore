@@ -438,5 +438,20 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "German"
+  },
+  {
+    "id": "m-28",
+    "name": "Mapping the Amiga",
+    "issue": "1993",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/n525032_1993-thomson-randy-rhett-anderson-mapping-amiga-2nd-edition_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1dCPnlSX7L5ZOvMCFR3GJw2AuYLMT-AMJ",
+    "description": "Mapping the Amiga",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

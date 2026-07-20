@@ -313,5 +313,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "Spanish"
+  },
+  {
+    "id": "m-20",
+    "name": "راهنمای داخلی آمیگا ۱۲۰۰",
+    "issue": "1992",
+    "tags": [
+      "آمیگا۱۲۰۰"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/a743_1992-smith-bruce-a1200-insider-guide-series_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1OeQzqhozgXNEk1mO2-Srvw4Cjam6vkmg",
+    "description": "راهنمای آمیگا ۱۲۰۰",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

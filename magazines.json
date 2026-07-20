@@ -281,5 +281,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-18",
+    "name": "دفترچه راهنمای مرجع هسته رام آمیگا، دستگاه‌ها، ویرایش سوم",
+    "issue": "1991",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/b53874_Amiga_ROM_Kernel_Reference_Manual_Devices_3rd_edition_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1dQdrOJm4qzvgJebzreAUfGVGheVPxuSE",
+    "description": "مقدمه‌ای بر دستگاه‌های سیستم آمیگا\nدستگاه صوتی\nدستگاه کلیپ‌بورد\nدستگاه کنسول\nدستگاه گیم‌پورت\nدستگاه ورودی\nدستگاه کیبورد\nدستگاه راوی\nدستگاه موازی\nدستگاه چاپگر\nدستگاه SCSI\nدستگاه سریال\nدستگاه تایمر\nدستگاه ترک‌دیسک\nدستگاه منابع\nپیوست الف IFF: قالب فایل تبادلی\nپیوست ب نمونه دستگاه\nپیوست ج فرآیند بوت فلاپی آمیگا و طرح فیزیکی",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

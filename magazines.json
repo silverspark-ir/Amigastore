@@ -422,5 +422,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-27",
+    "name": "راهنمای زبان برنامه نویسی ماجولا ۲",
+    "issue": "۱۹۹۳",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/v497073_M2Amiga_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1Vw3nanpiWQ06jICCw43zorkRLF9IJCxT",
+    "description": "راهنمای زبان برنامه نویسی ماجولا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German"
   }
 ]

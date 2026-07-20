@@ -376,5 +376,37 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "German"
+  },
+  {
+    "id": "m-24",
+    "name": "تولید موزیک در آمیگا",
+    "issue": "۱۹۸۹",
+    "tags": [
+      "آمیگا"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/z662174_Making_Music_on_the_Amiga_1990_Abacus_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1BQrcqnuslADlEPrxhmMXt-IW1WAZMWVy",
+    "description": "راهنمای چگونگی ساخت موزیک در آمیگا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
+  },
+  {
+    "id": "m-25",
+    "name": "تولید موزیک در آمیگا",
+    "issue": "۱۹۸۹",
+    "tags": [
+      "آمیگا"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/z662174_Making_Music_on_the_Amiga_1990_Abacus_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1BQrcqnuslADlEPrxhmMXt-IW1WAZMWVy",
+    "description": "راهنمای چگونگی ساخت موزیک در آمیگا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

@@ -344,20 +344,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
-  },
-  {
-    "id": "m-22",
-    "name": "راهنمای بیسیک آمیگا",
-    "issue": "۱۹۹۰",
-    "tags": [
-      "امیگا"
-    ],
-    "cover": "https://cdn.imgurl.ir/uploads/2463_AmigaBasic_0000.jpg",
-    "download": "https://drive.google.com/uc?export=download&id=1UjV1NMGNw_JqX21_Z2wLdhSMSU9JFgSl",
-    "description": "بیسیک آمیگا",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "مدیر کل"
   }
 ]

@@ -453,5 +453,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-29",
+    "name": "Introduction to the Amiga 500",
+    "issue": "1987",
+    "tags": [
+      "amiga 500"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/z596650_1987-introduction-to-the-amiga-500_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=17fCUlByjN-Qbts0ofnHmxtHYGjyR9XcG",
+    "description": "Introduction to the Amiga 500",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
   }
 ]

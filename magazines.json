@@ -484,5 +484,20 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-31",
+    "name": "Amiga 3D graphic programming basic",
+    "issue": "1991",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/y028450_Amiga3dGraphicProgrammingInBasic_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1J70Yb9OirJEG4dc2rLD_viMv05wyJKbp",
+    "description": "Amiga 3D graphic programming basic",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

@@ -594,10 +594,10 @@
   },
   {
     "id": "m-1784587296396",
-    "name": "گوگل",
+    "name": "Google tips",
     "issue": "2015",
     "tags": [
-      "sara"
+      "#مجله #انگلیسی #google google tips & tricks volume 2 second revised edition"
     ],
     "cover": "https://cdn.imgurl.ir/uploads/m336716_003-IMG_20260720_223353_636.jpg",
     "download": "https://drive.google.com/file/d/1ldlDxuJaqt5B1ENXLwIUdiVTLgP1jO5_/view?usp=drivesdk",
@@ -607,5 +607,64 @@
     "featured": false,
     "addedBy": "sara",
     "language": "English"
+  },
+  {
+    "id": "m-1784587411946",
+    "name": "Test1",
+    "issue": "2015",
+    "tags": [
+      "sara"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/c811964_001-IMG_20260720_223330_259.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1qA1CoacXhxMwEX4OUu9on5jVjwOxFl5F",
+    "description": "Test1 — شماره 2015 | دانلود فوری نسخه PDF با کیفیت بالا. موضوعات: sara. خرید آسان از فروشگاه BookBrand.",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "sara"
+  },
+  {
+    "id": "m-1784587483080",
+    "name": "Test 2",
+    "issue": "2015",
+    "tags": [],
+    "cover": "https://cdn.imgurl.ir/uploads/t4857_002-IMG_20260720_223342_133.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1hhKWvR9-cc-0KvFznNtkjPATRuxo1A6Q",
+    "description": "Test 2 — شماره 2015 | دانلود فوری نسخه PDF با کیفیت بالا. خرید آسان از فروشگاه BookBrand.",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "sara"
+  },
+  {
+    "id": "m-1784610937318",
+    "name": "تست الف",
+    "issue": "۳",
+    "tags": [
+      "علی"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/m336716_003-IMG_20260720_223353_636.jpg",
+    "download": "https://drive.google.com/file/d/1ldlDxuJaqt5B1ENXLwIUdiVTLgP1jO5_/view?usp=drivesdk",
+    "description": "تست الف — شماره ۳ | زبان: English | دانلود فوری نسخه PDF با کیفیت بالا. موضوعات: علی. خرید آسان از فروشگاه BookBrand.",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "English"
+  },
+  {
+    "id": "m-1784611014294",
+    "name": "تست ب",
+    "issue": "۶",
+    "tags": [
+      "علی"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/c811964_001-IMG_20260720_223330_259.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1hhKWvR9-cc-0KvFznNtkjPATRuxo1A6Q",
+    "description": "تست ب — شماره ۶ | دانلود فوری نسخه PDF با کیفیت بالا. موضوعات: علی. خرید آسان از فروشگاه BookBrand.",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

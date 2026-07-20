@@ -408,7 +408,7 @@
     "transactionId": "43769654387",
     "cardLast4": "8874",
     "email": "sara.ahmady90@gmail.com",
-    "status": false
+    "status": true
   },
   {
     "trackingCode": "q3bq-bBrw",
@@ -418,7 +418,7 @@
         "id": "m-27",
         "name": "راهنمای زبان برنامه نویسی ماجولا ۲",
         "price": 9000,
-        "downloadCount": 1
+        "downloadCount": 0
       }
     ],
     "totalPrice": 9000,

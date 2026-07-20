@@ -407,5 +407,20 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-26",
+    "name": "Amiga c for advanced programmers",
+    "issue": "1991",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/i228852_AmigaCForAdvancedProgrammers_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=12md7_11s2ZKCORRd5SJED7jKAa9MJcse",
+    "description": "راهنمای پیشرفته زبان c آمیگا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

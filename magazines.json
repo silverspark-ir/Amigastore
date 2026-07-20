@@ -360,5 +360,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-23",
+    "name": "راهنمای داس آمیگا ۱.۲ ، زبان آلمانی",
+    "issue": "۱۹۸۹",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/f64510_AmigaDOSHandbuch_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=10xlEvLpzaDQzld0qAc-hALjfvlQR0NFv",
+    "description": "داس ۱.۲ آمیگا ، به زبان آلمانی",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German"
   }
 ]

@@ -232,5 +232,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "German"
+  },
+  {
+    "id": "m-15",
+    "name": "سوپربیس ، آمیگا ، آتاری اس تی",
+    "issue": "1991",
+    "tags": [
+      "آتاری اس تی"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/t293252_Superbase-Alles-auf-einen-Blick_0000.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1avL6G8TzxsmdQFBaisnkLFVZlXK8xXPL",
+    "description": "آناری اس تی",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "German"
   }
 ]

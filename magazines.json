@@ -297,5 +297,21 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English"
+  },
+  {
+    "id": "m-19",
+    "name": "راهنمای آمیگاداس ، زبان اسپانیایی",
+    "issue": "1991",
+    "tags": [
+      "amiga"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/x613639_1988-rugheimer-spanik-amigados-quick-reference_0000_1.jpg",
+    "download": "https://drive.google.com/uc?export=download&id=1smmqzh3mTo4vxr4qn4CAwqbq1bGpdeeU",
+    "description": "داس آمیگا",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل",
+    "language": "Spanish"
   }
 ]

@@ -1,5 +1,6 @@
 {
   "globalPrice": 9000,
+  "musicPrice": 15000,
   "masterCode": "Q9xR3mK8pL5vN2wY6hJ1",
   "admins": [
     {
@@ -7,7 +8,7 @@
       "code": "A1b2C3d4E5f6G7h8I9j0"
     }
   ],
-  "totalViews": 127,
+  "totalViews": 128,
   "todayDate": "۱۴۰۵/۴/۳۰",
-  "todayViews": 27
+  "todayViews": 28
 }

@@ -619,24 +619,8 @@
     "download": "https://cdn.imgurl.ir/uploads/l810631_0001-BookBrand_ir-Amiga_Disk_Drives_Inside_and_Out_1989_Abacus_1.pdf.zip",
     "description": "Amiga",
     "active": true,
-    "views": 0,
+    "views": 1,
     "featured": false,
     "addedBy": "مدیر کل"
-  },
-  {
-    "id": "m-1784654881643",
-    "name": "Windows 7 Help Advice",
-    "issue": "Nov 2015",
-    "tags": [
-      "windows 7"
-    ],
-    "cover": "https://cdn.imgurl.ir/uploads/t166958_005-IMG_20260720_223418_400.jpg",
-    "download": "https://cdn.imgurl.ir/uploads/i355407_005-Windows_7_Help_Advice_November_2015.pdf.zip",
-    "description": "#مجله #انگلیسی #Windows\nWindows 7 Help Advice November 2015",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "sara",
-    "language": "English"
   }
 ]

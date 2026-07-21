@@ -622,5 +622,24 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784653341924",
+    "name": "محصول مهمان — stampset.ir@gmail.com",
+    "issue": "",
+    "tags": [],
+    "cover": "https://cdn.imgurl.ir/uploads/i099855_Amiga_Disk_Drives_Inside_and_Out_1989_Abacus_0000.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/l810631_0001-BookBrand_ir-Amiga_Disk_Drives_Inside_and_Out_1989_Abacus_1.pdf.zip",
+    "description": "",
+    "active": false,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مهمان — ممد",
+    "pending": true,
+    "guestEmail": "stampset.ir@gmail.com",
+    "guestName": "ممد",
+    "guestCode": "VEN-zNld3LmK",
+    "salesCount": 0,
+    "totalEarnings": 0
   }
 ]

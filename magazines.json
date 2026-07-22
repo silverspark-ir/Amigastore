@@ -622,24 +622,5 @@
     "views": 3,
     "featured": false,
     "addedBy": "مدیر کل"
-  },
-  {
-    "id": "m-1784750978538",
-    "name": "محصول مهمان",
-    "issue": "",
-    "tags": [],
-    "cover": "https://cdn.imgurl.ir/uploads/f73503_004-IMG_20260720_223401_738.jpg",
-    "download": "https://cdn.imgurl.ir/uploads/f73503_004-IMG_20260720_223401_738.jpg",
-    "description": "تایید",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "مدیر کل",
-    "pending": true,
-    "guestEmail": "commodore64spark@gmail.com",
-    "guestName": "حسن",
-    "guestCode": "VEN-BZRhvMHZ",
-    "salesCount": 1,
-    "totalEarnings": 3000
   }
 ]

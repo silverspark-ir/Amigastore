@@ -627,7 +627,9 @@
     "active": true,
     "views": 3,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1500
   },
   {
     "id": "m-1784752310417",

@@ -215,7 +215,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "English"
+    "language": "English",
+    "adminSalesCount": 1,
+    "adminEarnings": 1500
   },
   {
     "id": "m-14",
@@ -232,7 +234,9 @@
     "views": 1,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "German"
+    "language": "German",
+    "adminSalesCount": 1,
+    "adminEarnings": 1500
   },
   {
     "id": "m-17",
@@ -248,7 +252,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "English"
+    "language": "English",
+    "adminSalesCount": 1,
+    "adminEarnings": 1500
   },
   {
     "id": "m-18",

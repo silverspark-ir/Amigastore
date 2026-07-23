@@ -1,0 +1,72 @@
+name: Update Sitemap
+
+on:
+  push:
+    paths:
+      - 'magazines.json'
+      - 'music.json'
+
+jobs:
+  update-sitemap:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Generate Sitemap
+        run: |
+          # شروع فایل sitemap
+          cat > sitemap.xml << 'EOF'
+          <?xml version="1.0" encoding="UTF-8"?>
+          <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+          <url>
+              <loc>https://bookbrand.ir/</loc>
+              <changefreq>daily</changefreq>
+              <priority>1.0</priority>
+          </url>
+          EOF
+          
+          # اضافه کردن کتاب‌ها
+          echo "Adding books..."
+          if [ -f magazines.json ]; then
+            for id in $(jq -r '.[] | select(.active != false) | .id' magazines.json 2>/dev/null); do
+              cat >> sitemap.xml << XML
+          <url>
+              <loc>https://bookbrand.ir/book/$id</loc>
+              <changefreq>weekly</changefreq>
+              <priority>0.8</priority>
+          </url>
+          XML
+            done
+          fi
+          
+          # اضافه کردن آلبوم‌ها
+          echo "Adding music..."
+          if [ -f music.json ]; then
+            for id in $(jq -r '.[] | select(.active != false) | .id' music.json 2>/dev/null); do
+              cat >> sitemap.xml << XML
+          <url>
+              <loc>https://bookbrand.ir/music/$id</loc>
+              <changefreq>weekly</changefreq>
+              <priority>0.8</priority>
+          </url>
+          XML
+            done
+          fi
+          
+          # بستن فایل sitemap
+          echo "</urlset>" >> sitemap.xml
+          
+          echo "Generated sitemap:"
+          cat sitemap.xml
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git diff --staged --quiet || git commit -m "🔄 Auto-update sitemap.xml"
+          git push

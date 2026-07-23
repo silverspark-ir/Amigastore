@@ -875,5 +875,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784854588467",
+    "name": "Newsweek",
+    "issue": "2015",
+    "tags": [
+      "newsweek",
+      "syrian"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/f225961_00015.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/z974976_00013_bookbrand_ir.zip",
+    "description": "Newsweek",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

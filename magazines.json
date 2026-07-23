@@ -794,5 +794,22 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784851413553",
+    "name": "The week uk",
+    "issue": "2015",
+    "tags": [
+      "the week",
+      "uk",
+      "politics"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/q108406_00010.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/o46719_00008_bookbrand_ir.zip",
+    "description": "The week uk",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

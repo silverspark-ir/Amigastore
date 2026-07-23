@@ -811,5 +811,22 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784851504176",
+    "name": "The week usa",
+    "issue": "2015",
+    "tags": [
+      "the week",
+      "usa",
+      "politics"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/z254037_00011.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/o46719_00008_bookbrand_ir.zip",
+    "description": "The week usa",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

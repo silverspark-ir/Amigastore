@@ -828,5 +828,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784851599836",
+    "name": "Time",
+    "issue": "2015",
+    "tags": [
+      "time",
+      "trump"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/836760_00012.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/o46719_00008_bookbrand_ir.zip",
+    "description": "Time",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

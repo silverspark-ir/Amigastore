@@ -760,5 +760,22 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784851229322",
+    "name": "Electronic products and technology",
+    "issue": "2015",
+    "tags": [
+      "electronic",
+      "technology",
+      "electronic products"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/u04221_00008.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/o46719_00008_bookbrand_ir.zip",
+    "description": "Electronic products and technology",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

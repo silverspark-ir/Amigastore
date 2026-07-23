@@ -777,5 +777,22 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784851319501",
+    "name": "Pc magazine",
+    "issue": "2015 sep",
+    "tags": [
+      "pc magazine",
+      "computer",
+      "technology"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/x477522_00009.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/o46719_00008_bookbrand_ir.zip",
+    "description": "Pc magazine",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

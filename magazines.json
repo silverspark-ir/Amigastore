@@ -695,5 +695,22 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784848140175",
+    "name": "Asian graphics",
+    "issue": "2015",
+    "tags": [
+      "asia",
+      "graphic",
+      "art"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/p86804_Screenshot_------_alldocumentreader.office.viewer.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/e895064_00003_bookbrand_ir.zip",
+    "description": "Asian graphics",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

@@ -645,5 +645,23 @@
     "views": 3,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784846838829",
+    "name": "National geographic usa",
+    "issue": "Sep 2025",
+    "tags": [
+      "national geographic",
+      "nature",
+      "natural",
+      "english magazine"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/t86706_00001.IMG_20260723_193812_025.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/y345747_00001_bookbrand_ir.zip",
+    "description": "نشنال جئوگرافیک",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

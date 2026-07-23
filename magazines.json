@@ -745,5 +745,20 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784849711036",
+    "name": "Travel leisure",
+    "issue": "2015",
+    "tags": [
+      "travel"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/j49983_00007.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/f618635_00006_bookbrand_ir.zip",
+    "description": "Travel leisure",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

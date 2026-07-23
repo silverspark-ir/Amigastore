@@ -663,5 +663,20 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784847177948",
+    "name": "Time",
+    "issue": "Sep 2015",
+    "tags": [
+      "tine"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/e69066_00002.IMG_20260723_194114_248.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/q605078_00002_bookbrand_ir.zip",
+    "description": "Time",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

@@ -859,5 +859,21 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784854491590",
+    "name": "Design world",
+    "issue": "2015",
+    "tags": [
+      "design",
+      "art"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/h587501_00014.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/z974976_00013_bookbrand_ir.zip",
+    "description": "Design world",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

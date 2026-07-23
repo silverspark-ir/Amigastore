@@ -645,20 +645,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
-  },
-  {
-    "id": "m-1784792406433",
-    "name": "کتاب",
-    "issue": "تست",
-    "tags": [
-      "تست"
-    ],
-    "cover": "https://cdn.imgurl.ir/uploads/f73503_004-IMG_20260720_223401_738.jpg",
-    "download": "https://drive.google.com/uc?export=download&id=1zBvluYxa4Wu8slY7I5Ro_EFpT7YJdaio",
-    "description": "تست",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "مدیر کل"
   }
 ]

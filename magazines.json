@@ -891,5 +891,20 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784854737898",
+    "name": "The Economist",
+    "issue": "",
+    "tags": [
+      "economist"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/f602564_00016.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/z974976_00013_bookbrand_ir.zip",
+    "description": "اکونومیست",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

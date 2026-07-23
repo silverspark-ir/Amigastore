@@ -712,5 +712,22 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784848228447",
+    "name": "New Yorker",
+    "issue": "2015",
+    "tags": [
+      "magazine",
+      "american",
+      "new yorker"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/d563317_Screenshot_------_alldocumentreader.office.viewer.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/e895064_00003_bookbrand_ir.zip",
+    "description": "New Yorker",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

@@ -3845,5 +3845,20 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784900078645",
+    "name": "The Economist",
+    "issue": "2015",
+    "tags": [
+      "the economist"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/q055631_00019.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/h854208_00018_bookbrand_ir.zip",
+    "description": "The Economist",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

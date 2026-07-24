@@ -3875,5 +3875,20 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل"
+  },
+  {
+    "id": "m-1784900274279",
+    "name": "Harvard business review",
+    "issue": "2015",
+    "tags": [
+      "harvard business review"
+    ],
+    "cover": "https://cdn.imgurl.ir/uploads/c432036_00021.jpg",
+    "download": "https://cdn.imgurl.ir/uploads/h854208_00018_bookbrand_ir.zip",
+    "description": "Harvard business review",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "مدیر کل"
   }
 ]

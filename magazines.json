@@ -482,7 +482,11 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "language": "English",
-    "fileSize": "86 mb"
+    "fileSize": "86 mb",
+    "banner": {
+      "image": "",
+      "link": "https://amigastore.ir"
+    }
   },
   {
     "id": "m-7",

@@ -388,7 +388,11 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "English"
+    "language": "English",
+    "banner": {
+      "image": "",
+      "link": "https://amigastore.ir"
+    }
   },
   {
     "id": "m-6",

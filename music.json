@@ -2731,7 +2731,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#39"
+    "artist": "#39",
+    "adminSalesCount": 1,
+    "adminEarnings": 4500
   },
   {
     "id": "mu-1785236063509",

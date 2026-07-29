@@ -2386,7 +2386,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#36"
+    "artist": "#36",
+    "adminSalesCount": 1,
+    "adminEarnings": 4500
   },
   {
     "id": "mu-1785235685913",
@@ -2501,7 +2503,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#37"
+    "artist": "#37",
+    "adminSalesCount": 1,
+    "adminEarnings": 4500
   },
   {
     "id": "mu-1785235808732",
@@ -2616,7 +2620,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#38"
+    "artist": "#38",
+    "adminSalesCount": 1,
+    "adminEarnings": 4500
   },
   {
     "id": "mu-1785235907101",

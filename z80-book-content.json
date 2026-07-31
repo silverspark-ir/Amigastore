@@ -3,20 +3,46 @@
     "password": "c64spark2026"
   },
   "site": {
+    "domain": "https://amigastore.ir",
     "ogImage": "",
-    "favicon": ""
+    "favicon": "",
+    "googleSiteVerification": "",
+    "googleAnalyticsID": "",
+    "musicURL": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "footerText": "Z80: The Amazing Processor of the 1970s — A book by c64spark. Available on Amazon.",
+    "dreamBoxText": "IF you have an old dream THEN CLICK HERE",
+    "social": {
+      "email": "c64spark@gmail.com",
+      "twitter": "",
+      "github": "https://github.com/silverspark-ir",
+      "website": "https://amigastore.ir"
+    }
   },
   "book": {
     "title": "Z80: The Amazing Processor of the 1970s",
     "author": "c64spark",
+    "coverImage": "",
     "amazonLink": "#",
-    "sampleChapters": [1, 2]
+    "sampleChapters": [1, 2],
+    "sectionsPerChapter": 4
   },
   "chapter1": {
     "title": "Chapter 1: Birth of a Necessity",
     "sections": [
       {
         "title": "Part 1: A World of Wire and Iron",
+        "content": ""
+      },
+      {
+        "title": "Part 2: The Pre-Z80 Landscape",
+        "content": ""
+      },
+      {
+        "title": "Part 3: Federico Faggin's Vision",
+        "content": ""
+      },
+      {
+        "title": "Part 4: The Birth of Z80",
         "content": ""
       }
     ]
@@ -26,6 +52,18 @@
     "sections": [
       {
         "title": "Part 1: The Legacy That Should Not Have Burned",
+        "content": ""
+      },
+      {
+        "title": "Part 2: Architecture Deep Dive",
+        "content": ""
+      },
+      {
+        "title": "Part 3: The Extended Instruction Set",
+        "content": ""
+      },
+      {
+        "title": "Part 4: Why Z80 Was Revolutionary",
         "content": ""
       }
     ]

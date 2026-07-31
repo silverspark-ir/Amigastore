@@ -22,7 +22,7 @@
   "book": {
     "title": "Z80: The Amazing Processor of the 1970s",
     "author": "c64spark",
-    "coverImage": "https://github.com/silverspark-ir/Amigastore/blob/main/z80s.jpg",
+    "coverImage": "https://raw.githubusercontent.com/silverspark-ir/Amigastore/main/z80s.jpg",
     "amazonLink": "#",
     "sampleChapters": [1, 2],
     "sectionsPerChapter": 4

@@ -1,4 +1,7 @@
 {
+  "admin": {
+    "password": "c64spark2026"
+  },
   "book": {
     "title": "Z80: The Amazing Processor of the 1970s",
     "author": "c64spark",
@@ -38,5 +41,6 @@
   "chapter6": {
     "title": "Chapter 6: Decline and Immortality",
     "sections": []
-  }
+  },
+  "ideas": []
 }

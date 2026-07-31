@@ -1926,7 +1926,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#32"
+    "artist": "#32",
+    "adminSalesCount": 1,
+    "adminEarnings": 4750
   },
   {
     "id": "mu-1785235178332",
@@ -2041,7 +2043,9 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#33"
+    "artist": "#33",
+    "adminSalesCount": 1,
+    "adminEarnings": 4750
   },
   {
     "id": "mu-1785235315770",
@@ -2156,7 +2160,9 @@
     "views": 2,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#34"
+    "artist": "#34",
+    "adminSalesCount": 1,
+    "adminEarnings": 4750
   },
   {
     "id": "mu-1785235440163",
@@ -2271,7 +2277,9 @@
     "views": 1,
     "featured": false,
     "addedBy": "مدیر کل",
-    "artist": "#35"
+    "artist": "#35",
+    "adminSalesCount": 1,
+    "adminEarnings": 4750
   },
   {
     "id": "mu-1785235525875",
@@ -2387,8 +2395,8 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "artist": "#36",
-    "adminSalesCount": 1,
-    "adminEarnings": 4500
+    "adminSalesCount": 2,
+    "adminEarnings": 9250
   },
   {
     "id": "mu-1785235685913",
@@ -2504,8 +2512,8 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "artist": "#37",
-    "adminSalesCount": 1,
-    "adminEarnings": 4500
+    "adminSalesCount": 2,
+    "adminEarnings": 9250
   },
   {
     "id": "mu-1785235808732",
@@ -2621,8 +2629,8 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "artist": "#38",
-    "adminSalesCount": 1,
-    "adminEarnings": 4500
+    "adminSalesCount": 2,
+    "adminEarnings": 9250
   },
   {
     "id": "mu-1785235907101",
@@ -2738,8 +2746,8 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "artist": "#39",
-    "adminSalesCount": 3,
-    "adminEarnings": 14000
+    "adminSalesCount": 4,
+    "adminEarnings": 18750
   },
   {
     "id": "mu-1785236063509",
@@ -2855,7 +2863,7 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "artist": "#40",
-    "adminSalesCount": 1,
-    "adminEarnings": 4500
+    "adminSalesCount": 2,
+    "adminEarnings": 9250
   }
 ]

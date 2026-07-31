@@ -8196,7 +8196,9 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785246549860",
@@ -8329,7 +8331,9 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785247405982",
@@ -8396,7 +8400,9 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785247562467",
@@ -8464,7 +8470,9 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785247699249",
@@ -8530,7 +8538,9 @@
     "active": true,
     "views": 1,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785247857131",
@@ -8729,7 +8739,9 @@
     "active": true,
     "views": 1,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785248285415",
@@ -8794,7 +8806,9 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785248438437",
@@ -8856,7 +8870,9 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "adminSalesCount": 1,
+    "adminEarnings": 1000
   },
   {
     "id": "m-1785248622813",
@@ -8924,7 +8940,7 @@
     "views": 2,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 2000
+    "adminSalesCount": 2,
+    "adminEarnings": 3000
   }
 ]

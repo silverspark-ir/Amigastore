@@ -11,38 +11,14 @@
       {
         "title": "Part 1: A World of Wire and Iron",
         "content": ""
-      },
-      {
-        "title": "Part 2: A Bridge to the Personal Computer",
-        "content": ""
-      },
-      {
-        "title": "Part 3: A Different Vision and a Rebellion from Pennsylvania",
-        "content": ""
-      },
-      {
-        "title": "Part 4: Coup in the Shadows",
-        "content": ""
       }
     ]
   },
   "chapter2": {
-    "title": "Chapter 2: Architecture of Genius",
+    "title": "Chapter 2: Anatomy of a Sultan",
     "sections": [
       {
-        "title": "Part 1: Inside the Z80",
-        "content": ""
-      },
-      {
-        "title": "Part 2: The Extended Instruction Set",
-        "content": ""
-      },
-      {
-        "title": "Part 3: Interrupts and DMA",
-        "content": ""
-      },
-      {
-        "title": "Part 4: The Hardware Interface",
+        "title": "Part 1: The Legacy That Should Not Have Burned",
         "content": ""
       }
     ]
@@ -52,7 +28,15 @@
     "sections": []
   },
   "chapter4": {
-    "title": "Chapter 4: The Eastern Alliance",
+    "title": "Chapter 4: Global Expansion",
+    "sections": []
+  },
+  "chapter5": {
+    "title": "Chapter 5: Crossing the Iron Curtain",
+    "sections": []
+  },
+  "chapter6": {
+    "title": "Chapter 6: Decline and Immortality",
     "sections": []
   }
 }

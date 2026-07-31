@@ -2,6 +2,10 @@
   "admin": {
     "password": "c64spark2026"
   },
+  "site": {
+    "ogImage": "",
+    "favicon": ""
+  },
   "book": {
     "title": "Z80: The Amazing Processor of the 1970s",
     "author": "c64spark",

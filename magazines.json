@@ -9007,6 +9007,10 @@
     "views": 0,
     "featured": true,
     "addedBy": "مدیر کل",
-    "price": 390000
+    "price": 390000,
+    "banner": {
+      "image": "https://cdn.imgurl.ir/uploads/p83177_z80s.jpg",
+      "link": "https://zxspectrum.ir/"
+    }
   }
 ]

@@ -11,5 +11,13 @@
       "status": "alarm"
     }
   ],
-  "links": []
+  "links": [
+    {
+      "email": "c64spark@gmail.com",
+      "website": "https://amigastore.ir/",
+      "description": "Amiga Workbench 1.3 live on web",
+      "timestamp": "2026-08-01T21:18:56.888Z",
+      "status": "alarm"
+    }
+  ]
 }

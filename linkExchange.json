@@ -25,6 +25,13 @@
       "description": "Amiga Workbench 1.3 live on web",
       "timestamp": "2026-08-01T21:18:56.888Z",
       "status": "true"
+    },
+    {
+      "email": "jan@neckar.cz",
+      "website": "https://www.oldgame.cz/en/",
+      "description": "oldgame.cz online retrogames",
+      "timestamp": "2026-08-02T20:47:29.233Z",
+      "status": "alarm"
     }
   ]
 }

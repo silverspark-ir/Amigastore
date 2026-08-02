@@ -103,8 +103,8 @@
     "description": "بخش فارسی",
     "website": "https://www.oldgame.cz/fa/",
     "logo": "https://cdn.imgurl.ir/uploads/f816890_baner2.png",
-    "shopNumber": "",
+    "shopNumber": "110",
     "date": "۱۴۰۵/۵/۱۱",
-    "approved": false
+    "approved": true 
   }
 ]

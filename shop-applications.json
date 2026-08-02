@@ -93,6 +93,18 @@
     "logo": "https://cdn.imgurl.ir/uploads/z53034_IMG__.png",
     "shopNumber": "109",
     "date": "۱۴۰۵/۴/۱۸",
-    "approved": true 
+    "approved": true
+  },
+  {
+    "ownerName": "Oldgame",
+    "ownerPhone": "09090909090",
+    "shopName": "Oldgame.cz",
+    "category": "retrocomputing",
+    "description": "بخش فارسی",
+    "website": "https://www.oldgame.cz/fa/",
+    "logo": "https://cdn.imgurl.ir/uploads/f816890_baner2.png",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۵/۱۱",
+    "approved": false
   }
 ]

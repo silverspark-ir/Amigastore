@@ -8522,7 +8522,11 @@
     "active": true,
     "views": 2,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "banner": {
+      "image": "",
+      "link": "https://zxspectrum.ir/"
+    }
   },
   {
     "id": "m-1785248005058",

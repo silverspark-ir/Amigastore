@@ -9069,6 +9069,10 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "banner": {
+      "image": "",
+      "link": "https://zxspectrum.ir/"
+    }
   }
 ]

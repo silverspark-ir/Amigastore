@@ -2066,7 +2066,11 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "English"
+    "language": "English",
+    "banner": {
+      "image": "https://cdn.imgurl.ir/uploads/z505379___.gif",
+      "link": "https://amigastore.ir/"
+    }
   },
   {
     "id": "m-23",

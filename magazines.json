@@ -669,7 +669,7 @@
     "description": "Commodore Amiga Basic (Microsoft) Manual (in german).",
     "active": true,
     "views": 0,
-    "featured": false,
+    "featured": true,
     "addedBy": "مدیر کل",
     "language": "German",
     "fileSize": "70mb",

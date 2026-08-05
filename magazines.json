@@ -7846,7 +7846,11 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "banner": {
+      "image": "",
+      "link": "https://zxspectrum.ir/"
+    }
   },
   {
     "id": "m-1785245692088",
@@ -7920,7 +7924,11 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "banner": {
+      "image": "",
+      "link": "https://zxspectrum.ir/"
+    }
   },
   {
     "id": "m-1785245857521",

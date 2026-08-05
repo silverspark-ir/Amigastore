@@ -4,5 +4,12 @@
       "image": "https://cdn.imgurl.ir/uploads/t48961_z80story.png",
       "link": "https://zxspectrum.ir/"
     }
+  },
+  "desktopIcons": {
+    "bandcamp": {
+      "image": "https://raw.githubusercontent.com/silverspark-ir/Amigastore/main/c64spark.ir%20logo.png",
+      "link": "https://c64spark.bandcamp.com",
+      "label": "bandcamp"
+    }
   }
 }

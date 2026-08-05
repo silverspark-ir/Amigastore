@@ -8253,7 +8253,11 @@
     "featured": false,
     "addedBy": "مدیر کل",
     "adminSalesCount": 1,
-    "adminEarnings": 1000
+    "adminEarnings": 1000,
+    "banner": {
+      "image": "",
+      "link": "https://zxspectrum.ir/"
+    }
   },
   {
     "id": "m-1785247405982",

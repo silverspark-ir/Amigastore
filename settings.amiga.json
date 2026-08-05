@@ -1,5 +1,8 @@
 {
   "banners": {
-    "underPlayer": "https://cdn.imgurl.ir/uploads/t48961_z80story.png"
+    "underPlayer": {
+      "image": "https://cdn.imgurl.ir/uploads/t48961_z80story.png",
+      "link": "https://zxspectrum.ir/"
+    }
   }
 }

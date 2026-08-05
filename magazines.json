@@ -2443,7 +2443,7 @@
     "description": "راهنمای زبان برنامه نویسی ماجولا",
     "active": true,
     "views": 1,
-    "featured": false,
+    "featured": true,
     "addedBy": "مدیر کل",
     "language": "German",
     "banner": {

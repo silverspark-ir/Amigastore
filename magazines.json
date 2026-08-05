@@ -8591,7 +8591,11 @@
     "active": true,
     "views": 8,
     "featured": false,
-    "addedBy": "مدیر کل"
+    "addedBy": "مدیر کل",
+    "banner": {
+      "image": "",
+      "link": "https://zxspectrum.ir/"
+    }
   },
   {
     "id": "m-1785248152418",

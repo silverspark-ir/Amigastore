@@ -60,5 +60,17 @@
     ],
     "date": "۱۴۰۵/۵/۱۵",
     "approved": true
+  },
+  {
+    "type": "team_application",
+    "email": "GoldsPark.ir@gmail.com",
+    "name": "Ali",
+    "phone": "09008009009",
+    "photo": "https://uploadkon.ir/uploads/ad7506_26لوگو-تیم-خبری.jpg",
+    "code": "",
+    "ratings": [],
+    "news": [],
+    "date": "۱۴۰۵/۵/۱۶",
+    "approved": false
   }
 ]

@@ -52,7 +52,7 @@
       "website": "https://www.specnext.com/",
       "description": "Sinclair ZX SPECTRUM Next",
       "timestamp": "2026-08-08T14:00:55.751Z",
-      "status": "alarm"
+      "status": "true"
     }
   ]
 }

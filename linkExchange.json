@@ -45,7 +45,7 @@
       "website": "https://worldofspectrum.org/",
       "description": "The official world archive for the Sinclair ZX Spectrum",
       "timestamp": "2026-08-08T13:57:05.517Z",
-      "status": "alarm"
+      "status": "true"
     },
     {
       "email": "specnext@gmail.com",

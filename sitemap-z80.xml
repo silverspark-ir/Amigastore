@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Static Pages -->
+  <url><loc>https://zxspectrum.ir/</loc></url>
+  <url><loc>https://zxspectrum.ir/info</loc></url>
+  <url><loc>https://zxspectrum.ir/album</loc></url>
+  <url><loc>https://zxspectrum.ir/dream</loc></url>
+  <url><loc>https://zxspectrum.ir/network</loc></url>
+
+  <!-- Chapter 1: The Birth of a Legend (4 sections: 0-3) -->
+  <url><loc>https://zxspectrum.ir/chapter/1/section/0</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/1/section/1</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/1/section/2</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/1/section/3</loc></url>
+
+  <!-- Chapter 2: Architecture & Features (4 sections: 0-3) -->
+  <url><loc>https://zxspectrum.ir/chapter/2/section/0</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/2/section/1</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/2/section/2</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/2/section/3</loc></url>
+
+  <!-- Chapter 3: The Sinclair Years (4 sections: 0-3) -->
+  <url><loc>https://zxspectrum.ir/chapter/3/section/0</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/3/section/1</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/3/section/2</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/3/section/3</loc></url>
+
+  <!-- Chapter 4: CP/M & Business (4 sections: 0-3) -->
+  <url><loc>https://zxspectrum.ir/chapter/4/section/0</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/4/section/1</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/4/section/2</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/4/section/3</loc></url>
+
+  <!-- Chapter 5: Gaming & Graphics (4 sections: 0-3) -->
+  <url><loc>https://zxspectrum.ir/chapter/5/section/0</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/5/section/1</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/5/section/2</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/5/section/3</loc></url>
+
+  <!-- Chapter 6: Legacy & Modern Times (4 sections: 0-3) -->
+  <url><loc>https://zxspectrum.ir/chapter/6/section/0</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/6/section/1</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/6/section/2</loc></url>
+  <url><loc>https://zxspectrum.ir/chapter/6/section/3</loc></url>
+
+  <!-- Dynamic: Approved Ideas & Links will be added here by the site -->
+</urlset>

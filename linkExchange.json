@@ -74,6 +74,20 @@
       "description": "Animated CSS Badge Maker — Zero Images.",
       "timestamp": "2026-08-10T10:42:36.688Z",
       "status": "true"
+    },
+    {
+      "email": "scarvin@vincenzoscarpa.it",
+      "website": "https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Main.HomePage&lng=en",
+      "description": "a site dedicated to emulators.",
+      "timestamp": "2026-08-10T16:10:25.196Z",
+      "status": "alarm"
+    },
+    {
+      "email": "scarvin@vincenzoscarpa.it",
+      "website": "https://www.vincenzoscarpa.it/emuwiki/pmwiki/pmwiki.php?n=Main.HomePage&lng=en",
+      "description": "a site dedicated to emulators.",
+      "timestamp": "2026-08-10T16:11:10.654Z",
+      "status": "alarm"
     }
   ]
 }

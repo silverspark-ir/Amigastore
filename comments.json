@@ -235,7 +235,9 @@
     "phone": "09098786655",
     "photo": "https://cdn.imgurl.ir/uploads/g7087_IMG_20260814_144154_231.jpg",
     "code": "abbasi007#007",
-    "ratings": [],
+    "ratings": [
+      5
+    ],
     "news": [
       {
         "images": [

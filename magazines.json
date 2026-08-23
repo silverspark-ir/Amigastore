@@ -9818,34 +9818,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-52",
-    "name": "Compiler Design and Implementation for C-64 & C-128",
-    "issue": 1985,
-    "language": "English",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "compiler",
-      "design",
-      "implementation",
-      "volker",
-      "sasse",
-      "1980s",
-      "1985"
-    ],
-    "cover": "https://archive.org/services/img/compiler-design-and-implementation-64-and-128",
-    "download": "https://archive.org/download/compiler-design-and-implementation-64-and-128/compiler-design-and-implementation-64-and-128_djvu.txt",
-    "description": "Compiler Design and Implementation for C-64 & C-128 | نویسنده: Volker Sasse | سال انتشار: 1985 | زبان: English | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

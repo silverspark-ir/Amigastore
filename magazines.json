@@ -9190,41 +9190,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-290",
-    "name": "Voi e il vostro Commodore 64",
-    "issue": 1984,
-    "language": "ita",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "libro",
-      "informatica",
-      "programmazione",
-      "basic",
-      "programminglanguage",
-      "book",
-      "computer",
-      "computing",
-      "machine",
-      "programming",
-      "code",
-      "coding",
-      "developer",
-      "vostro"
-    ],
-    "cover": "https://archive.org/services/img/voieilvostrocommodore64",
-    "download": "https://archive.org/download/voieilvostrocommodore64/voieilvostrocommodore64_djvu.txt",
-    "description": "Voi e il vostro Commodore 64 | نویسنده: Fulvio Francesconi, Fernando Paterlini | سال انتشار: 1984 | زبان: ita | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

@@ -9154,41 +9154,5 @@
     "views": 1,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-729",
-    "name": "The Advanced Machine Language Binder",
-    "issue": "",
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "disp",
-      "raster",
-      "basic",
-      "programminglanguage",
-      "advanced",
-      "abacus",
-      "diskette",
-      "software",
-      "interrupts",
-      "machine",
-      "hardware",
-      "language",
-      "machine-language",
-      "advanced-machine"
-    ],
-    "cover": "https://archive.org/services/img/The_Advanced_Machine_Language_Binder",
-    "download": "https://archive.org/details/The_Advanced_Machine_Language_Binder",
-    "description": "The Advanced Machine Language Binder | زبان: eng | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 1,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

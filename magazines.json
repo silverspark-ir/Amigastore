@@ -10535,41 +10535,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-718",
-    "name": "Algebra con Commodore 64",
-    "issue": 1985,
-    "language": "ita",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "computer",
-      "computing",
-      "machine",
-      "school",
-      "series",
-      "computer-school-series",
-      "games",
-      "computer-games-series",
-      "libro",
-      "informatica",
-      "programmazione",
-      "basic",
-      "programminglanguage",
-      "matematica"
-    ],
-    "cover": "https://archive.org/services/img/algebraconcommodore64",
-    "download": "https://archive.org/download/algebraconcommodore64/algebraconcommodore64_djvu.txt",
-    "description": "Algebra con Commodore 64 | نویسنده: Marco Sillano | سال انتشار: 1985 | زبان: ita | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

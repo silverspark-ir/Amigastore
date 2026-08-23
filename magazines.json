@@ -11039,41 +11039,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-447",
-    "name": "6500-10A MCS6500 Hardware Manual 1976 Jan",
-    "issue": "",
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "data",
-      "processor",
-      "peripheral",
-      "interrupt",
-      "address",
-      "system",
-      "program",
-      "interface",
-      "input",
-      "data-bus",
-      "address-bus",
-      "peripheral-interface",
-      "order",
-      "byte"
-    ],
-    "cover": "https://archive.org/services/img/6500-10A_MCS6500_Hardware_Manual_1976_Jan",
-    "download": "https://archive.org/details/6500-10A_MCS6500_Hardware_Manual_1976_Jan",
-    "description": "6500-10A MCS6500 Hardware Manual 1976 Jan | زبان: eng | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

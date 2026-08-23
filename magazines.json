@@ -10499,41 +10499,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-536",
-    "name": "1541 user's guide",
-    "issue": 1984,
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "file",
-      "program",
-      "disk",
-      "goto",
-      "data",
-      "files",
-      "command",
-      "diskette",
-      "drive",
-      "disk-drive",
-      "record",
-      "carriage",
-      "return",
-      "carriage-return"
-    ],
-    "cover": "https://archive.org/services/img/1541_Users_Guide_1984_Datamost",
-    "download": "https://archive.org/download/1541_Users_Guide_1984_Datamost/1541_Users_Guide_1984_Datamost_djvu.txt",
-    "description": "1541 user's guide | نویسنده: Neufeld, Gerald | سال انتشار: 1984 | زبان: eng | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

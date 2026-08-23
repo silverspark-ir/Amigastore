@@ -12153,41 +12153,5 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621821-506",
-    "name": "Amiga System Programmers Guide",
-    "issue": 1988,
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "amiga",
-      "amiga500",
-      "amiga1200",
-      "hardware",
-      "machine",
-      "reference",
-      "manual",
-      "guide",
-      "handbook",
-      "system",
-      "programming",
-      "code",
-      "coding",
-      "developer"
-    ],
-    "cover": "https://archive.org/services/img/AmigaSystemProgrammersGuide",
-    "download": "https://archive.org/download/AmigaSystemProgrammersGuide/AmigaSystemProgrammersGuide_djvu.txt",
-    "description": "Amiga System Programmers Guide | نویسنده: Unknown | سال انتشار: 1988 | زبان: eng | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

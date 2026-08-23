@@ -10153,42 +10153,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787490621820-803",
-    "name": "Commodore C64 Book: Commodore 64 Assembly Language Arcade Game Programming (1985)(TAB Books)",
-    "issue": 1985,
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "sprite",
-      "program",
-      "color",
-      "data",
-      "graphics",
-      "screen",
-      "character",
-      "memory",
-      "assembler",
-      "chip",
-      "vic-chip",
-      "assembly",
-      "language",
-      "assembly-language"
-    ],
-    "cover": "https://archive.org/services/img/Commodore_64_Assembly_Language_Arcade_Game_Programming_1985_TAB_Books",
-    "download": "https://archive.org/download/Commodore_64_Assembly_Language_Arcade_Game_Programming_1985_TAB_Books/Commodore_64_Assembly_Language_Arcade_Game_Programming_1985_TAB_Books_djvu.txt",
-    "description": "Commodore C64 Book: Commodore 64 Assembly Language Arcade Game Programming (1985)(TAB Books) | نویسنده: Steve Bress | سال انتشار: 1985 | زبان: eng | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787490621820-455",
     "name": "Giochi fantastici con il C64",
     "issue": 1984,
@@ -10220,7 +10184,7 @@
     "download": "https://archive.org/details/giochifantasticiconilc64",
     "description": "Giochi fantastici con il C64 | نویسنده: Compute! Publications | سال انتشار: 1984 | زبان: ita | از مجموعه commodore c64 books | آرشیو Archive.org",
     "active": true,
-    "views": 0,
+    "views": 1,
     "featured": false,
     "addedBy": "نامشخص"
   }

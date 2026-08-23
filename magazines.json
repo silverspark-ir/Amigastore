@@ -9579,41 +9579,5 @@
     "views": 1,
     "featured": false,
     "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787490621820-953",
-    "name": "Commodore C16 Plus4 Reference Book",
-    "issue": "",
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "commodore-64",
-      "books",
-      "commodore-c64-books",
-      "routine",
-      "data",
-      "kernal",
-      "poke",
-      "address",
-      "memory",
-      "machine",
-      "hardware",
-      "code",
-      "machine-code",
-      "serial",
-      "serial-bus",
-      "character",
-      "character-set"
-    ],
-    "cover": "https://archive.org/services/img/Commodore_C16_Plus4_Reference_Book",
-    "download": "https://archive.org/details/Commodore_C16_Plus4_Reference_Book",
-    "description": "Commodore C16 Plus4 Reference Book | زبان: eng | از مجموعه commodore c64 books | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
   }
 ]

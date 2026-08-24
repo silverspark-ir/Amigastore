@@ -11,5 +11,12 @@
   ],
   "totalViews": 714,
   "todayDate": "۱۴۰۵/۶/۲",
-  "todayViews": 30
+  "todayViews": 30,
+  "favicon": "https://raw.githubusercontent.com/silverspark-ir/Amigastore/main/logo.png",
+  "bookFiles": [
+    "magazines.json"
+  ],
+  "musicFiles": [
+    "music.json"
+  ]
 }

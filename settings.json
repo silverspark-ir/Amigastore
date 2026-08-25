@@ -14,7 +14,8 @@
   "todayViews": 10,
   "bookFiles": [
     "magazines.json",
-    "magazines2.json"
+    "magazines2.json",
+    "magazines1.json"
   ],
   "musicFiles": [
     "music.json"

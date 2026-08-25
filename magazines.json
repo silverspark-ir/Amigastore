@@ -227,7 +227,7 @@
     ],
     "cover": "https://cdn.imgurl.ir/uploads/c260849_Amiga_ROM_Kernel_Reference_Manual_Exec_0000.jpg",
     "download": "https://drive.google.com/uc?export=download&id=1sp4B_xKODuS5E86TKWFwRqdxBZ44Y7sG",
-    "description": "مرداد ۱۳۶۷\nپیشگفتار\nلیست‌ها و صف‌ها\nوظایف\nپیام‌ها و پورت‌ها\nورودی/خروجی\nوقفه‌ها\nتخصیص حافظه\nکتابخانه‌ها\nرام-واک\nپیوست الف: فایل‌های ضمیمه EXEC\nپیوست ب: سایر روال‌ها\nپیوست ج: اطلاعات حافظه/دیسک\nپیوست ج: آفست‌های پایه کتابخانه\n\n📚 این کتاب در آرشیو <a href=\"https://amigastore.ir\" target=\"_blank\" rel=\"noopener\" style=\"color:#FFAA66;\">AmigaStore.ir</a> نگهداری می‌شود — مرجع تخصصی کتاب‌ها و محصولات کلاسیک.",
+    "description": "مرداد ۱۳۶۷\nپیشگفتار\nلیست‌ها و صف‌ها\nوظایف\nپیام‌ها و پورت‌ها\nورودی/خروجی\nوقفه‌ها\nتخصیص حافظه\nکتابخانه‌ها\nرام-واک\nپیوست الف: فایل‌های ضمیمه EXEC\nپیوست ب: سایر روال‌ها\nپیوست ج: اطلاعات حافظه/دیسک\nپیوست ج: آفست‌های پایه کتابخانه 📚 این کتاب در آرشیو AmigaStore.ir نگهداری می‌شود — مرجع تخصصی کتاب‌ها و محصولات کلاسیک.",
     "active": true,
     "views": 0,
     "featured": false,
@@ -237,7 +237,10 @@
     "banner": {
       "image": "",
       "link": "https://amigastore.ir"
-    }
+    },
+    "backlinks": [
+      "https://amigastore.ir"
+    ]
   },
   {
     "id": "m-5",
@@ -26962,11 +26965,14 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Hardware_Reference_Manual_1985_Commodore",
     "download": "https://archive.org/download/Amiga_Hardware_Reference_Manual_1985_Commodore/Amiga_Hardware_Reference_Manual_1985_Commodore.pdf",
-    "description": "Commodore Amiga Book: Amiga Hardware Reference Manual (1985)(Commodore) | سال انتشار: 1985 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Hardware Reference Manual (1985)(Commodore) | سال انتشار: 1985 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-562",
@@ -26998,11 +27004,14 @@
     ],
     "cover": "https://archive.org/services/img/1989-bleek-weltner-maelger-more-amiga-tricks-tips",
     "download": "https://archive.org/download/1989-bleek-weltner-maelger-more-amiga-tricks-tips/1989-bleek-weltner-maelger-more-amiga-tricks-tips.pdf",
-    "description": "More Amiga Tricks and Tips | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "More Amiga Tricks and Tips | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-574",
@@ -27034,11 +27043,14 @@
     ],
     "cover": "https://archive.org/services/img/breuer-markus-deluxe-grafik-mit-dem-amiga-m-t-1987",
     "download": "https://archive.org/details/breuer-markus-deluxe-grafik-mit-dem-amiga-m-t-1987",
-    "description": "DELUXE Grafik mit dem Amiga | نویسنده: Breuer, Markus | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "DELUXE Grafik mit dem Amiga | نویسنده: Breuer, Markus | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-211",
@@ -27070,11 +27082,14 @@
     ],
     "cover": "https://archive.org/services/img/amiga-spiele-selber-programmieren-band-2",
     "download": "https://archive.org/details/amiga-spiele-selber-programmieren-band-2",
-    "description": "Amiga Spiele selber programmieren Band 2 | نویسنده: Niki Laber | سال انتشار: 1996 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Spiele selber programmieren Band 2 | نویسنده: Niki Laber | سال انتشار: 1996 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-715",
@@ -27106,11 +27121,14 @@
     ],
     "cover": "https://archive.org/services/img/Lattice_C_AmigaDOS_Compiler_Version_3_Programmers_Reference_Guide_1986-09-12_Lattice_Inc.",
     "download": "https://archive.org/download/Lattice_C_AmigaDOS_Compiler_Version_3_Programmers_Reference_Guide_1986-09-12_Lattice_Inc./Lattice_C_AmigaDOS_Compiler_Version_3_Programmers_Reference_Guide_1986-09-12_Lattice_Inc..pdf",
-    "description": "The C programmer's handbook | نویسنده: Bolsky, M I | سال انتشار: 1985 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "The C programmer's handbook | نویسنده: Bolsky, M I | سال انتشار: 1985 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-233",
@@ -27142,11 +27160,14 @@
     ],
     "cover": "https://archive.org/services/img/amiga_presentation_nicholson",
     "download": "https://archive.org/download/amiga_presentation_nicholson/amiga_presentation_nicholson.pdf",
-    "description": "Amiga 1000 Hardware Early History and System Architecture Overview | نویسنده: Joe Decuir & Ronald Nicholson | سال انتشار: 2015 | زبان: English | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga 1000 Hardware Early History and System Architecture Overview | نویسنده: Joe Decuir & Ronald Nicholson | سال انتشار: 2015 | زبان: English | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-130",
@@ -27178,11 +27199,14 @@
     ],
     "cover": "https://archive.org/services/img/amigabasic_it",
     "download": "https://archive.org/details/amigabasic_it",
-    "description": "AmigaBASIC | نویسنده: Hannes Ruegheimer, Christian Spanik | سال انتشار: 1988 | زبان: ita | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AmigaBASIC | نویسنده: Hannes Ruegheimer, Christian Spanik | سال انتشار: 1988 | زبان: ita | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-711",
@@ -27206,11 +27230,14 @@
     ],
     "cover": "https://archive.org/services/img/cdtv_20211014",
     "download": "https://archive.org/details/cdtv_20211014",
-    "description": "Commodore Amiga CDTV UK Magazine Advertisements & Reviews | نویسنده: AmigaJay | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga CDTV UK Magazine Advertisements & Reviews | نویسنده: AmigaJay | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-571",
@@ -27242,11 +27269,14 @@
     ],
     "cover": "https://archive.org/services/img/hi-soft-amiga-devpac-assembler",
     "download": "https://archive.org/details/hi-soft-amiga-devpac-assembler",
-    "description": "HiSoft Amiga Devpac Assembler | نویسنده: Markt & Technik Verlag AG, HiSoft | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "HiSoft Amiga Devpac Assembler | نویسنده: Markt & Technik Verlag AG, HiSoft | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-565",
@@ -27278,11 +27308,14 @@
     ],
     "cover": "https://archive.org/services/img/amigatecnichediprogrammazione",
     "download": "https://archive.org/details/amigatecnichediprogrammazione",
-    "description": "Amiga - Tecniche di programmazione | نویسنده: Robert A Peck | سال انتشار: 1989 | زبان: ita | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga - Tecniche di programmazione | نویسنده: Robert A Peck | سال انتشار: 1989 | زبان: ita | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-919",
@@ -27308,11 +27341,14 @@
     ],
     "cover": "https://archive.org/services/img/amiga-tips-und-tricks",
     "download": "https://archive.org/details/amiga-tips-und-tricks",
-    "description": "Amiga Tips und Tricks | نویسنده: Weltner, Hornig | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Tips und Tricks | نویسنده: Weltner, Hornig | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-656",
@@ -27344,11 +27380,15 @@
     ],
     "cover": "https://archive.org/services/img/maschinen-und-assemblersprache-des-m-68000",
     "download": "https://archive.org/details/maschinen-und-assemblersprache-des-m-68000",
-    "description": "Maschinen und Assemblersprache des M 68000 | نویسنده: Helmut Ostermann | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Maschinen und Assemblersprache des M 68000 | نویسنده: Helmut Ostermann | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-418",
@@ -27378,11 +27418,15 @@
     ],
     "cover": "https://archive.org/services/img/markt-technik-super-ed-de",
     "download": "https://archive.org/details/markt-technik-super-ed-de",
-    "description": "Amiga SuperED | نویسنده: Markt & Technik | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga SuperED | نویسنده: Markt & Technik | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-403",
@@ -27414,11 +27458,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Graphics_Inside_and_Out_1989-07_Abacus",
     "download": "https://archive.org/download/Amiga_Graphics_Inside_and_Out_1989-07_Abacus/Amiga_Graphics_Inside_and_Out_1989-07_Abacus.pdf",
-    "description": "Commodore Amiga Book: Amiga Graphics Inside and Out (1989-07)(Abacus) | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Graphics Inside and Out (1989-07)(Abacus) | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-652",
@@ -27450,11 +27498,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Intuition_The_Amiga_User_Interface_1985_Commodore",
     "download": "https://archive.org/download/Amiga_Intuition_The_Amiga_User_Interface_1985_Commodore/Amiga_Intuition_The_Amiga_User_Interface_1985_Commodore.pdf",
-    "description": "Commodore Amiga Book: Amiga Intuition The Amiga User Interface (1985)(Commodore) | سال انتشار: 1985 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Intuition The Amiga User Interface (1985)(Commodore) | سال انتشار: 1985 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-995",
@@ -27483,11 +27535,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-c-in-beispielen-markt-technik",
     "download": "https://archive.org/details/amiga-c-in-beispielen-markt-technik",
-    "description": "Amiga C In Beispielen | نویسنده: E Huckert, F Kremser | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga C In Beispielen | نویسنده: E Huckert, F Kremser | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-257",
@@ -27519,11 +27575,15 @@
     ],
     "cover": "https://archive.org/services/img/1988-computes-second-book-of-amiga",
     "download": "https://archive.org/download/1988-computes-second-book-of-amiga/1988-computes-second-book-of-amiga.pdf",
-    "description": "Compute!'s second book of Amiga | نویسنده: Compute! Publications, Inc | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Compute!'s second book of Amiga | نویسنده: Compute! Publications, Inc | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-608",
@@ -27555,11 +27615,15 @@
     ],
     "cover": "https://archive.org/services/img/1986-boom-michael-the-amiga",
     "download": "https://archive.org/download/1986-boom-michael-the-amiga/1986-boom-michael-the-amiga.pdf",
-    "description": "The Amiga : images, sounds, and animation on the Commodore Amiga | نویسنده: Boom, Michael | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "The Amiga : images, sounds, and animation on the Commodore Amiga | نویسنده: Boom, Michael | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-166",
@@ -27588,11 +27652,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-modula-2",
     "download": "https://archive.org/details/amiga-modula-2",
-    "description": "Amiga Modula 2 | نویسنده: Holger Gzella | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Modula 2 | نویسنده: Holger Gzella | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-981",
@@ -27620,11 +27688,15 @@
     ],
     "cover": "https://archive.org/services/img/amigadainformaticaareligione",
     "download": "https://archive.org/details/amigadainformaticaareligione",
-    "description": "Amiga, da informatica a religione 1985 – 2013 | نویسنده: www commodorecomputerblog com | سال انتشار: 2013 | زبان: ita | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga, da informatica a religione 1985 – 2013 | نویسنده: www commodorecomputerblog com | سال انتشار: 2013 | زبان: ita | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-477",
@@ -27656,11 +27728,15 @@
     ],
     "cover": "https://archive.org/services/img/gfa-basic-3.5-interpreter",
     "download": "https://archive.org/details/gfa-basic-3.5-interpreter",
-    "description": "GFA Basic 3.5 Interpreter (Amiga) | نویسنده: Data Media UK | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "GFA Basic 3.5 Interpreter (Amiga) | نویسنده: Data Media UK | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-755",
@@ -27692,11 +27768,15 @@
     ],
     "cover": "https://archive.org/services/img/Using_ARexx_on_the_Amiga_1992_Abacus",
     "download": "https://archive.org/download/Using_ARexx_on_the_Amiga_1992_Abacus/Using_ARexx_on_the_Amiga_1992_Abacus.pdf",
-    "description": "Commodore Amiga Book: Using ARexx on the Amiga (1992)(Abacus) | سال انتشار: 1992 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Using ARexx on the Amiga (1992)(Abacus) | سال انتشار: 1992 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-492",
@@ -27728,11 +27808,15 @@
     ],
     "cover": "https://archive.org/services/img/Commodore_Amiga_A500_A2000_Technical_Reference_Manual_1987_Commodore",
     "download": "https://archive.org/download/Commodore_Amiga_A500_A2000_Technical_Reference_Manual_1987_Commodore/Commodore_Amiga_A500_A2000_Technical_Reference_Manual_1987_Commodore.pdf",
-    "description": "Commodore Amiga Book: Commodore Amiga A500 - A2000 Technical Reference Manual (1987)(Commodore) | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Commodore Amiga A500 - A2000 Technical Reference Manual (1987)(Commodore) | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-204",
@@ -27764,11 +27848,15 @@
     ],
     "cover": "https://archive.org/services/img/1989-bleek-weltner-maelger-best-amiga-tricks-tips",
     "download": "https://archive.org/download/1989-bleek-weltner-maelger-best-amiga-tricks-tips/1989-bleek-weltner-maelger-best-amiga-tricks-tips.pdf",
-    "description": "The Best Amiga Tips and Tricks, by Bleek & Weltner & Maelger | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "The Best Amiga Tips and Tricks, by Bleek & Weltner & Maelger | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-217",
@@ -27800,11 +27888,15 @@
     ],
     "cover": "https://archive.org/services/img/COMPUTEs_Advanced_AmigaBASIC_1986_COMPUTE_Publications",
     "download": "https://archive.org/download/COMPUTEs_Advanced_AmigaBASIC_1986_COMPUTE_Publications/COMPUTEs_Advanced_AmigaBASIC_1986_COMPUTE_Publications.pdf",
-    "description": "Advanced Amiga BASIC | نویسنده: Halfhill, Tom R, Brannon, Charles | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Advanced Amiga BASIC | نویسنده: Halfhill, Tom R, Brannon, Charles | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-429",
@@ -27832,11 +27924,15 @@
     ],
     "cover": "https://archive.org/services/img/babiel-rainer-woytal-patrick-das-amiga-spielebuch",
     "download": "https://archive.org/details/babiel-rainer-woytal-patrick-das-amiga-spielebuch",
-    "description": "Das Amiga Spielebuch | نویسنده: Babiel, Rainer & Woytal, Patrick | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Das Amiga Spielebuch | نویسنده: Babiel, Rainer & Woytal, Patrick | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-893",
@@ -27868,11 +27964,15 @@
     ],
     "cover": "https://archive.org/services/img/spiele-programmierung-in-assembler-de",
     "download": "https://archive.org/details/spiele-programmierung-in-assembler-de",
-    "description": "Spiele Programmierung in Assembler | نویسنده: Jorgo Schimanski | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Spiele Programmierung in Assembler | نویسنده: Jorgo Schimanski | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-683",
@@ -27904,11 +28004,15 @@
     ],
     "cover": "https://archive.org/services/img/blitz-basic-amiga-format-game-competition-dreamkatcha",
     "download": "https://archive.org/download/blitz-basic-amiga-format-game-competition-dreamkatcha/blitz-basic-amiga-format-game-competition-dreamkatcha.pdf",
-    "description": "The Great Amiga Format Blitz Basic 2 Compo Mystery | نویسنده: dreamkatcha | سال انتشار: 2020 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "The Great Amiga Format Blitz Basic 2 Compo Mystery | نویسنده: dreamkatcha | سال انتشار: 2020 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-748",
@@ -27940,11 +28044,15 @@
     ],
     "cover": "https://archive.org/services/img/COMPUTEs_AmigaDOS_Reference_Guide_v1.1_1986_COMPUTE_Publications",
     "download": "https://archive.org/download/COMPUTEs_AmigaDOS_Reference_Guide_v1.1_1986_COMPUTE_Publications/COMPUTEs_AmigaDOS_Reference_Guide_v1.1_1986_COMPUTE_Publications.pdf",
-    "description": "Commodore Amiga Book: COMPUTE!s AmigaDOS Reference Guide v1.1 (1986)(COMPUTE! Publications) | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: COMPUTE!s AmigaDOS Reference Guide v1.1 (1986)(COMPUTE! Publications) | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-205",
@@ -27976,11 +28084,15 @@
     ],
     "cover": "https://archive.org/services/img/COMPUTEs_Amiga_Applications_1986_COMPUTE_Publications",
     "download": "https://archive.org/download/COMPUTEs_Amiga_Applications_1986_COMPUTE_Publications/COMPUTEs_Amiga_Applications_1986_COMPUTE_Publications.pdf",
-    "description": "Compute!'s Amiga applications | نویسنده: Flynn, Brian, 1950 | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Compute!'s Amiga applications | نویسنده: Flynn, Brian, 1950 | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566007910-347",
@@ -28012,11 +28124,15 @@
     ],
     "cover": "https://archive.org/services/img/1991-kerkloh-tornsdorf-zoller-amigados-inside-and-out",
     "download": "https://archive.org/download/1991-kerkloh-tornsdorf-zoller-amigados-inside-and-out/1991-kerkloh-tornsdorf-zoller-amigados-inside-and-out.pdf",
-    "description": "AmigaDOS Inside and Out (Revised) by Kerkloh, Tornsdorf and Zoller | سال انتشار: 1991 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AmigaDOS Inside and Out (Revised) by Kerkloh, Tornsdorf and Zoller | سال انتشار: 1991 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-106",
@@ -28048,11 +28164,15 @@
     ],
     "cover": "https://archive.org/services/img/gfa-basic-3.0-compiler-amiga",
     "download": "https://archive.org/details/gfa-basic-3.0-compiler-amiga",
-    "description": "GFA BASIC 3.0 Compiler ( Amiga) | نویسنده: GFA Systemtechnik GmbH | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "GFA BASIC 3.0 Compiler ( Amiga) | نویسنده: GFA Systemtechnik GmbH | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-967",
@@ -28084,11 +28204,15 @@
     ],
     "cover": "https://archive.org/services/img/gabriele-lechner-landschafts-malerei-mit-deluxe-paint-de",
     "download": "https://archive.org/details/gabriele-lechner-landschafts-malerei-mit-deluxe-paint-de",
-    "description": "Landschafts-Malerei mit Deluxe Paint | نویسنده: Gabriele Lechner | سال انتشار: 1994 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Landschafts-Malerei mit Deluxe Paint | نویسنده: Gabriele Lechner | سال انتشار: 1994 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-546",
@@ -28114,11 +28238,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-amiga-3000-ux",
     "download": "https://archive.org/details/commodore-amiga-3000-ux",
-    "description": "Commodore Amiga 3000 UX | نویسنده: Commodore | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga 3000 UX | نویسنده: Commodore | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-995",
@@ -28149,11 +28277,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-audio-entwickler-paket",
     "download": "https://archive.org/details/amiga-audio-entwickler-paket",
-    "description": "Amiga Audio Entwickler Paket | نویسنده: Nicolaus Wirsing | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Audio Entwickler Paket | نویسنده: Nicolaus Wirsing | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-792",
@@ -28185,11 +28317,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-datenstrukturen-lexikon",
     "download": "https://archive.org/details/amiga-datenstrukturen-lexikon",
-    "description": "Amiga Datenstrukturen Lexikon | نویسنده: Paul Lukowicz, Olaf Pfeiffer | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Datenstrukturen Lexikon | نویسنده: Paul Lukowicz, Olaf Pfeiffer | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-902",
@@ -28221,11 +28357,15 @@
     ],
     "cover": "https://archive.org/services/img/amos-the-creator-handbuch",
     "download": "https://archive.org/details/amos-the-creator-handbuch",
-    "description": "AMOS The Creator Handbuch | نویسنده: Francois Lionet, Stephen Hill | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AMOS The Creator Handbuch | نویسنده: Francois Lionet, Stephen Hill | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-59",
@@ -28257,11 +28397,15 @@
     ],
     "cover": "https://archive.org/services/img/1991-baker-jesup-et-al-the-amigados-manual-3rd-ed",
     "download": "https://archive.org/download/1991-baker-jesup-et-al-the-amigados-manual-3rd-ed/1991-baker-jesup-et-al-the-amigados-manual-3rd-ed.pdf",
-    "description": "The AmigaDOS manual | نویسنده: Commodore Amiga, Inc | سال انتشار: 1991 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "The AmigaDOS manual | نویسنده: Commodore Amiga, Inc | سال انتشار: 1991 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-244",
@@ -28293,11 +28437,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-hardware-tuning-de",
     "download": "https://archive.org/details/amiga-hardware-tuning-de",
-    "description": "Amiga Hardware Tuning | نویسنده: Gerlach & Hochberger | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Hardware Tuning | نویسنده: Gerlach & Hochberger | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-73",
@@ -28329,11 +28477,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_World_Official_AmigaDOS_2_Companion_1990_IDG_Books_Worldwide",
     "download": "https://archive.org/download/Amiga_World_Official_AmigaDOS_2_Companion_1990_IDG_Books_Worldwide/Amiga_World_Official_AmigaDOS_2_Companion_1990_IDG_Books_Worldwide.pdf",
-    "description": "AmigaWorld official AmigaDOS 2 companion | نویسنده: Ryan, Bob | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AmigaWorld official AmigaDOS 2 companion | نویسنده: Ryan, Bob | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-127",
@@ -28361,11 +28513,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga3dGraphicProgrammingInBasic",
     "download": "https://archive.org/download/Amiga3dGraphicProgrammingInBasic/Amiga3dGraphicProgrammingInBasic.pdf",
-    "description": "Amiga 3D Graphic Programming in BASIC | زبان: English | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga 3D Graphic Programming in BASIC | زبان: English | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-710",
@@ -28397,11 +28553,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Desktop_Video_Guide_1989_Abacus",
     "download": "https://archive.org/download/Amiga_Desktop_Video_Guide_1989_Abacus/Amiga_Desktop_Video_Guide_1989_Abacus.pdf",
-    "description": "Commodore Amiga Book: Amiga Desktop Video Guide (1989)(Abacus) | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Desktop Video Guide (1989)(Abacus) | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-772",
@@ -28433,11 +28593,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Tips_and_Tricks_1988_Abacus",
     "download": "https://archive.org/download/Amiga_Tips_and_Tricks_1988_Abacus/Amiga_Tips_and_Tricks_1988_Abacus.pdf",
-    "description": "Commodore Amiga Book: Amiga Tips and Tricks (1988)(Abacus) | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Tips and Tricks (1988)(Abacus) | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-133",
@@ -28457,11 +28621,15 @@
     ],
     "cover": "https://archive.org/services/img/Egghead_Amiga_3_month_planner_1993",
     "download": "https://archive.org/download/Egghead_Amiga_3_month_planner_1993/Egghead_Amiga_3_month_planner_1993.pdf",
-    "description": "Egghead Amiga 3 month planner 1993 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Egghead Amiga 3 month planner 1993 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-111",
@@ -28493,11 +28661,15 @@
     ],
     "cover": "https://archive.org/services/img/computers-that-made-britain",
     "download": "https://archive.org/details/computers-that-made-britain",
-    "description": "The Computers That Made Britain | نویسنده: Tim Danton | سال انتشار: 2021 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "The Computers That Made Britain | نویسنده: Tim Danton | سال انتشار: 2021 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-14",
@@ -28529,11 +28701,15 @@
     ],
     "cover": "https://archive.org/services/img/das-grosse-buch-zu-gfa-basic-amiga",
     "download": "https://archive.org/details/das-grosse-buch-zu-gfa-basic-amiga",
-    "description": "Das Grosse Buch zu GFA BASIC AMIGA | نویسنده: Bleek, Hecht & Litzkendorf | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Das Grosse Buch zu GFA BASIC AMIGA | نویسنده: Bleek, Hecht & Litzkendorf | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-993",
@@ -28565,11 +28741,15 @@
     ],
     "cover": "https://archive.org/services/img/maxon-cinema-4-d-v-2-4-pro-handbuch",
     "download": "https://archive.org/details/maxon-cinema-4-d-v-2-4-pro-handbuch",
-    "description": "Maxon Cinema 4D V2-4 Pro Handbuch | نویسنده: Maxon | سال انتشار: 1995 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Maxon Cinema 4D V2-4 Pro Handbuch | نویسنده: Maxon | سال انتشار: 1995 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-988",
@@ -28601,11 +28781,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-a-4000-benutzerhandbuch-workbench-3.0",
     "download": "https://archive.org/details/commodore-a-4000-benutzerhandbuch-workbench-3.0",
-    "description": "Benutzerhandbuch Workbench 3.0 | نویسنده: Commodore | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Benutzerhandbuch Workbench 3.0 | نویسنده: Commodore | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-423",
@@ -28637,11 +28821,15 @@
     ],
     "cover": "https://archive.org/services/img/markt-technik-computerliteratur-software-herbst-1986",
     "download": "https://archive.org/details/markt-technik-computerliteratur-software-herbst-1986",
-    "description": "Markt & Technik - Computerliteratur und Software - Herbst'86 | نویسنده: Markt und Technik Verlag | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Markt & Technik - Computerliteratur und Software - Herbst'86 | نویسنده: Markt und Technik Verlag | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-914",
@@ -28673,11 +28861,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Basic_1991_Data_Becker_DE",
     "download": "https://archive.org/download/Amiga_Basic_1991_Data_Becker_DE/Amiga_Basic_1991_Data_Becker_DE.pdf",
-    "description": "Commodore Amiga Book: Amiga Basic (1991)(Data Becker)(DE) | سال انتشار: 1991 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Basic (1991)(Data Becker)(DE) | سال انتشار: 1991 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-882",
@@ -28709,11 +28901,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-programmieren-in-basic",
     "download": "https://archive.org/details/amiga-programmieren-in-basic",
-    "description": "Amiga: Programmieren in Basic | نویسنده: Rolf Dieter Klein | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga: Programmieren in Basic | نویسنده: Rolf Dieter Klein | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-359",
@@ -28743,11 +28939,15 @@
     ],
     "cover": "https://archive.org/services/img/aegis-modeler-3-d-manual",
     "download": "https://archive.org/details/aegis-modeler-3-d-manual",
-    "description": "Aegis Modeler 3D Manual | نویسنده: Stuart Ferguson | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Aegis Modeler 3D Manual | نویسنده: Stuart Ferguson | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-86",
@@ -28779,11 +28979,15 @@
     ],
     "cover": "https://archive.org/services/img/AmigaDOS_2.0_3.0_199x_media_DE",
     "download": "https://archive.org/download/AmigaDOS_2.0_3.0_199x_media_DE/AmigaDOS_2.0_3.0_199x_media_DE.pdf",
-    "description": "Commodore Amiga Book: AmigaDOS 2.0 - 3.0 (199x)(media)(DE) | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: AmigaDOS 2.0 - 3.0 (199x)(media)(DE) | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-998",
@@ -28814,11 +29018,15 @@
     ],
     "cover": "https://archive.org/services/img/spanik-rugheimer-amiga-basic",
     "download": "https://archive.org/details/spanik-rugheimer-amiga-basic",
-    "description": "Amiga BASIC | نویسنده: Spanik Rügheimer | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga BASIC | نویسنده: Spanik Rügheimer | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-289",
@@ -28850,11 +29058,15 @@
     ],
     "cover": "https://archive.org/services/img/mohr-volker-der-amiga-die-geschichte-einer-computerlegende",
     "download": "https://archive.org/details/mohr-volker-der-amiga-die-geschichte-einer-computerlegende",
-    "description": "Der Amiga Die Geschichte einer Computerlegende | نویسنده: Mohr, Volker | سال انتشار: 2007 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Der Amiga Die Geschichte einer Computerlegende | نویسنده: Mohr, Volker | سال انتشار: 2007 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-28",
@@ -28883,11 +29095,15 @@
     ],
     "cover": "https://archive.org/services/img/byte-by-byte-sculpt-3-d",
     "download": "https://archive.org/details/byte-by-byte-sculpt-3-d",
-    "description": "Sculpt 3D Manual | نویسنده: Cathryn E F Graham, Eric Graham | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Sculpt 3D Manual | نویسنده: Cathryn E F Graham, Eric Graham | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-674",
@@ -28916,11 +29132,15 @@
     ],
     "cover": "https://archive.org/services/img/1986-prospekt-amiga-1000-ist-da",
     "download": "https://archive.org/details/1986-prospekt-amiga-1000-ist-da",
-    "description": "Mensch, der Amiga 1000 ist da! | نویسنده: Commodore | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Mensch, der Amiga 1000 ist da! | نویسنده: Commodore | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-603",
@@ -28952,11 +29172,15 @@
     ],
     "cover": "https://archive.org/services/img/grafik-in-c-auf-dem-amiga",
     "download": "https://archive.org/details/grafik-in-c-auf-dem-amiga",
-    "description": "Grafik in C auf dem Amiga | نویسنده: P Lukowicz, O Pfeiffer | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Grafik in C auf dem Amiga | نویسنده: P Lukowicz, O Pfeiffer | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-662",
@@ -28988,11 +29212,15 @@
     ],
     "cover": "https://archive.org/services/img/COMPUTEs_Amiga_Machine_Language_Programming_Guide_1988_COMPUTE_Publications",
     "download": "https://archive.org/download/COMPUTEs_Amiga_Machine_Language_Programming_Guide_1988_COMPUTE_Publications/COMPUTEs_Amiga_Machine_Language_Programming_Guide_1988_COMPUTE_Publications.pdf",
-    "description": "Compute!'s Amiga machine language programming guide | نویسنده: Wolf, Daniel, Leavitt, Douglas | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Compute!'s Amiga machine language programming guide | نویسنده: Wolf, Daniel, Leavitt, Douglas | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787566603137-154",
@@ -29024,11 +29252,15 @@
     ],
     "cover": "https://archive.org/services/img/COMPUTEs_Elementary_AmigaBASIC_1986_COMPUTE_Publications",
     "download": "https://archive.org/download/COMPUTEs_Elementary_AmigaBASIC_1986_COMPUTE_Publications/COMPUTEs_Elementary_AmigaBASIC_1986_COMPUTE_Publications.pdf",
-    "description": "Elementary Amiga BASIC | نویسنده: Regena, C | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Elementary Amiga BASIC | نویسنده: Regena, C | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-685",
@@ -29059,11 +29291,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-homecomputer-zubehoer-1989-08",
     "download": "https://archive.org/details/commodore-homecomputer-zubehoer-1989-08",
-    "description": "Commodore Homecomputer-Zubehör | نویسنده: Commodore | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Homecomputer-Zubehör | نویسنده: Commodore | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-135",
@@ -29095,11 +29331,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-ersatzteilliste-02-92",
     "download": "https://archive.org/details/commodore-ersatzteilliste-02-92",
-    "description": "Commodore Ersatzteilliste 02-1992 | نویسنده: Commodore Büromaschinen GmbH | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Ersatzteilliste 02-1992 | نویسنده: Commodore Büromaschinen GmbH | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-480",
@@ -29131,11 +29371,15 @@
     ],
     "cover": "https://archive.org/services/img/giocoecreoconamiga",
     "download": "https://archive.org/details/giocoecreoconamiga",
-    "description": "Gioco e creo con Amiga | نویسنده: Logosistemi Training s r l | سال انتشار: 1992 | زبان: ita | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Gioco e creo con Amiga | نویسنده: Logosistemi Training s r l | سال انتشار: 1992 | زبان: ita | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-996",
@@ -29167,11 +29411,15 @@
     ],
     "cover": "https://archive.org/services/img/lamiga",
     "download": "https://archive.org/details/lamiga",
-    "description": "L'Amiga - Immagini, suoni e animazioni sul Commodore Amiga | نویسنده: Michael Boom | سال انتشار: 1987 | زبان: ita | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "L'Amiga - Immagini, suoni e animazioni sul Commodore Amiga | نویسنده: Michael Boom | سال انتشار: 1987 | زبان: ita | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-904",
@@ -29203,11 +29451,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Users_Guide_to_Graphics_Sound_and_Telecommunications_1987_Bamtam_Books",
     "download": "https://archive.org/download/Amiga_Users_Guide_to_Graphics_Sound_and_Telecommunications_1987_Bamtam_Books/Amiga_Users_Guide_to_Graphics_Sound_and_Telecommunications_1987_Bamtam_Books.pdf",
-    "description": "Commodore Amiga Book: Amiga Users Guide to Graphics Sound and Telecommunications (1987)(Bamtam Books) | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Users Guide to Graphics Sound and Telecommunications (1987)(Bamtam Books) | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-39",
@@ -29238,11 +29490,15 @@
     ],
     "cover": "https://archive.org/services/img/computer-werbung-13",
     "download": "https://archive.org/details/computer-werbung-13",
-    "description": "Vobis Amiga 1000 | نویسنده: Vobis Computer | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Vobis Amiga 1000 | نویسنده: Vobis Computer | سال انتشار: 1986 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-434",
@@ -29267,11 +29523,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-amiga-500",
     "download": "https://archive.org/details/commodore-amiga-500",
-    "description": "Commodore Amiga 500 Flyer 3-1987 | نویسنده: Commodore | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga 500 Flyer 3-1987 | نویسنده: Commodore | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-990",
@@ -29303,11 +29563,15 @@
     ],
     "cover": "https://archive.org/services/img/c-auf-dem-amiga-de",
     "download": "https://archive.org/details/c-auf-dem-amiga-de",
-    "description": "C auf dem Amiga | نویسنده: Peter Wollschläger | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "C auf dem Amiga | نویسنده: Peter Wollschläger | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-950",
@@ -29339,11 +29603,15 @@
     ],
     "cover": "https://archive.org/services/img/1986-metacomco-intro-to-tripos",
     "download": "https://archive.org/download/1986-metacomco-intro-to-tripos/1986-metacomco-intro-to-tripos.pdf",
-    "description": "Intro to TRIPOS, by METACOMCO | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Intro to TRIPOS, by METACOMCO | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-106",
@@ -29375,11 +29643,15 @@
     ],
     "cover": "https://archive.org/services/img/maxon-cinema-4-d-version-2-manual-de",
     "download": "https://archive.org/details/maxon-cinema-4-d-version-2-manual-de",
-    "description": "Maxon Cinema 4D Handbücher Amiga Version 2-4 | نویسنده: Christian Losch, Philipp Losch, Harald Eger, Michael Giebel | سال انتشار: 1994 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Maxon Cinema 4D Handbücher Amiga Version 2-4 | نویسنده: Christian Losch, Philipp Losch, Harald Eger, Michael Giebel | سال انتشار: 1994 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-12",
@@ -29411,11 +29683,15 @@
     ],
     "cover": "https://archive.org/services/img/maxon-develop-4",
     "download": "https://archive.org/details/maxon-develop-4",
-    "description": "MaxonDEVELOP 4 (C++ IDE) | نویسنده: Maxon Computer | سال انتشار: 1996 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "MaxonDEVELOP 4 (C++ IDE) | نویسنده: Maxon Computer | سال انتشار: 1996 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-251",
@@ -29447,11 +29723,15 @@
     ],
     "cover": "https://archive.org/services/img/Blitzeinstieg_Kickstart_Workbench_2.x_198x_media_DE",
     "download": "https://archive.org/download/Blitzeinstieg_Kickstart_Workbench_2.x_198x_media_DE/Blitzeinstieg_Kickstart_Workbench_2.x_198x_media_DE.pdf",
-    "description": "Commodore Amiga Book: Blitzeinstieg Kickstart - Workbench 2.x (198x)(media)(DE) | سال انتشار: 1980 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Blitzeinstieg Kickstart - Workbench 2.x (198x)(media)(DE) | سال انتشار: 1980 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-920",
@@ -29483,11 +29763,15 @@
     ],
     "cover": "https://archive.org/services/img/1988-amigados-v132-enhancer-software",
     "download": "https://archive.org/download/1988-amigados-v132-enhancer-software/1988-amigados-v132-enhancer-software.pdf",
-    "description": "AmigaDOS v132 Enhancer Software | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AmigaDOS v132 Enhancer Software | سال انتشار: 1988 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-581",
@@ -29519,11 +29803,15 @@
     ],
     "cover": "https://archive.org/services/img/grafik-auf-dem-amiga-de",
     "download": "https://archive.org/details/grafik-auf-dem-amiga-de",
-    "description": "Grafik auf dem Amiga | نویسنده: Manfred Kohlen | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Grafik auf dem Amiga | نویسنده: Manfred Kohlen | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-371",
@@ -29549,11 +29837,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-amiga-1200-werbung",
     "download": "https://archive.org/details/commodore-amiga-1200-werbung",
-    "description": "Commodore Amiga 1200 | نویسنده: Commodore | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga 1200 | نویسنده: Commodore | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-244",
@@ -29585,11 +29877,15 @@
     ],
     "cover": "https://archive.org/services/img/das-amiga-profibuch-sybex",
     "download": "https://archive.org/details/das-amiga-profibuch-sybex",
-    "description": "Das Amiga Profibuch | نویسنده: Garry Glendown, Roland Haas | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Das Amiga Profibuch | نویسنده: Garry Glendown, Roland Haas | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-927",
@@ -29616,11 +29912,15 @@
     ],
     "cover": "https://archive.org/services/img/c-amiga-500-benutzerhandbuch-1987",
     "download": "https://archive.org/details/c-amiga-500-benutzerhandbuch-1987",
-    "description": "Amiga 500 Benutzerhandbuch | نویسنده: Commodore | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga 500 Benutzerhandbuch | نویسنده: Commodore | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-799",
@@ -29652,11 +29952,15 @@
     ],
     "cover": "https://archive.org/services/img/byte-by-byte-animate-3-d",
     "download": "https://archive.org/details/byte-by-byte-animate-3-d",
-    "description": "Byte By Byte Animate 3D | نویسنده: Cathryn E F Graham | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Byte By Byte Animate 3D | نویسنده: Cathryn E F Graham | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-288",
@@ -29688,11 +29992,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-3-d-sprinter",
     "download": "https://archive.org/details/amiga-3-d-sprinter",
-    "description": "Amiga 3D-Sprinter | نویسنده: Georg Glaeser, Thomas Grohser | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga 3D-Sprinter | نویسنده: Georg Glaeser, Thomas Grohser | سال انتشار: 1990 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-78",
@@ -29721,11 +30029,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-devpac-assembler-2.0",
     "download": "https://archive.org/details/amiga-devpac-assembler-2.0",
-    "description": "Amiga Devpac Assembler 2.0 | نویسنده: HiSoft, Markt & Technik | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Devpac Assembler 2.0 | نویسنده: HiSoft, Markt & Technik | سال انتشار: 1989 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-329",
@@ -29755,11 +30067,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-bridgeboard-buch-markt-technik",
     "download": "https://archive.org/details/amiga-bridgeboard-buch-markt-technik",
-    "description": "Amiga Bridgeboard Buch | نویسنده: Günter Thiede | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Bridgeboard Buch | نویسنده: Günter Thiede | سال انتشار: 1991 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-821",
@@ -29788,11 +30104,15 @@
     ],
     "cover": "https://archive.org/services/img/commodore-thema-nr-1-a-2000-1987",
     "download": "https://archive.org/details/commodore-thema-nr-1-a-2000-1987",
-    "description": "Thema Nr.1 - Commodore Amiga 2000 | نویسنده: Commodore Büromaschinen GmbH | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Thema Nr.1 - Commodore Amiga 2000 | نویسنده: Commodore Büromaschinen GmbH | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-182",
@@ -29824,11 +30144,15 @@
     ],
     "cover": "https://archive.org/services/img/COMPUTEs_Amiga_Programmers_Guide_1986_COMPUTE_Publications",
     "download": "https://archive.org/download/COMPUTEs_Amiga_Programmers_Guide_1986_COMPUTE_Publications/COMPUTEs_Amiga_Programmers_Guide_1986_COMPUTE_Publications.pdf",
-    "description": "COMPUTE!'s Amiga programmer's guide | نویسنده: Levy, Stephen, 1946 | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "COMPUTE!'s Amiga programmer's guide | نویسنده: Levy, Stephen, 1946 | سال انتشار: 1986 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-596",
@@ -29857,11 +30181,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-oberon-v-3-handbuch",
     "download": "https://archive.org/details/amiga-oberon-v-3-handbuch",
-    "description": "Amiga-Oberon V3 Handbuch | نویسنده: A L AG | سال انتشار: 1993 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga-Oberon V3 Handbuch | نویسنده: A L AG | سال انتشار: 1993 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-550",
@@ -29893,11 +30221,15 @@
     ],
     "cover": "https://archive.org/services/img/data-becker-amiga-maschinensprache",
     "download": "https://archive.org/details/data-becker-amiga-maschinensprache",
-    "description": "AMIGA Maschinensprache | نویسنده: Stefan Dittrich | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AMIGA Maschinensprache | نویسنده: Stefan Dittrich | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-863",
@@ -29927,11 +30259,15 @@
     ],
     "cover": "https://archive.org/services/img/das-grosse-amiga-musikbuch-data-becker-de",
     "download": "https://archive.org/details/das-grosse-amiga-musikbuch-data-becker-de",
-    "description": "Das Grosse Amiga Musikbuch | نویسنده: Hahn, Spanik & Tai | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Das Grosse Amiga Musikbuch | نویسنده: Hahn, Spanik & Tai | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-492",
@@ -29959,11 +30295,15 @@
     ],
     "cover": "https://archive.org/services/img/das-grosse-amiga-public-domain-buch",
     "download": "https://archive.org/details/das-grosse-amiga-public-domain-buch",
-    "description": "Das Grosse Amiga Public Domain Buch | نویسنده: Stefan Ram, Jens A Hertwig | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Das Grosse Amiga Public Domain Buch | نویسنده: Stefan Ram, Jens A Hertwig | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-233",
@@ -29995,11 +30335,15 @@
     ],
     "cover": "https://archive.org/services/img/macro-system-vlab-yuv-echtzeit-video-digitizer-benutzerhandbuch",
     "download": "https://archive.org/details/macro-system-vlab-yuv-echtzeit-video-digitizer-benutzerhandbuch",
-    "description": "VLAB YUV Echtzeit Video Digitizer Benutzerhandbuch | نویسنده: Macro System | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "VLAB YUV Echtzeit Video Digitizer Benutzerhandbuch | نویسنده: Macro System | سال انتشار: 1992 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-532",
@@ -30027,11 +30371,15 @@
     ],
     "cover": "https://archive.org/services/img/Amiga_Disk_Drives_Inside_and_Out_1989_Abacus_diskette_cover",
     "download": "https://archive.org/download/Amiga_Disk_Drives_Inside_and_Out_1989_Abacus_diskette_cover/Amiga_Disk_Drives_Inside_and_Out_1989_Abacus_diskette_cover.pdf",
-    "description": "Commodore Amiga Book: Amiga Disk Drives Inside and Out (1989)(Abacus)[diskette cover] | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Commodore Amiga Book: Amiga Disk Drives Inside and Out (1989)(Abacus)[diskette cover] | سال انتشار: 1989 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-489",
@@ -30059,11 +30407,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-fever-steckt-alle-an",
     "download": "https://archive.org/details/amiga-fever-steckt-alle-an",
-    "description": "\"Amiga Fever steckt alle an\" - Amiga 500 Flyer | نویسنده: Commodore | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "\"Amiga Fever steckt alle an\" - Amiga 500 Flyer | نویسنده: Commodore | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-809",
@@ -30095,11 +30447,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-supergrafik",
     "download": "https://archive.org/details/amiga-supergrafik",
-    "description": "Amiga Supergrafik | نویسنده: Weltner, Trapp, Jennrich | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Supergrafik | نویسنده: Weltner, Trapp, Jennrich | سال انتشار: 1987 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-871",
@@ -30131,11 +30487,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-das-grosse-c-buch",
     "download": "https://archive.org/details/amiga-das-grosse-c-buch",
-    "description": "Amiga Das Grosse C Buch | نویسنده: Bruno Jennrich, Wolf Gideon Bleek, Peter Schulz | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Das Grosse C Buch | نویسنده: Bruno Jennrich, Wolf Gideon Bleek, Peter Schulz | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-560",
@@ -30163,11 +30523,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-dos-1.3-benutzerhandbuch",
     "download": "https://archive.org/details/amiga-dos-1.3-benutzerhandbuch",
-    "description": "Amiga DOS 1.3 Benutzerhandbuch | نویسنده: Commodore | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga DOS 1.3 Benutzerhandbuch | نویسنده: Commodore | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-156",
@@ -30199,11 +30563,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-doshandbuch",
     "download": "https://archive.org/details/amiga-doshandbuch",
-    "description": "Amiga DOS-Handbuch | نویسنده: Commodore Amiga Inc | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga DOS-Handbuch | نویسنده: Commodore Amiga Inc | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-856",
@@ -30235,11 +30603,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-magazin-software-extra-nr-4-grafik",
     "download": "https://archive.org/details/amiga-magazin-software-extra-nr-4-grafik",
-    "description": "Amiga-Magazin Software-Extra Nr.4 - Grafik | نویسنده: Amiga Magazin | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga-Magazin Software-Extra Nr.4 - Grafik | نویسنده: Amiga Magazin | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-701",
@@ -30271,11 +30643,15 @@
     ],
     "cover": "https://archive.org/services/img/1990-lionet-francois-amos-the-creator-user-guide",
     "download": "https://archive.org/download/1990-lionet-francois-amos-the-creator-user-guide/1990-lionet-francois-amos-the-creator-user-guide.pdf",
-    "description": "AMOS: The Creator User Guide by Francois Lionet | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "AMOS: The Creator User Guide by Francois Lionet | سال انتشار: 1990 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-850",
@@ -30307,11 +30683,15 @@
     ],
     "cover": "https://archive.org/services/img/maxon-basic-3-handbuch",
     "download": "https://archive.org/details/maxon-basic-3-handbuch",
-    "description": "Maxon Basic 3 Handbuch | نویسنده: MAXON Computer GmbH | سال انتشار: 1994 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Maxon Basic 3 Handbuch | نویسنده: MAXON Computer GmbH | سال انتشار: 1994 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-391",
@@ -30340,11 +30720,15 @@
     ],
     "cover": "https://archive.org/services/img/markt-technik-amiga-trick-studio-de",
     "download": "https://archive.org/details/markt-technik-amiga-trick-studio-de",
-    "description": "Amiga Trickstudio A | نویسنده: Markt & Technik | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Trickstudio A | نویسنده: Markt & Technik | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-126",
@@ -30366,11 +30750,15 @@
     ],
     "cover": "https://archive.org/services/img/adam-zalepa-assembler-english",
     "download": "https://archive.org/details/adam-zalepa-assembler-english",
-    "description": "Adam Zalepa Assembler Base English | نویسنده: Adam Zalepa | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Adam Zalepa Assembler Base English | نویسنده: Adam Zalepa | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-845",
@@ -30397,11 +30785,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-intern-3.-ed.-1988",
     "download": "https://archive.org/details/amiga-intern-3.-ed.-1988",
-    "description": "Amiga Intern 3. Ed. 1988 | نویسنده: Dittrich, Gelfand, Schemmel | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Intern 3. Ed. 1988 | نویسنده: Dittrich, Gelfand, Schemmel | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-213",
@@ -30431,11 +30823,15 @@
     ],
     "cover": "https://archive.org/services/img/handbuch-reflections-4.1",
     "download": "https://archive.org/details/handbuch-reflections-4.1",
-    "description": "REFLECTIONS 4.1 | نویسنده: Oberland Computer | سال انتشار: 1997 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "REFLECTIONS 4.1 | نویسنده: Oberland Computer | سال انتشار: 1997 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-605",
@@ -30464,11 +30860,15 @@
     ],
     "cover": "https://archive.org/services/img/amiga-call",
     "download": "https://archive.org/details/amiga-call",
-    "description": "Amiga Call | نویسنده: Markus Schmidt | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Amiga Call | نویسنده: Markus Schmidt | سال انتشار: 1988 | زبان: ger | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   },
   {
     "id": "m-1787567462865-198",
@@ -30500,10 +30900,14 @@
     ],
     "cover": "https://archive.org/services/img/1987-introduction-to-the-amiga-2000",
     "download": "https://archive.org/download/1987-introduction-to-the-amiga-2000/1987-introduction-to-the-amiga-2000.pdf",
-    "description": "Introduction to the Amiga 2000 | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks | آرشیو Archive.org | این کتاب توسط وب‌سایت <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است. | این کتاب توسط وب‌سایت <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Introduction to the Amiga 2000 | سال انتشار: 1987 | زبان: eng | از مجموعه amigabooks",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/"
+    ]
   }
 ]

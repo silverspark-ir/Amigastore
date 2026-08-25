@@ -1140,26 +1140,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787694449925-790",
-    "name": "Input - Vol 2 No 24 (1997)(Marshall Cavendish)(GB)",
-    "issue": 1997,
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "machine",
-      "ml",
-      "ماشین",
-      "1997"
-    ],
-    "cover": "https://archive.org/services/img/Input_Vol_2_No_24_1997_Marshall_Cavendish_GB",
-    "download": "https://archive.org/download/Input_Vol_2_No_24_1997_Marshall_Cavendish_GB/Input_Vol_2_No_24_1997_Marshall_Cavendish_GB.pdf",
-    "description": "Input - Vol 2 No 24 (1997)(Marshall Cavendish)(GB) | سال انتشار: 1997 | زبان: eng | از مجموعه inputmagazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787694449925-660",
     "name": "Input - Vol 4 No 45 (1997)(Marshall Cavendish)(GB)",
     "issue": 1997,
@@ -2532,31 +2512,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787694775018-541",
-    "name": "Mundial",
-    "issue": 1986,
-    "language": "ita",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "c128",
-      "کمودور",
-      "کمودور-64",
-      "commodore-game",
-      "کمودور-بازی",
-      "1986"
-    ],
-    "cover": "https://archive.org/services/img/SpecialProgram22-Supplemento",
-    "download": "https://archive.org/download/SpecialProgram22-Supplemento/SpecialProgram22-Supplemento.pdf",
-    "description": "Mundial | نویسنده: SIPE s r l | سال انتشار: 1986 | زبان: ita | از مجموعه specialprogram | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787694775018-977",
     "name": "Special Program 41",
     "issue": 1988,
@@ -3824,31 +3779,6 @@
     "cover": "https://archive.org/services/img/SpecialProgram01",
     "download": "https://archive.org/download/SpecialProgram01/SpecialProgram01.pdf",
     "description": "Special Program 01 | نویسنده: SIPE s r l | سال انتشار: 1984 | زبان: ita | از مجموعه specialprogram | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787694775019-242",
-    "name": "Special Program 78",
-    "issue": 1991,
-    "language": "ita",
-    "fileSize": "",
-    "tags": [
-      "commodore",
-      "c64",
-      "commodore64",
-      "c128",
-      "کمودور",
-      "کمودور-64",
-      "commodore-game",
-      "کمودور-بازی",
-      "1991"
-    ],
-    "cover": "https://archive.org/services/img/SpecialProgram78",
-    "download": "https://archive.org/download/SpecialProgram78/SpecialProgram78.pdf",
-    "description": "Special Program 78 | نویسنده: SIPE s r l | سال انتشار: 1991 | زبان: ita | از مجموعه specialprogram | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
     "active": true,
     "views": 0,
     "featured": false,
@@ -5672,21 +5602,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787695911356-651",
-    "name": "MicroHobby 068",
-    "issue": "",
-    "language": "es",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/mag_MicroHobby_068",
-    "download": "https://archive.org/details/mag_MicroHobby_068",
-    "description": "MicroHobby 068 | زبان: es | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787695911356-949",
     "name": "MicroHobby 012",
     "issue": 1985,
@@ -6034,25 +5949,6 @@
     "cover": "https://archive.org/services/img/mh-059-jazzz",
     "download": "https://archive.org/details/mh-059-jazzz",
     "description": "MicroHobby 059 | نویسنده: Jazzz | سال انتشار: 1985 | زبان: spa | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787695911356-282",
-    "name": "MicroHobby 060",
-    "issue": 1986,
-    "language": "spa",
-    "fileSize": "",
-    "tags": [
-      "software",
-      "نرم-افزار",
-      "1986"
-    ],
-    "cover": "https://archive.org/services/img/mh-060-jazzz",
-    "download": "https://archive.org/details/mh-060-jazzz",
-    "description": "MicroHobby 060 | نویسنده: Jazzz | سال انتشار: 1986 | زبان: spa | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
     "active": true,
     "views": 0,
     "featured": false,
@@ -6611,21 +6507,6 @@
     "cover": "https://archive.org/services/img/mag_MicroHobby_083",
     "download": "https://archive.org/details/mag_MicroHobby_083",
     "description": "MicroHobby 083 | زبان: es | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787695911357-932",
-    "name": "MicroHobby 048",
-    "issue": "",
-    "language": "es",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/mag_MicroHobby_048",
-    "download": "https://archive.org/details/mag_MicroHobby_048",
-    "description": "MicroHobby 048 | زبان: es | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
     "active": true,
     "views": 0,
     "featured": false,
@@ -7588,21 +7469,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787695911358-235",
-    "name": "MicroHobby 023",
-    "issue": "",
-    "language": "es",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/mag_MicroHobby_023",
-    "download": "https://archive.org/details/mag_MicroHobby_023",
-    "description": "MicroHobby 023 | زبان: es | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787695911358-99",
     "name": "MicroHobby 038",
     "issue": "",
@@ -8113,21 +7979,6 @@
     "cover": "https://archive.org/services/img/mag_MicroHobby_063",
     "download": "https://archive.org/details/mag_MicroHobby_063",
     "description": "MicroHobby 063 | زبان: es | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787695911358-275",
-    "name": "MicroHobby 073",
-    "issue": "",
-    "language": "es",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/mag_MicroHobby_073",
-    "download": "https://archive.org/details/mag_MicroHobby_073",
-    "description": "MicroHobby 073 | زبان: es | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
     "active": true,
     "views": 0,
     "featured": false,
@@ -10020,24 +9871,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787695911360-471",
-    "name": "MicroHobby Magazine Issue 204",
-    "issue": "",
-    "language": "spanish",
-    "fileSize": "",
-    "tags": [
-      "software",
-      "نرم-افزار"
-    ],
-    "cover": "https://archive.org/services/img/microhobby-magazine-204.pdf",
-    "download": "https://archive.org/details/microhobby-magazine-204.pdf",
-    "description": "MicroHobby Magazine Issue 204 | زبان: spanish | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787695911360-251",
     "name": "MicroHobby Magazine Issue 056",
     "issue": "",
@@ -10681,21 +10514,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787695911361-592",
-    "name": "MicroHobby Magazine Issue 066",
-    "issue": "",
-    "language": "spanish",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/microhobby-magazine-066.pdf",
-    "download": "https://archive.org/details/microhobby-magazine-066.pdf",
-    "description": "MicroHobby Magazine Issue 066 | زبان: spanish | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787695911361-912",
     "name": "MicroHobby Magazine Issue 072",
     "issue": "",
@@ -11271,21 +11089,6 @@
     "addedBy": "نامشخص"
   },
   {
-    "id": "m-1787695911362-346",
-    "name": "MicroHobby Magazine Issue 069",
-    "issue": "",
-    "language": "spanish",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/microhobby-magazine-069.pdf",
-    "download": "https://archive.org/details/microhobby-magazine-069.pdf",
-    "description": "MicroHobby Magazine Issue 069 | زبان: spanish | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
     "id": "m-1787695911362-340",
     "name": "MicroHobby Magazine Issue 075",
     "issue": "",
@@ -11295,21 +11098,6 @@
     "cover": "https://archive.org/services/img/microhobby-magazine-075.pdf",
     "download": "https://archive.org/details/microhobby-magazine-075.pdf",
     "description": "MicroHobby Magazine Issue 075 | زبان: spanish | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787695911362-340",
-    "name": "MicroHobby Magazine Issue 084",
-    "issue": "",
-    "language": "spanish",
-    "fileSize": "",
-    "tags": [],
-    "cover": "https://archive.org/services/img/microhobby-magazine-084.pdf",
-    "download": "https://archive.org/details/microhobby-magazine-084.pdf",
-    "description": "MicroHobby Magazine Issue 084 | زبان: spanish | از مجموعه microhobby magazine | آرشیو Archive.org | این کتاب توسط <a href=\"https://zxspectrum.ir/\" target=\"_blank\">https://zxspectrum.ir/</a> در بوک برند آرشیو شده است.",
     "active": true,
     "views": 0,
     "featured": false,

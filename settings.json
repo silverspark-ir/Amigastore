@@ -1,7 +1,7 @@
 {
-  "globalPrice": 9000,
-  "musicPrice": 15000,
-  "sellerCard": "5894-6318-2473-5997",
+  "globalPrice": 0,
+  "musicPrice": 19000,
+  "sellerCard": "5894631824735997",
   "masterCode": "Q9xR3mK8pL5vN2wY6hJ1",
   "admins": [
     {
@@ -9,7 +9,15 @@
       "code": "A1b2C3d4E5f6G7h8I9j0"
     }
   ],
-  "totalViews": 727,
-  "todayDate": "۱۴۰۵/۶/۳",
-  "todayViews": 13
+  "totalViews": 714,
+  "todayDate": "۱۴۰۵/۶/۲",
+  "todayViews": 30,
+  "favicon": "https://raw.githubusercontent.com/silverspark-ir/Amigastore/main/favicon.png",
+  "bookFiles": [
+    "magazines.json",
+    "magazines2.json"
+  ],
+  "musicFiles": [
+    "music.json"
+  ]
 }

@@ -9,7 +9,27 @@
       "code": "A1b2C3d4E5f6G7h8I9j0"
     }
   ],
-  "totalViews": 1744,
-  "todayDate": "۱۴۰۵/۶/۳",
-  "todayViews": 12
+  "totalViews": 714,
+  "todayDate": "۱۴۰۵/۶/۲",
+  "todayViews": 30,
+  "favicon": "https://raw.githubusercontent.com/silverspark-ir/Amigastore/main/favicon.png",
+  "bookFiles": [
+    "magazines.json",
+    "magazines2.json",
+    "magazines3.json",
+    "magazines4.json",
+    "magazines5.json",
+    "magazines6.json",
+    "magazines7.json",
+    "magazines8.json",
+    "magazines9.json",
+    "magazines10.json"
+  ],
+  "musicFiles": [
+    "music.json",
+    "music2.json",
+    "music3.json",
+    "music4.json",
+    "music5.json"
+  ]
 }

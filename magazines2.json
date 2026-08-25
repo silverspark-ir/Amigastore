@@ -340,33 +340,6 @@
     ]
   },
   {
-    "id": "m-1787621474846-757",
-    "name": "Atari ST Introduction to MIDI Programming",
-    "issue": "",
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "atari",
-      "atari800",
-      "atari5200",
-      "آتاری",
-      "atari-programming",
-      "آتاری-برنامه-نویسی"
-    ],
-    "cover": "https://archive.org/services/img/Atari_ST-Introduction_to_MIDI_Programming",
-    "download": "https://archive.org/download/Atari_ST-Introduction_to_MIDI_Programming/Atari_ST-Introduction_to_MIDI_Programming.pdf",
-    "description": "Atari ST Introduction to MIDI Programming | کتاب آتاری برنامه-نویسی | زبان: eng | از مجموعه ataribooks",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص",
-    "backlinks": [
-      "https://amigastore.ir/",
-      "https://zxspectrum.ir/",
-      "https://c64spark.ir/"
-    ]
-  },
-  {
     "id": "m-1787621474846-929",
     "name": "Compute!'s first book of Atari",
     "issue": 1981,
@@ -4181,34 +4154,6 @@
     ]
   },
   {
-    "id": "m-1787621474859-694",
-    "name": "Atari TT L53C80 CMOS SCSI Bus Controllers Data Manual Rev. 1 (1987-12)(Logic Devices)(US)",
-    "issue": 1987,
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "atari",
-      "atari800",
-      "atari5200",
-      "آتاری",
-      "atari-manual",
-      "آتاری-راهنما",
-      "1987"
-    ],
-    "cover": "https://archive.org/services/img/rearc_atari-tt-l53c80-cmos-scsi-bus-controllers-data-manual-rev.-1-1987-12",
-    "download": "https://archive.org/details/rearc_atari-tt-l53c80-cmos-scsi-bus-controllers-data-manual-rev.-1-1987-12",
-    "description": "Atari TT L53C80 CMOS SCSI Bus Controllers Data Manual Rev. 1 (1987-12)(Logic Devices)(US) | کتاب آتاری راهنما | نویسنده: Logic Devices, Inc | سال انتشار: 1987 | زبان: eng | از مجموعه ataribooks",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص",
-    "backlinks": [
-      "https://amigastore.ir/",
-      "https://zxspectrum.ir/",
-      "https://c64spark.ir/"
-    ]
-  },
-  {
     "id": "m-1787621474859-42",
     "name": "Learning C Prog Graphics Amiga & Atari ST",
     "issue": "",
@@ -5517,33 +5462,6 @@
     ]
   },
   {
-    "id": "m-1787621474860-831",
-    "name": "Atari ST Graphics & Sound",
-    "issue": "",
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "atari",
-      "atari800",
-      "atari5200",
-      "آتاری",
-      "atari-graphics",
-      "آتاری-گرافیک"
-    ],
-    "cover": "https://archive.org/services/img/Atari_ST-Graphics_Sound",
-    "download": "https://archive.org/details/Atari_ST-Graphics_Sound",
-    "description": "Atari ST Graphics & Sound | کتاب آتاری گرافیک | زبان: eng | از مجموعه ataribooks",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص",
-    "backlinks": [
-      "https://amigastore.ir/",
-      "https://zxspectrum.ir/",
-      "https://c64spark.ir/"
-    ]
-  },
-  {
     "id": "m-1787621474860-722",
     "name": "Atari ST(E)-TT Toolkit B1-53 Application Notes On The Atari Computer System Interface (ACSI, DMA) (1985-09-27)(Atari)(US)",
     "issue": 1985,
@@ -6366,39 +6284,6 @@
     "cover": "https://archive.org/services/img/ataribooks-atari-basic-tutorial",
     "download": "https://archive.org/details/ataribooks-atari-basic-tutorial",
     "description": "Atari BASIC tutorial | کتاب آتاری بیسیک و گرافیک | نویسنده: Peck, Robert A, Moody, C W | سال انتشار: 1983 | زبان: eng | از مجموعه ataribooks",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص",
-    "backlinks": [
-      "https://amigastore.ir/",
-      "https://zxspectrum.ir/",
-      "https://c64spark.ir/"
-    ]
-  },
-  {
-    "id": "m-1787621474862-680",
-    "name": "The Atari assembler",
-    "issue": 1981,
-    "language": "eng",
-    "fileSize": "",
-    "tags": [
-      "atari",
-      "atari800",
-      "atari5200",
-      "آتاری",
-      "atari-basic",
-      "آتاری-بیسیک",
-      "atari-assembly",
-      "آتاری-اسمبلی",
-      "atari-machine",
-      "آتاری-ماشین",
-      "atari-basic-assembly-machine",
-      "1981"
-    ],
-    "cover": "https://archive.org/services/img/ataribooks-the-atari-assembler",
-    "download": "https://archive.org/details/ataribooks-the-atari-assembler",
-    "description": "The Atari assembler | کتاب آتاری بیسیک و اسمبلی و ماشین | نویسنده: Inman, Don, Inman, Kurt | سال انتشار: 1981 | زبان: eng | از مجموعه ataribooks",
     "active": true,
     "views": 0,
     "featured": false,
@@ -9485,34 +9370,6 @@
     "cover": "https://archive.org/services/img/ataribooks-dr-wackos-guide-to-creating-arcade-games",
     "download": "https://archive.org/details/ataribooks-dr-wackos-guide-to-creating-arcade-games",
     "description": "Dr. C. Wacko's miracle guide to designing and programming your own Atari computer arcade games | کتاب آتاری بیسیک و برنامه-نویسی و گرافیک و بازی و راهنما و ماشین | نویسنده: Heller, David L, Johnson, John F, Kurcina, Robert | سال انتشار: 1983 | زبان: eng | از مجموعه ataribooks | آرشیو Archive.org",
-    "active": true,
-    "views": 0,
-    "featured": false,
-    "addedBy": "نامشخص"
-  },
-  {
-    "id": "m-1787621474868-325",
-    "name": "Atari 130 XE, 600 XL, 800 XL für Einsteiger",
-    "issue": 1986,
-    "language": "ger",
-    "fileSize": "",
-    "tags": [
-      "atari",
-      "atari800",
-      "atari5200",
-      "آتاری",
-      "atari-basic",
-      "آتاری-بیسیک",
-      "atari-programming",
-      "آتاری-برنامه-نویسی",
-      "atari-graphics",
-      "آتاری-گرافیک",
-      "atari-basic-programming-graphics",
-      "1986"
-    ],
-    "cover": "https://archive.org/services/img/atari-130-xe-600-xl-800-xl-fur-einsteiger",
-    "download": "https://archive.org/details/atari-130-xe-600-xl-800-xl-fur-einsteiger",
-    "description": "Atari 130 XE, 600 XL, 800 XL für Einsteiger | کتاب آتاری بیسیک و برنامه-نویسی و گرافیک | نویسنده: Norbert Szczepanowski | سال انتشار: 1986 | زبان: ger | از مجموعه ataribooks | آرشیو Archive.org",
     "active": true,
     "views": 0,
     "featured": false,

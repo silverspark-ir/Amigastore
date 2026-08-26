@@ -1044,9 +1044,7 @@
     "views": 2,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "English",
-    "adminSalesCount": 1,
-    "adminEarnings": 1500
+    "language": "English"
   },
   {
     "id": "m-14",
@@ -1124,9 +1122,7 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "German",
-    "adminSalesCount": 1,
-    "adminEarnings": 1500
+    "language": "German"
   },
   {
     "id": "m-17",
@@ -1250,9 +1246,7 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "language": "English",
-    "adminSalesCount": 1,
-    "adminEarnings": 1500
+    "language": "English"
   },
   {
     "id": "m-18",
@@ -3343,9 +3337,7 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1500
+    "addedBy": "مدیر کل"
   },
   {
     "id": "m-1784752310417",
@@ -5027,9 +5019,7 @@
     "views": 1,
     "featured": false,
     "addedBy": "مدیر کل",
-    "fileSize": "0001",
-    "adminSalesCount": 1,
-    "adminEarnings": 2000
+    "fileSize": "0001"
   },
   {
     "id": "m-1784950660114",
@@ -5800,9 +5790,7 @@
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 2000
+    "addedBy": "مدیر کل"
   },
   {
     "id": "m-1784995304386",
@@ -7080,8 +7068,6 @@
     "views": 2,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7223,8 +7209,6 @@
     "views": 1,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7296,8 +7280,6 @@
     "views": 1,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7370,8 +7352,6 @@
     "views": 3,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7439,11 +7419,9 @@
     "download": "https://archive.org/download/Programming_the_6502/Programming_the_6502.pdf",
     "description": "کتاب Programming the 6502 نوشته Rodnay Zaks انتشارات Sybex یکی از معروف‌ترین و جامع‌ترین مراجع برنامه‌نویسی برای ریزپردازنده 6502 که قلب کامپیوترهایی مانند Commodore 64, Apple II, و Atari بود. این کتاب به عنوان انجیل برنامه‌نویسان این تراشه، تمام جنبه‌های معماری، مجموعه دستورالعمل‌ها، حالت‌های آدرس‌دهی و تکنیک‌های پیشرفته برنامه‌نویسی به زبان اسمبلی را پوشش می‌دهد. نویسنده با ارائه مثال‌های عملی، جداول کامل و توضیحات گام‌به‌گام، به خوانندگان کمک می‌کند تا درک عمیقی از عملکرد این پردازنده کلاسیک به دست آورند. این یک گنجینه بی‌نظیر و ضروری برای برنامه‌نویسان رترو، مهندسان الکترونیک و تمامی افرادی است که می‌خواهند بر زبان ماشین و معماری یکی از تأثیرگذارترین تراشه‌های تاریخ کامپیوتر تسلط پیدا کنند",
     "active": true,
-    "views": 11,
+    "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7655,8 +7633,6 @@
     "views": 1,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7726,8 +7702,6 @@
     "views": 0,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7794,8 +7768,6 @@
     "views": 3,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 1,
-    "adminEarnings": 1000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"
@@ -7867,8 +7839,6 @@
     "views": 5,
     "featured": false,
     "addedBy": "مدیر کل",
-    "adminSalesCount": 2,
-    "adminEarnings": 3000,
     "banner": {
       "image": "",
       "link": "https://zxspectrum.ir/"

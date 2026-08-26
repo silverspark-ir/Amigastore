@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "m-1787780331565-419",
+    "name": "Kompendium Wiedzy Secret Service 01 1996",
+    "issue": 1996,
+    "language": "pol",
+    "fileSize": "",
+    "tags": [
+      "1996"
+    ],
+    "cover": "https://archive.org/services/img/Kompendium_Wiedzy_Secret_Service-01-1996",
+    "download": "https://archive.org/download/Kompendium_Wiedzy_Secret_Service-01-1996/Kompendium_Wiedzy_Secret_Service-01-1996.pdf",
+    "description": "Kompendium Wiedzy Secret Service 01 1996 | نویسنده: Secret Service | سال انتشار: 1996 | زبان: pol | از مجموعه secretservicemagazine | آرشیو Archive.org",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "نامشخص"
+  },
+  {
+    "id": "m-1787780331565-619",
+    "name": "Kompendium Wiedzy Secret Service 02 1997",
+    "issue": 1997,
+    "language": "pol",
+    "fileSize": "",
+    "tags": [
+      "1997"
+    ],
+    "cover": "https://archive.org/services/img/Kompendium_Wiedzy_Secret_Service-02-1997",
+    "download": "https://archive.org/download/Kompendium_Wiedzy_Secret_Service-02-1997/Kompendium_Wiedzy_Secret_Service-02-1997.pdf",
+    "description": "Kompendium Wiedzy Secret Service 02 1997 | نویسنده: Secret Service ProScript sp z o o | سال انتشار: 1997 | زبان: pol | از مجموعه secretservicemagazine | آرشیو Archive.org",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "نامشخص"
+  }
+]

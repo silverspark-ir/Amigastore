@@ -15,7 +15,8 @@
   "bookFiles": [
     "magazines.json",
     "magazines1.json",
-    "magazines2.json"
+    "magazines2.json",
+    "magazines3.json"
   ],
   "musicFiles": [
     "music.json"

@@ -13965,11 +13965,14 @@
     ],
     "cover": "https://archive.org/services/img/PracticalComputing198011AcornAtom",
     "download": "https://archive.org/download/PracticalComputing198011AcornAtom/PracticalComputing198011AcornAtom.pdf",
-    "description": "Practical Computing 1980-11 Acorn Atom | نویسنده: Jim Murray | سال انتشار: 1980 | زبان: eng | از مجموعه practicalcomputing | آرشیو Archive.org | این کتاب توسط <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "Practical Computing 1980-11 Acorn Atom | نویسنده: Jim Murray | سال انتشار: 1980 | زبان: eng | از مجموعه practicalcomputing | آرشیو Archive.org",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   },
   {
     "id": "m-1787784464666-633",
@@ -13980,10 +13983,13 @@
     "tags": [],
     "cover": "https://archive.org/services/img/practical_computing-1983_01",
     "download": "https://archive.org/download/practical_computing-1983_01/practical_computing-1983_01.pdf",
-    "description": "practical_computing-1983_01 | زبان: eng | از مجموعه practicalcomputing | آرشیو Archive.org | این کتاب توسط <a href=\"https://amigastore.ir/\" target=\"_blank\">https://amigastore.ir/</a> در بوک برند آرشیو شده است.",
+    "description": "practical_computing-1983_01 | زبان: eng | از مجموعه practicalcomputing | آرشیو Archive.org",
     "active": true,
     "views": 0,
     "featured": false,
-    "addedBy": "نامشخص"
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/"
+    ]
   }
 ]

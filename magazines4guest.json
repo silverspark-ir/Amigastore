@@ -73,10 +73,9 @@
     "featured": true,
     "addedBy": "مدیر کل",
     "banner": {
-      "image": "https://cdn.imgurl.ir/uploads/x9661_banner1.gif",
-      "link": "https://amigastore.ir/book-list.html"
+      "image": "",
+      "link": "h"
     },
-    "price": 190000,
-    "bannerAddedAt": 1787912972901
+    "price": 190000
   }
 ]

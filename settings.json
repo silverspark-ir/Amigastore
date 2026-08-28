@@ -13,6 +13,7 @@
   "todayDate": "۱۴۰۵/۶/۶",
   "todayViews": 9,
   "bookFiles": [
+    "magazines4guest.json",
     "magazines10.json",
     "magazines12.json",
     "magazines1.json",
@@ -25,9 +26,7 @@
     "magazines8.json",
     "magazines9.json",
     "magazines11.json",
-    "magazines.json",
-    "magazines13.json",
-    "magazines4guest.json"
+    "magazines13.json"
   ],
   "musicFiles": [
     "music.json"

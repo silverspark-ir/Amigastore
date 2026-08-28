@@ -14,6 +14,11 @@
     "price": 190000,
     "backlinks": [
       "https://amigastore.ir/"
-    ]
+    ],
+    "banner": {
+      "image": "https://cdn.imgurl.ir/uploads/f21623_banner1.gif",
+      "link": "https://amigastore.ir/book-list.html"
+    },
+    "bannerAddedAt": 1787913921352
   }
 ]

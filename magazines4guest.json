@@ -259,5 +259,30 @@
       "https://zxspectrum.ir/",
       "https://c64spark.ir/"
     ]
+  },
+  {
+    "id": "m-1787865984547-511",
+    "name": "Popular Mechanics January 2016 ZA",
+    "issue": "",
+    "language": "eng",
+    "fileSize": "",
+    "tags": [
+      "manual",
+      "guide",
+      "handbook",
+      "راهنما"
+    ],
+    "cover": "https://archive.org/services/img/Popular_Mechanics_January_2016_ZA",
+    "download": "https://archive.org/download/Popular_Mechanics_January_2016_ZA/Popular_Mechanics_January_2016_ZA.pdf",
+    "description": "Popular Mechanics January 2016 ZA | زبان: eng | از مجموعه popularmechanics",
+    "active": true,
+    "views": 1,
+    "featured": false,
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/",
+      "https://c64spark.ir/"
+    ]
   }
 ]

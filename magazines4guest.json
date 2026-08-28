@@ -146,5 +146,28 @@
       "image": "https://cdn.imgurl.ir/uploads/z505379___.gif",
       "link": "https://amigastore.ir/"
     }
+  },
+  {
+    "id": "m-1787865984547-564",
+    "name": "Popular Mechanics March 2016",
+    "issue": "",
+    "language": "eng",
+    "fileSize": "",
+    "tags": [
+      "hardware",
+      "سخت-افزار"
+    ],
+    "cover": "https://archive.org/services/img/Popular_Mechanics_March_2016",
+    "download": "https://archive.org/download/Popular_Mechanics_March_2016/Popular_Mechanics_March_2016.pdf",
+    "description": "Popular Mechanics March 2016 | زبان: eng | از مجموعه popularmechanics",
+    "active": true,
+    "views": 1,
+    "featured": false,
+    "addedBy": "نامشخص",
+    "backlinks": [
+      "https://amigastore.ir/",
+      "https://zxspectrum.ir/",
+      "https://c64spark.ir/"
+    ]
   }
 ]

@@ -9,24 +9,24 @@
       "code": "A1b2C3d4E5f6G7h8I9j0"
     }
   ],
-  "totalViews": 979,
+  "totalViews": 944,
   "todayDate": "۱۴۰۵/۶/۶",
-  "todayViews": 12,
+  "todayViews": 1,
   "bookFiles": [
-    "magazines4guest.json",
-    "magazines13.json",
-    "magazines11.json",
-    "magazines9.json",
-    "magazines8.json",
-    "magazines7.json",
-    "magazines6.json",
-    "magazines5.json",
-    "magazines4.json",
-    "magazines3.json",
-    "magazines2.json",
-    "magazines1.json",
+    "magazines10.json",
     "magazines12.json",
-    "magazines10.json"
+    "magazines1.json",
+    "magazines2.json",
+    "magazines3.json",
+    "magazines4.json",
+    "magazines5.json",
+    "magazines6.json",
+    "magazines7.json",
+    "magazines8.json",
+    "magazines9.json",
+    "magazines11.json",
+    "magazines.json",
+    "magazines13.json"
   ],
   "musicFiles": [
     "music.json"

@@ -14,19 +14,19 @@
   "todayViews": 15,
   "bookFiles": [
     "magazines4guest.json",
-    "magazines10.json",
-    "magazines12.json",
-    "magazines1.json",
-    "magazines2.json",
-    "magazines3.json",
-    "magazines4.json",
-    "magazines5.json",
-    "magazines6.json",
-    "magazines7.json",
-    "magazines8.json",
-    "magazines9.json",
+    "magazines13.json",
     "magazines11.json",
-    "magazines13.json"
+    "magazines9.json",
+    "magazines8.json",
+    "magazines7.json",
+    "magazines6.json",
+    "magazines5.json",
+    "magazines4.json",
+    "magazines3.json",
+    "magazines2.json",
+    "magazines1.json",
+    "magazines12.json",
+    "magazines10.json"
   ],
   "musicFiles": [
     "music.json"

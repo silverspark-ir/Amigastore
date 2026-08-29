@@ -14,6 +14,8 @@
   "todayViews": 6,
   "bookFiles": [
     "magazines4guest.json",
+    "magazines100.json",
+    "magazines101.json",
     "magazines10.json",
     "magazines12.json",
     "magazines1.json",
@@ -29,9 +31,7 @@
     "magazines13.json",
     "magazines14.json",
     "magazines15.json",
-    "magazines16.json",
-    "magazines100.json",
-    "magazines101.json"
+    "magazines16.json"
   ],
   "musicFiles": [
     "music.json"

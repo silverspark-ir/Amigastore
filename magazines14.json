@@ -14843,5 +14843,59 @@
     "views": 0,
     "featured": false,
     "addedBy": "نامشخص"
+  },
+  {
+    "id": "m-1787980026704-322",
+    "name": "The Pressure Machine Songbook",
+    "issue": 2006,
+    "language": "english-handwritten",
+    "fileSize": "",
+    "tags": [
+      "machine",
+      "ml",
+      "ماشین",
+      "2006"
+    ],
+    "cover": "https://archive.org/services/img/MARAV997B",
+    "download": "https://archive.org/download/MARAV997B/MARAV997B.pdf",
+    "description": "The Pressure Machine Songbook | نویسنده: the Pressure Machine | سال انتشار: 2006 | زبان: english-handwritten | از مجموعه netlabel Maravines | آرشیو Archive.org",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "نامشخص"
+  },
+  {
+    "id": "m-1787980026704-266",
+    "name": "Panorama Songbook",
+    "issue": 2021,
+    "language": "english-handwritten",
+    "fileSize": "",
+    "tags": [
+      "2021"
+    ],
+    "cover": "https://archive.org/services/img/MARAV996B",
+    "download": "https://archive.org/download/MARAV996B/MARAV996B.pdf",
+    "description": "Panorama Songbook | نویسنده: The Maravines | سال انتشار: 2021 | زبان: english-handwritten | از مجموعه netlabel Maravines | آرشیو Archive.org",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "نامشخص"
+  },
+  {
+    "id": "m-1787980026704-647",
+    "name": "Ramsey",
+    "issue": 1995,
+    "language": "english-handwritten",
+    "fileSize": "",
+    "tags": [
+      "1995"
+    ],
+    "cover": "https://archive.org/services/img/MARAV957B",
+    "download": "https://archive.org/download/MARAV957B/MARAV957B.pdf",
+    "description": "Ramsey | نویسنده: Worm's Eye View | سال انتشار: 1995 | زبان: english-handwritten | از مجموعه netlabel Maravines | آرشیو Archive.org",
+    "active": true,
+    "views": 0,
+    "featured": false,
+    "addedBy": "نامشخص"
   }
 ]

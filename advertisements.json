@@ -1,18 +1,6 @@
 {
   "ads": [
     {
-      "id": "ad-1787928311261",
-      "brandName": "آمیگااستور ـ دنیای رترو",
-      "link": "https://amigastore.ir/",
-      "phone": "09369369323",
-      "cardLast4": "3333",
-      "transactionId": "6988895555",
-      "status": "approved",
-      "type": "text",
-      "priceText": "۱,۰۰۰,۰۰۰ تومان",
-      "createdAt": "۱۴۰۵/۶/۶"
-    },
-    {
       "id": "ad-1787931740000",
       "brandName": "کامپیوترهای دهه ۱۹۸۰",
       "link": "https://amigastore.ir/book-list.html",

@@ -3,10 +3,10 @@
   "subscribers": [
     {
       "email": "user1@gmail.com",
-      "code": "ABC123",
+      "code": "Abc123",
       "plan": "monthly",
       "startDate": "2026-09-01",
-      "expires": "2026-10-01"
+      "expires": "2027-10-01"
     },
     {
       "email": "user2@yahoo.com",

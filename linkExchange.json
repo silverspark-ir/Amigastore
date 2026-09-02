@@ -109,6 +109,13 @@
       "description": "EmuWiki - online retrogames",
       "timestamp": "2026-08-10T18:09:17.376Z",
       "status": "true"
+    },
+    {
+      "email": "c64spark@gmail.com",
+      "website": "https://amigastore.ir/book-list.html",
+      "description": "Amazing computer of the 2980s",
+      "timestamp": "2026-09-02T09:42:39.901Z",
+      "status": "alarm"
     }
   ]
 }

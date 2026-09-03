@@ -115,14 +115,7 @@
       "website": "https://amigastore.ir/book-list.html",
       "description": "Amazing computer of the 2980s",
       "timestamp": "2026-09-02T09:42:39.901Z",
-      "status": "alarm"
-    },
-    {
-      "email": "c64spark@gmail.com",
-      "website": "https://amigastore.ir",
-      "description": "workbench 1.3 on web",
-      "timestamp": "2026-09-02T09:44:34.333Z",
-      "status": "alarm"
+      "status": "true"
     }
   ]
 }

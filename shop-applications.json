@@ -105,6 +105,18 @@
     "logo": " https://uploadkon.ir/uploads/2cf102_26baner.jpg ",
     "shopNumber": "110",
     "date": "۱۴۰۵/۵/۱۱",
-    "approved": true 
+    "approved": true
+  },
+  {
+    "ownerName": "c64spark",
+    "ownerPhone": "09008007100",
+    "shopName": "Z80 STORY",
+    "category": "retrocomputing",
+    "description": "Z80 the amazing processor of 1970s",
+    "website": "https://zxspectrum.ir/",
+    "logo": "https://cdn.imgurl.ir/uploads/k07311__.gif",
+    "shopNumber": "",
+    "date": "۱۴۰۵/۶/۱۸",
+    "approved": false
   }
 ]

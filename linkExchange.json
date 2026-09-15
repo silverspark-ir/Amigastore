@@ -116,6 +116,13 @@
       "description": "Amazing computer of the 1980s",
       "timestamp": "2026-09-02T09:42:39.901Z",
       "status": "true"
+    },
+    {
+      "email": "support@retrogameslib.com",
+      "website": "https://retrogameslib.com/",
+      "description": "Over 2500 free games. From 1979 to 2025. Play online in your browser.",
+      "timestamp": "2026-09-15T16:26:19.990Z",
+      "status": "alarm"
     }
   ]
 }

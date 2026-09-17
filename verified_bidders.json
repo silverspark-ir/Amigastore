@@ -79,5 +79,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-07-17T11:53:54.940Z"
+  },
+  {
+    "id": "member-1789668857803",
+    "name": "علی احمدی",
+    "phone": "09116546234",
+    "province": "فارس",
+    "city": "شیراز",
+    "address": "بلوار بعثت",
+    "postalCode": "۷۱۳۴۵۶۵۴۵۴",
+    "accessCode": "Hbm5i150ATsD6ZaRcyKk",
+    "verified": false,
+    "verifyCode4": "1549",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-09-17T18:14:17.803Z"
   }
 ]

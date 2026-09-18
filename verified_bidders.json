@@ -95,5 +95,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-09-17T18:14:17.803Z"
+  },
+  {
+    "id": "member-1789741556790",
+    "name": "سلمان رستمی",
+    "phone": "09362074711",
+    "province": "آذربایجانشرقی",
+    "city": "تبریز",
+    "address": "خیابان سرباز شهید کوی پیروزی بالاتر از پارک شقایق محله خداآباد دربند شماره 45 شهید رسول سلیمی پلاک 47",
+    "postalCode": "5143793383",
+    "accessCode": "nXUUrsDUV5HWD2CCPqWF",
+    "verified": false,
+    "verifyCode4": "5003",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-09-18T14:25:56.790Z"
   }
 ]

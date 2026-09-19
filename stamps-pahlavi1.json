@@ -62,7 +62,7 @@
     "active": true,
     "views": 2,
     "createdAt": "2026-07-17T14:25:32.566Z",
-    "paymentVerified": false,
+    "paymentVerified": true,
     "year": "۱۳۱۶",
     "circulation": "۱",
     "stampType": "mint"

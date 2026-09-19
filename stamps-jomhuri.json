@@ -1,54 +1,5 @@
 [
   {
-    "id": "user-1784246076656",
-    "itemType": "تمبر",
-    "name": "ناصری طلایی",
-    "price": 4300000,
-    "year": "",
-    "country": "",
-    "image1": "https://cdn.imgurl.ir/uploads/n462877_IMG___Edited.jpg",
-    "image2": "",
-    "image3": "",
-    "description": "مهر خورده ، ناقص",
-    "active": true,
-    "views": 1,
-    "createdAt": "2026-07-16T23:54:36.656Z",
-    "sellerId": "member-1784230922851",
-    "sellerProvince": "فارس",
-    "sellerCity": "شیراز",
-    "discountRequests": [
-      {
-        "buyerId": "member-1784230986501",
-        "name": "محمد نجف پور",
-        "price": 2000000,
-        "time": "2026-07-16T23:59:59.454Z",
-        "approved": false,
-        "disabled": true
-      },
-      {
-        "buyerId": "member-1784231033870",
-        "name": "سارا حمیدپور",
-        "price": 2100000,
-        "time": "2026-07-17T00:04:16.627Z",
-        "approved": true,
-        "disabled": false,
-        "approvedAt": "2026-07-17T00:05:00.509Z"
-      },
-      {
-        "buyerId": "member-1784231076264",
-        "name": "سهیل مرادی",
-        "price": 2600000,
-        "time": "2026-07-17T00:06:17.047Z",
-        "approved": false,
-        "disabled": false
-      }
-    ],
-    "purchaseRequest": null,
-    "purchaseVerified": true,
-    "sellerPaid": true,
-    "buyerFeedback": "satisfied"
-  },
-  {
     "id": "user-1784246148205",
     "itemType": "تمبر",
     "name": "ناصری طلایی",

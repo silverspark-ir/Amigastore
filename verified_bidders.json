@@ -111,5 +111,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-09-18T14:25:56.790Z"
+  },
+  {
+    "id": "member-1789897888485",
+    "name": "سید حسام الدین آسایش",
+    "phone": "09395796563",
+    "province": "اصفهان",
+    "city": "اصفهان",
+    "address": "میدان احمد آباد خیابان سروش بعد از کوچه ۱۷ آنتیک حسام",
+    "postalCode": "8199656651",
+    "accessCode": "3oP751l7uUlJtmxc411W",
+    "verified": false,
+    "verifyCode4": "1118",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-09-20T09:51:28.485Z"
   }
 ]

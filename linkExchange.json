@@ -123,6 +123,13 @@
       "description": "Over 2500 free games. From 1979 to 2025. Play online in your browser.",
       "timestamp": "2026-09-15T16:26:19.990Z",
       "status": "true"
+    },
+    {
+      "email": "c64spark@gmail.com",
+      "website": "https://c64spark.ir/",
+      "description": "+40,000 retro games online",
+      "timestamp": "2026-09-22T22:52:56.852Z",
+      "status": "alarm"
     }
   ]
 }

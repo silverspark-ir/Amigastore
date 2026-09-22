@@ -94,7 +94,7 @@
       "website": "https://cssbadge.netlify.app/",
       "description": "Animated CSS Badge Maker — Zero Images.",
       "timestamp": "2026-08-10T10:42:36.688Z",
-      "status": "true"
+      "status": "alarm"
     },
     {
       "email": "scarvin@vincenzoscarpa.it",
@@ -129,7 +129,7 @@
       "website": "https://c64spark.ir/",
       "description": "+40,000 retro games online",
       "timestamp": "2026-09-22T22:52:56.852Z",
-      "status": "alarm"
+      "status": "true"
     }
   ]
 }

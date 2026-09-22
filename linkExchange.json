@@ -94,7 +94,7 @@
       "website": "https://cssbadge.netlify.app/",
       "description": "Animated CSS Badge Maker — Zero Images.",
       "timestamp": "2026-08-10T10:42:36.688Z",
-      "status": "alarm"
+      "status": "false"
     },
     {
       "email": "scarvin@vincenzoscarpa.it",
@@ -112,8 +112,8 @@
     },
     {
       "email": "c64spark@gmail.com",
-      "website": "https://amigastore.ir/book-list.html",
-      "description": "Amazing computer of the 1980s",
+      "website": "https://amigastore.ir/c64utilities",
+      "description": "Online Commodore 64 Tools Collection",
       "timestamp": "2026-09-02T09:42:39.901Z",
       "status": "true"
     },

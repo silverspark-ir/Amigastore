@@ -7,8 +7,8 @@
   },
   "desktopIcons": {
     "bandcamp": {
-      "image": "https://raw.githubusercontent.com/silverspark-ir/Amigastore/main/c64spark.ir%20logo.png",
-      "link": "https://c64spark.bandcamp.com",
+      "image": "https://c64spark.ir/preview.png",
+      "link": "https://c64spark.ir/",
       "label": "bandcamp"
     }
   }

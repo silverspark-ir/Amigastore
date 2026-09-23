@@ -101,11 +101,11 @@
     "shopName": "Game Vault",
     "category": "retrocomputing",
     "description": "+40000 games",
-    "website": " https://retrogama.netlify.app/",
+    "website": " https://c64spark.ir/",
     "logo": " https://c64spark.ir/preview.png ",
     "shopNumber": "110",
     "date": "۱۴۰۵/۵/۱۱",
-    "approved": false
+    "approved": true 
   },
   {
     "ownerName": "c64spark",

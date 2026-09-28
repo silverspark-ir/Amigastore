@@ -114,5 +114,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-09-28T20:08:51.935Z"
+  },
+  {
+    "id": "member-1790626838015",
+    "name": "Ali ronaghi",
+    "phone": "09368174881",
+    "province": "تهران",
+    "city": "تهران",
+    "address": "هفت تیذ",
+    "postalCode": "82739393939",
+    "accessCode": "Vw7LxytCHh5rcW0lmZ5E",
+    "verified": false,
+    "verifyCode4": "8821",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-09-28T20:20:38.015Z"
   }
 ]

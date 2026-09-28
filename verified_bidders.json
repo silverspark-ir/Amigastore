@@ -98,5 +98,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-09-28T20:01:04.821Z"
+  },
+  {
+    "id": "member-1790626131935",
+    "name": "یزدان",
+    "phone": "09301887679",
+    "province": "اردبیل",
+    "city": "اردبیل",
+    "address": "اردبیل دروازه مشکین کوچه چهارده معصوم 3",
+    "postalCode": "5616693435",
+    "accessCode": "Rk7N58QFwSfllhJqSTrD",
+    "verified": false,
+    "verifyCode4": "8061",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-09-28T20:08:51.935Z"
   }
 ]

@@ -130,5 +130,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-09-28T20:20:38.015Z"
+  },
+  {
+    "id": "member-1790787681171",
+    "name": "زهرا",
+    "phone": "09917375892",
+    "province": "فارس",
+    "city": "شیراز",
+    "address": "شهرک گلستان",
+    "postalCode": "7189883133",
+    "accessCode": "y8rRmZruh4MooaLXbTIm",
+    "verified": false,
+    "verifyCode4": "7844",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-09-30T17:01:21.171Z"
   }
 ]

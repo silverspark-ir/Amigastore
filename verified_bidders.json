@@ -162,5 +162,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-09-30T21:55:46.368Z"
+  },
+  {
+    "id": "member-1790841191887",
+    "name": "زهرا حقیقی",
+    "phone": "09356480570",
+    "province": "فارس",
+    "city": "شیراز",
+    "address": "شهرک گلستان",
+    "postalCode": "7142583",
+    "accessCode": "zYim9OX5JSM0MXGV1C26",
+    "verified": false,
+    "verifyCode4": "6323",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-01T07:53:11.887Z"
   }
 ]

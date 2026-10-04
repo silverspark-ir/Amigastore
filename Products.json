@@ -8,7 +8,7 @@
       "https://s6.uupload.ir/files/ezgif-73fef5ed7421a0_k35x.gif"
     ],
     "price": 39000000,
-    "approved": false 
+    "approved": false
   },
   {
     "name": "مبدل درایو 1541 کمودور 64/128 و پلاس 4",
@@ -41,6 +41,17 @@
       "https://cdn.imgurl.ir/uploads/w335856_Screenshot_------_com.miui.gallery-edit.jpg"
     ],
     "price": 4900000,
+    "approved": true
+  },
+  {
+    "name": "اپلیکیشن حسابداری شخصی",
+    "description": "حسابداری شخصی، امن و آفلاین\n\nپول اپ یک اپلیکیشن حسابداری شخصی است که کاملاً آفلاین کار می‌کند. این اپ هیچ‌گونه دسترسی به اینترنت، دوربین، میکروفن یا موقعیت مکانی دستگاه شما ندارد. تمام اطلاعات مالی شما فقط روی گوشی خودتان ذخیره می‌شود و هیچ داده‌ای به خارج از دستگاه ارسال نمی‌گردد.\n\nامکانات:\n\n· ثبت درآمد و هزینه با دسته‌بندی‌های متنوع\n· ثبت و پیگیری سرمایه‌گذاری (طلا، بورس، رمزارز، سپرده بانکی و سایر)\n· گزارش ماهانه و روزانه با نمودار تفکیک هزینه‌ها\n· رابط کاربری نئونی و مدرن\n· کاملاً فارسی و ساده\n\nمزیت اصلی: ایمنی کامل، عدم اتصال به شبکه و اینترنت.\n\nساخته‌شده توسط c64spark",
+    "images": [
+      "https://cdn.imgurl.ir/uploads/v33466_Screenshot_------_com.pul.app-edit.jpg",
+      "https://cdn.imgurl.ir/uploads/i53859_Screenshot_------_com.pul.app-edit.jpg",
+      "https://cdn.imgurl.ir/uploads/a125006_Screenshot_------_com.pul.app-edit.jpg"
+    ],
+    "price": 99000,
     "approved": true
   }
 ]

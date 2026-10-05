@@ -178,5 +178,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-01T07:53:11.887Z"
+  },
+  {
+    "id": "member-1791237898094",
+    "name": "مبین ویسی",
+    "phone": "09058021388",
+    "province": "کرمانشاه",
+    "city": "کرمانشاه",
+    "address": "کرمانشاه دولت آباد کوچه درخشان",
+    "postalCode": "6719897381",
+    "accessCode": "S5JhxD06ZR8IOsOMRnSL",
+    "verified": false,
+    "verifyCode4": "8603",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-05T22:04:58.094Z"
   }
 ]

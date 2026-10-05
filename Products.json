@@ -53,5 +53,16 @@
     ],
     "price": 190000,
     "approved": true
+  },
+  {
+    "name": "پول اپ پرو / نسخهٔ کامل و مادام‌العمر",
+    "description": "یک‌بار خرید، مالکیت دائمی.\n\n• کاملاً آفلاین و ایزوله — داده‌هایت هرگز از گوشی بیرون نمی‌رود\n• بدون اشتراک ماهانه، بدون سرور، بدون وابستگی به اینترنت\n• لایسنس مادام‌العمر\n• ۲ سال پشتیبانی و آپدیت رایگان\n• کارت گارانتی فیزیکی با کد اختصاصی\n• بکاپ و بازیابی اطلاعات\n• پرینت گزارش‌ها\n• بودجه‌بندی ماهانه با هشدار هوشمند\n• مدیریت سرمایه‌گذاری با محاسبهٔ سود و ضرر",
+    "images": [
+      "https://cdn.imgurl.ir/uploads/g427506_Screenshot_------_com.pulapp.pro-edit.jpg",
+      "https://cdn.imgurl.ir/uploads/b700566_Screenshot_------_com.pulapp.pro-edit.jpg",
+      "https://cdn.imgurl.ir/uploads/z955672_Screenshot_------_com.pulapp.pro-edit.jpg"
+    ],
+    "price": 1190000,
+    "approved": true
   }
 ]

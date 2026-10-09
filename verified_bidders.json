@@ -194,5 +194,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-05T22:04:58.094Z"
+  },
+  {
+    "id": "member-1791531328842",
+    "name": "محمد",
+    "phone": "09194744643",
+    "province": "تهران",
+    "city": "ورامین",
+    "address": "ورامین روغن‌کشی 4راه هوانیروز خ حسین رضا خ حیدری ک امام سجاد پ7",
+    "postalCode": "3371697531",
+    "accessCode": "XDMjFGTkPAOUS5QIHs7J",
+    "verified": false,
+    "verifyCode4": "2099",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-09T07:35:28.842Z"
   }
 ]

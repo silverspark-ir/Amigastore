@@ -210,5 +210,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-09T07:35:28.842Z"
+  },
+  {
+    "id": "member-1791540961337",
+    "name": "امین",
+    "phone": "09194569349",
+    "province": "تهران",
+    "city": "تهران",
+    "address": "تهرانپارس،بلوارپروین",
+    "postalCode": "1655896183",
+    "accessCode": "g4JMkP1aV3bm8ZHMCm0a",
+    "verified": false,
+    "verifyCode4": "6586",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-09T10:16:01.337Z"
   }
 ]

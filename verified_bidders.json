@@ -226,5 +226,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-09T10:16:01.337Z"
+  },
+  {
+    "id": "member-1791546148234",
+    "name": "محمدجواد فیروز",
+    "phone": "۰۹۳۸۵۸۰۲۳۲۹",
+    "province": "مرکزی",
+    "city": "خمین",
+    "address": "خیابان فرهنگسرا",
+    "postalCode": "3881658386",
+    "accessCode": "vruQaZcvF8y91V1uBR86",
+    "verified": false,
+    "verifyCode4": "6768",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-09T11:42:28.234Z"
   }
 ]

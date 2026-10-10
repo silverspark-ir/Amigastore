@@ -306,5 +306,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-10T16:15:55.803Z"
+  },
+  {
+    "id": "member-1791654589671",
+    "name": "علی",
+    "phone": "09300990868",
+    "province": "گلستان",
+    "city": "مینودشت",
+    "address": "مینودشت",
+    "postalCode": "۴۸۸۷۵۲۱۳",
+    "accessCode": "Haf6w841UpOsksdaSwXl",
+    "verified": false,
+    "verifyCode4": "2176",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-10T17:49:49.671Z"
   }
 ]

@@ -290,5 +290,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-10T16:10:05.470Z"
+  },
+  {
+    "id": "member-1791648955803",
+    "name": "وحیدرضا قبادی پور",
+    "phone": "09058386062",
+    "province": "فارس",
+    "city": "شیراز",
+    "address": "میانرود_خیابان پارس _مجتمع فرهنگیان",
+    "postalCode": "7169616294",
+    "accessCode": "LRtZOflN5YsxkNC1Xe0N",
+    "verified": false,
+    "verifyCode4": "8123",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-10T16:15:55.803Z"
   }
 ]

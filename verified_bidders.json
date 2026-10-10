@@ -274,5 +274,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-09T17:11:53.246Z"
+  },
+  {
+    "id": "member-1791648605470",
+    "name": "سیاوش",
+    "phone": "09195257500",
+    "province": "تهران",
+    "city": "تهران",
+    "address": "خیابان جامی پلاک ۹۱",
+    "postalCode": "۱۸۶۹۱۱۵۳۲۴",
+    "accessCode": "72O7C25gPdd34EKovJ8F",
+    "verified": false,
+    "verifyCode4": "5200",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-10T16:10:05.470Z"
   }
 ]

@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "user-1791728803469",
+    "itemType": "سکه",
+    "name": "اشرفی فتحعلی شاه قاجار",
+    "price": 40000000,
+    "year": "از ۱۷۹۷ تا ۱۸۳۴ میلادی",
+    "country": "ایران",
+    "image1": "https://cdn.imgurl.ir/uploads/b7425_file_00000000bb04820e8c6f2b46923bda11.png",
+    "image2": "https://cdn.imgurl.ir/uploads/l508160_file_00000000a724820e9b57795799de3864.png",
+    "image3": "",
+    "description": "اشرفی طلای 11عیار\nوزن 1.77",
+    "active": true,
+    "views": 0,
+    "createdAt": "2026-10-11T14:26:43.469Z",
+    "sellerId": "member-1791648955803",
+    "sellerProvince": "فارس",
+    "sellerCity": "شیراز",
+    "discountRequests": [],
+    "purchaseRequest": null,
+    "purchaseVerified": false,
+    "sellerPaid": false,
+    "buyerFeedback": ""
+  }
+]

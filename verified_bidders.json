@@ -354,5 +354,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-11T13:41:52.596Z"
+  },
+  {
+    "id": "member-1791726323632",
+    "name": "بردیا باصولی",
+    "phone": "09172712771",
+    "province": "بوشهر",
+    "city": "بوشهر",
+    "address": "ستان بوشهر،شهر بوشهر،محله ی مخ بلند خیابان میثم تمار کوچه ی میثم 24 استقلال 1 انتهای کوچه ساختمان الناز 1",
+    "postalCode": "7516886436",
+    "accessCode": "dVV5TMyPqqfWCaeQ5bEY",
+    "verified": false,
+    "verifyCode4": "6822",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-11T13:45:23.632Z"
   }
 ]

@@ -338,5 +338,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-11T04:48:05.374Z"
+  },
+  {
+    "id": "member-1791726112596",
+    "name": "بردیا باصولی",
+    "phone": "09172712774",
+    "province": "بوشهر",
+    "city": "بوشهر",
+    "address": "مخ بلند خیابان میثم تمار کوچه ی میثم ۲۴ اولین فرعی سمت چپ کوچه ی استقلال یک انتهای کوچه ساختمان الناز یک",
+    "postalCode": "7516886436",
+    "accessCode": "rWHbFMhDqWVoCBAF6p6n",
+    "verified": false,
+    "verifyCode4": "7661",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-11T13:41:52.596Z"
   }
 ]

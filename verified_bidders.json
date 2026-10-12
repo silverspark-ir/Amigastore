@@ -370,5 +370,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-11T13:45:23.632Z"
+  },
+  {
+    "id": "member-1791812229768",
+    "name": "مهدی",
+    "phone": "09380214837",
+    "province": "گلستان",
+    "city": "گرگان",
+    "address": "سیمتری رسالت",
+    "postalCode": "4919676418",
+    "accessCode": "JaKCE7ueWVmIYN63CTtl",
+    "verified": false,
+    "verifyCode4": "7311",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-12T13:37:09.768Z"
   }
 ]

@@ -386,5 +386,21 @@
     "negativeScoreDetails": [],
     "participatedAuctions": [],
     "createdAt": "2026-10-12T13:37:09.768Z"
+  },
+  {
+    "id": "member-1791842408680",
+    "name": "ابراهیم",
+    "phone": "09906627995",
+    "province": "گلستان",
+    "city": "گمیشان",
+    "address": "دهنه",
+    "postalCode": "۴۸۹۵۱۷۳۰۰۹",
+    "accessCode": "xmYwsrtRIZHKHnPyjFzh",
+    "verified": false,
+    "verifyCode4": "3079",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-12T22:00:08.680Z"
   }
 ]

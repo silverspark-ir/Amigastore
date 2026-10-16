@@ -324,24 +324,6 @@
     "createdAt": "2026-10-10T17:49:49.671Z"
   },
   {
-    "id": "member-1791694085374",
-    "name": "ایمان",
-    "phone": "09024811338",
-    "province": "اذربایجان غربی",
-    "city": "ارومیه",
-    "address": "....",
-    "postalCode": "وکبات",
-    "accessCode": "1Unb7auKWkYn6LWKqAZT",
-    "verified": false,
-    "verifyCode4": "2366",
-    "negativeScore": 0,
-    "negativeScoreDetails": [],
-    "participatedAuctions": [],
-    "createdAt": "2026-10-11T04:48:05.374Z",
-    "rejected": true,
-    "blacklisted": false
-  },
-  {
     "id": "member-1791726112596",
     "name": "بردیا باصولی",
     "phone": "09172712774",

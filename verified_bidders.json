@@ -216,5 +216,28 @@
     "createdAt": "2026-10-16T17:26:04.402Z",
     "rejected": false,
     "blacklisted": false
+  },
+  {
+    "id": "member-1792186488803",
+    "name": "عاب محمدی",
+    "firstName": "عاب",
+    "lastName": "محمدی",
+    "phone": "09369323222",
+    "province": "اصفهان",
+    "city": "شهرضا",
+    "mainStreet": "ولیعصر",
+    "sideStreet": "بهشتی",
+    "alley": "۱۴",
+    "plaque": "۱۱۱",
+    "unit": "2",
+    "address": "استان اصفهان، شهر شهرضا، خیابان اصلی ولیعصر، خیابان فرعی بهشتی، کوچه ۱۴، پلاک ۱۱۱، واحد 2",
+    "postalCode": "3666669999",
+    "accessCode": "obignhOR90EbhYGLNftQ",
+    "verified": false,
+    "verifyCode4": "3387",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-16T21:34:48.803Z"
   }
 ]

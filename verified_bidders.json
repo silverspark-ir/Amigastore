@@ -401,7 +401,9 @@
     "negativeScore": 0,
     "negativeScoreDetails": [],
     "participatedAuctions": [],
-    "createdAt": "2026-10-12T22:00:10.439Z"
+    "createdAt": "2026-10-12T22:00:10.439Z",
+    "rejected": true,
+    "blacklisted": false
   },
   {
     "id": "member-1792095149099",

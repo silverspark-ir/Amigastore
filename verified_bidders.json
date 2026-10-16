@@ -449,6 +449,8 @@
     "negativeScore": 0,
     "negativeScoreDetails": [],
     "participatedAuctions": [],
-    "createdAt": "2026-10-16T10:23:58.236Z"
+    "createdAt": "2026-10-16T10:23:58.236Z",
+    "rejected": true,
+    "blacklisted": false
   }
 ]

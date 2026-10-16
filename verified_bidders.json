@@ -304,5 +304,21 @@
     "createdAt": "2026-10-16T10:23:58.236Z",
     "rejected": true,
     "blacklisted": false
+  },
+  {
+    "id": "member-1792171564402",
+    "name": "مجید روح الله زاده",
+    "phone": "09119879137",
+    "province": "گیلان",
+    "city": "رضوانشهر",
+    "address": "استان گیلان، خ ۲۲بهمن ، بیگزادمحله، منازل پیش ساخته، کوچه نسیم سه",
+    "postalCode": "۴۳۸۴۱۸۵۶۵۶",
+    "accessCode": "3maFz4iK4qV2lHKA5irh",
+    "verified": false,
+    "verifyCode4": "3005",
+    "negativeScore": 0,
+    "negativeScoreDetails": [],
+    "participatedAuctions": [],
+    "createdAt": "2026-10-16T17:26:04.402Z"
   }
 ]

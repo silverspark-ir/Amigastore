@@ -288,24 +288,6 @@
     "blacklisted": false
   },
   {
-    "id": "member-1792146238236",
-    "name": "محمد",
-    "phone": "09183673641",
-    "province": "مرکزی",
-    "city": "اراک",
-    "address": "ادبجو",
-    "postalCode": "۳۸۱۴۸۳۵۴۷۱",
-    "accessCode": "izKXoo1GcJxQMV5hZtVX",
-    "verified": false,
-    "verifyCode4": "8087",
-    "negativeScore": 0,
-    "negativeScoreDetails": [],
-    "participatedAuctions": [],
-    "createdAt": "2026-10-16T10:23:58.236Z",
-    "rejected": true,
-    "blacklisted": false
-  },
-  {
     "id": "member-1792171564402",
     "name": "مجید روح الله زاده",
     "phone": "09119879137",
